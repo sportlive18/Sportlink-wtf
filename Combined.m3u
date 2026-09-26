@@ -9,22 +9,22 @@ https://dai-fancode.pages.dev/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Ruud/Zverev vs Bublik/Nakashima - Day 2 - Session 2 - 26 Sep 2026 [ENG] - Laver Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024854/1790381189139346_Laver_cup26_Ruud_Zverev_vs_Bublik_Nakashima_day2_session2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Ruud/Zverev vs Bublik/Nakashima - Day 2 - Session 2 - 26 Sep 2026 [ENG] - Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790501318~acl=/*~id=86403931303394679867741502035683~hmac=be0485bd00f5c1047b1e65a63d262a09aeb0f502f4d3bf1e08443759f49bc1ac
+https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790503133~acl=/*~id=60463425258313407302545396211334~hmac=95c70a08dbb2bf4cc7f2d77f0f1fd7289c23ac3204754d644d60a4b522ac69a9
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 AM 27-09-2026
+#LAST_UPDATE:04:02 AM 27-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:16
 
-#===== Prime Video | Sportlink (6 channels) =====
+#===== Prime Video | Sportlink (7 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 AM 27-09-2026
+#LAST_UPDATE:04:02 AM 27-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
+#LIVE_COUNT:7
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HJBW2521" tvg-name="NASCAR Late Models-Live: ValleyStar Credit Union 300 from Martinsville @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e14c86f-d40c-4272-871b-851c27af20bf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",NASCAR Late Models-Live: ValleyStar Credit Union 300 from Martinsville
@@ -32,14 +32,21 @@ https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GSR96497" tvg-name="QMJHL Hockey: Charlottetown Islanders vs Moncton Wildcats @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b573aec-6c4f-4967-b058-deaeac660502/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",QMJHL Hockey: Charlottetown Islanders vs Moncton Wildcats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJMHJ6JW" tvg-name="QMJHL Hockey: Cape Breton Eagles vs Saint John Sea Dogs @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6899d39-c8c7-47e3-a271-72746d138c9b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",QMJHL Hockey: Cape Breton Eagles vs Saint John Sea Dogs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKNN8XM2" tvg-name="Warner at Clark Atlanta @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80e561e6-1f4d-4eb4-81a9-202030a77937/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Warner at Clark Atlanta
 #KODIPROP:inputstream=inputstream.adaptive
@@ -48,74 +55,62 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HKFTTT55" tvg-name="FloWrestling Who’s Number One presented by Cliff Keen - Women's Event @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.084bf16b-f222-414d-804b-f00f2bccbb4b/30/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",FloWrestling Who’s Number One presented by Cliff Keen - Women's Event
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HGMRT1TW" tvg-name="Season 2026 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b43044b4-6ba3-4cb7-8a8e-e0a47b371ce3/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Season 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
-#===== AXS | Sportlink (13 channels) =====
+#EXTINF:-1 tvg-id="B0HHQ9SHKP" tvg-name="NWSL On ION Pre Match Show 9/26/26 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.446a6f6b-88ab-4303-8388-830c5ceda42e/20/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",NWSL On ION Pre Match Show 9/26/26
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
+
+#===== AXS | Sportlink (10 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:32:30 AM 27-09-2026
-
-#EXTINF:-1 tvg-name="Buffalo Sabres vs Pittsburgh Penguins - NHL @virat10" tvg-id="80045" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Buffalo%20Sabres%20vs%20Pittsburgh%20Penguins.jpg" group-title="AXS | Sportlink", Buffalo Sabres vs Pittsburgh Penguins - NHL
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790544753-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d3c7a274a9e7d5a3924bb115bbb4926
-
-#EXTINF:-1 tvg-name="Toronto Blue Jays vs Cincinnati Reds - MLB @virat10" tvg-id="79212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Cincinnati%20Reds.jpg" group-title="AXS | Sportlink", Toronto Blue Jays vs Cincinnati Reds - MLB
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790544756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6e220fa0e793bdb40b342d0901c72628
+#last update time: 4:02:24 AM 27-09-2026
 
 #EXTINF:-1 tvg-name="San Francisco Giants vs Los Angeles Dodgers - MLB @virat10" tvg-id="79213" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="AXS | Sportlink", San Francisco Giants vs Los Angeles Dodgers - MLB
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790544759-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e238b9a3b5357b477ba4668c4c9397c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790546546-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e37197cb1060aabc01d66d4406c18913
 
 #EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves - MLB @virat10" tvg-id="79215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Atlanta%20Braves.jpg" group-title="AXS | Sportlink", Miami Marlins vs Atlanta Braves - MLB
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790544762-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e6851a262f2735c0b530ac0b2e0b5a12
-
-#EXTINF:-1 tvg-name="Utah Mammoth vs Colorado Avalanche - NHL @virat10" tvg-id="80049" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utah%20Mammoth%20vs%20Colorado%20Avalanche.jpg" group-title="AXS | Sportlink", Utah Mammoth vs Colorado Avalanche - NHL
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52442/720p/chunks.m3u8?is_vip=false&token=1790544764-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3e623ce65f0143beec4c4cc439434b28
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790546549-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-80c62c1a9c619346dcc23c3a69041a70
 
 #EXTINF:-1 tvg-name="Philadelphia Flyers vs Washington Capitals - NHL @virat10" tvg-id="80048" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Flyers%20vs%20Washington%20Capitals.jpg" group-title="AXS | Sportlink", Philadelphia Flyers vs Washington Capitals - NHL
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52443/720p/chunks.m3u8?is_vip=false&token=1790544767-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f02a17e919b8e534690dda6f985ffb81
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52443/720p/chunks.m3u8?is_vip=false&token=1790546552-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a1af1aa5bc38e84d939fc6d7c5140bab
+
+#EXTINF:-1 tvg-name="Florida Panthers vs Tampa Bay Lightning - NHL @virat10" tvg-id="80050" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Florida%20Panthers%20vs%20Tampa%20Bay%20Lightning.jpg" group-title="AXS | Sportlink", Florida Panthers vs Tampa Bay Lightning - NHL
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52444/720p/chunks.m3u8?is_vip=false&token=1790546554-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aceac509bbe28d9b025cc2033a53c313
 
 #EXTINF:-1 tvg-name="FCC 47 - MMA @virat10" tvg-id="70036" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FCC%2047.jpg" group-title="AXS | Sportlink", FCC 47 - MMA
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1790544771-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bba369833bbe06872a113324d7c19c91
-
-#EXTINF:-1 tvg-name="Saint Martin vs US Virgin Islands - CONCACAF Nations League @virat10" tvg-id="69942" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saint%20Martin%20vs%20US%20Virgin%20Islands.jpg" group-title="AXS | Sportlink", Saint Martin vs US Virgin Islands - CONCACAF Nations League
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fd5acdaf8f9c59caa7ec6/chunks.m3u8?is_vip=false&token=1790544785-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a9aaf451a63a33ad4a02205dad3d3f97
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1790546556-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1b937940c52dc50ebcc1dd8efe199464
 
 #EXTINF:-1 tvg-name="USA vs Peru - Friendlies [Server 1] @virat10" tvg-id="66578" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20vs%20Peru.jpg" group-title="AXS | Sportlink", USA vs Peru - Friendlies [Server 1]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab40cc0018287f1ce9439d9/chunks.m3u8?is_vip=false&token=1790544791-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d5279fbf8f847f93d5d17db1124ae1ae
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab40cc0018287f1ce9439d9/chunks.m3u8?is_vip=false&token=1790546562-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5648b761d4b09999ef8033242be2b80d
 
 #EXTINF:-1 tvg-name="USA vs Peru - Friendlies [Server 2] @virat10" tvg-id="66578" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20vs%20Peru.jpg" group-title="AXS | Sportlink", USA vs Peru - Friendlies [Server 2]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab40cc0018287f1ce9439d9-fhd/chunks.m3u8?is_vip=false&token=1790544792-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98e9c65c6348fd556309fc2c52265b10
-
-#EXTINF:-1 tvg-name="St. Vincent / Grenadines vs French Guyana - CONCACAF Nations League @virat10" tvg-id="69943" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Vincent%20%20Grenadines%20vs%20French%20Guyana.jpg" group-title="AXS | Sportlink", St. Vincent / Grenadines vs French Guyana - CONCACAF Nations League
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fd5acdaf8f9c59caa7ec7/chunks.m3u8?is_vip=false&token=1790544795-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b77bea747cde6453f6e374194764432e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab40cc0018287f1ce9439d9-fhd/chunks.m3u8?is_vip=false&token=1790546562-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-53b13d5bbde5f6c7e87967ab1b167921
 
 #EXTINF:-1 tvg-name="PRELIMS - UFC FIGHT NIGHT @virat10" tvg-id="70037" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS.jpg" group-title="AXS | Sportlink", PRELIMS - UFC FIGHT NIGHT
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790544798-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-45f246b02d6c0adf9f2ca60fb940e381
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790546565-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cc909b94f9cb9600636b45e1d99994e5
+
+#EXTINF:-1 tvg-name="St. Vincent / Grenadines vs French Guyana - CONCACAF Nations League @virat10" tvg-id="69943" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Vincent%20%20Grenadines%20vs%20French%20Guyana.jpg" group-title="AXS | Sportlink", St. Vincent / Grenadines vs French Guyana - CONCACAF Nations League
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fd5acdaf8f9c59caa7ec7/chunks.m3u8?is_vip=false&token=1790546569-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-75cb230a16b5a36d853974c691d481f8
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
