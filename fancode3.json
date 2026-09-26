@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 4:55:32 am",
+  "updatedAt": "27/9/2026, 5:23:52 am",
   "total_matches": 40,
   "live_matches": 0,
   "upcoming_matches": 40,
@@ -367,6 +367,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Delhi Dynamos vs Noida Ninjas",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249303",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -393,25 +412,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Delhi Dynamos vs Noida Ninjas",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249303",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
