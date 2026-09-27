@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 7:25:36 pm",
+  "updatedAt": "27/9/2026, 8:05:54 pm",
   "total_matches": 40,
   "live_matches": 8,
   "upcoming_matches": 32,
@@ -308,6 +308,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Arsenal Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248490",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Delhi Dynamos vs Noida Ninjas",
       "tournament": "NCR T20 League, 2026",
@@ -334,25 +353,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea F.C. Women vs Arsenal Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248490",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -460,6 +460,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Sharjah vs Emirates Blues",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250058",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -486,25 +505,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah vs Emirates Blues",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250058",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
