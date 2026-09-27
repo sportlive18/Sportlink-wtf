@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "08:42:13 PM 27-09-2026",
-    "generated_at": "2026-09-27 15:15:38",
+    "source_last_updated": "09:02:23 PM 27-09-2026",
+    "generated_at": "2026-09-27 15:35:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 6,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,39 +88,20 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4248488,
-            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Liverpool Women vs Everton Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-            "team_1": "Liverpool Women",
-            "team_2": "Everton Women",
-            "status": "LIVE",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "UNKNOWN",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248488/unknown.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4248489_ENG",
+            "match_id": "4248490_ENG",
             "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women [English]",
+            "match_name": "Chelsea F.C. Women vs Arsenal Women [English]",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Arsenal Women",
             "status": "LIVE",
-            "startTime": "06:30:00 PM 27-09-2026",
+            "startTime": "09:00:00 PM 27-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248489_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248490_ENG/english.m3u8"
                 }
             ]
         },
@@ -174,19 +155,6 @@
             "team_2": "Noida Ninjas",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 28-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248490,
-            "title": "Chelsea F.C. Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Arsenal Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Arsenal Women",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -255,19 +223,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249107,
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250058,
             "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
@@ -278,6 +233,19 @@
             "team_2": "Emirates Blues",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 28-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249107,
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -564,6 +532,32 @@
             "team_2": "Toronto Sixers",
             "status": "UPCOMING",
             "startTime": "07:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249813,
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250041,
+            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Chakradharpur Royals",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 30-09-2026",
             "user-agent": null
         }
     ],
@@ -646,39 +640,20 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4248488,
-            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Liverpool Women vs Everton Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-            "team_1": "Liverpool Women",
-            "team_2": "Everton Women",
-            "status": "LIVE",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "UNKNOWN",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248488/unknown.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4248489_ENG",
+            "match_id": "4248490_ENG",
             "title": "Barclays Women's Super League 2026-27 [English]",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women [English]",
+            "match_name": "Chelsea F.C. Women vs Arsenal Women [English]",
             "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Arsenal Women",
             "status": "LIVE",
-            "startTime": "06:30:00 PM 27-09-2026",
+            "startTime": "09:00:00 PM 27-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248489_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248490_ENG/english.m3u8"
                 }
             ]
         }
@@ -734,19 +709,6 @@
             "team_2": "Noida Ninjas",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 28-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248490,
-            "title": "Chelsea F.C. Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Arsenal Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Arsenal Women",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -815,19 +777,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249107,
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250058,
             "title": "Sharjah vs Emirates Blues (Emirates D10, 2026)",
@@ -838,6 +787,19 @@
             "team_2": "Emirates Blues",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 28-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249107,
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -1124,6 +1086,32 @@
             "team_2": "Toronto Sixers",
             "status": "UPCOMING",
             "startTime": "07:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249813,
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250041,
+            "title": "Jagannathpur Tigers vs Chakradharpur Royals (West Singhbhum T20 League 2026)",
+            "match_name": "Jagannathpur Tigers vs Chakradharpur Royals",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Jagannathpur Tigers",
+            "team_2": "Chakradharpur Royals",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 30-09-2026",
             "user-agent": null
         }
     ]

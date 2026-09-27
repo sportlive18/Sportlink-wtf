@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 8:52:43 pm",
+  "updatedAt": "27/9/2026, 9:07:29 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -133,39 +133,6 @@
           },
           "cookie": "hdntl=Expires=1790599850~_GO=Generated~acl=/mumbai/4248487_english_hls_4ed5c6da4612834_1ta-di_h264/*~Signature=AUh_zpVQsRL5JXGThe3Opui-mrbB7fq03HekTM9hlwMPdOzqdD-4l12xoguKaFFbqOVrM88JsqdZvxdsna1AmSzrR98K",
           "expires": "1790599850",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Tottenham Hotspur Women vs Aston Villa Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248489",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/240p.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/360p.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/480p.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/540p.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/720p.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A"
-          },
-          "cookie": "hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
-          "expires": "1790599862",
           "expire_date": ""
         }
       }
@@ -838,6 +805,25 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 AM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Jagannathpur Tigers vs Chakradharpur Royals",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250041",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
