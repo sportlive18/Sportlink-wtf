@@ -9593,11 +9593,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_North_East_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=521f555c43e25d75a2a532a35358cee6:8822f0168bbf58fb70f4171c92ad61bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790542140~exp=1790545740~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=230232240139eecbbe9b6628b6e41662abdd22dbb24aabf9891a75d80cfa0f9d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790545736~exp=1790549336~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=29badcc46c966579923dce1ae2c77643ef69a8d5ae3c88e6e66b02d6de0d074f
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790542140~exp=1790545740~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=230232240139eecbbe9b6628b6e41662abdd22dbb24aabf9891a75d80cfa0f9d
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790542140~exp=1790545740~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=230232240139eecbbe9b6628b6e41662abdd22dbb24aabf9891a75d80cfa0f9d"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790545736~exp=1790549336~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=29badcc46c966579923dce1ae2c77643ef69a8d5ae3c88e6e66b02d6de0d074f
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790545736~exp=1790549336~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=29badcc46c966579923dce1ae2c77643ef69a8d5ae3c88e6e66b02d6de0d074f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2764" tvg-name="News State Bihar Jharkhand" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NewsState_Bihar_JH.png" group-title="News",News State Bihar Jharkhand
