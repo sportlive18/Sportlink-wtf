@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:11:26 PM 27-09-2026",
-    "generated_at": "2026-09-27 13:50:07",
+    "source_last_updated": "07:21:32 PM 27-09-2026",
+    "generated_at": "2026-09-27 14:00:03",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 7,
-    "upcoming_matches_count": 33,
+    "live_matches_count": 8,
+    "upcoming_matches_count": 32,
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,6 +45,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249302_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249584_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Puri Titans vs Sambalpur Warriors [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "startTime": "07:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249584_ENG/english.m3u8"
                 }
             ]
         },
@@ -142,19 +161,6 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248548_ENG/english.m3u8"
                 }
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249584,
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -613,6 +619,25 @@
             ]
         },
         {
+            "event_category": "Cricket",
+            "match_id": "4249584_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Puri Titans vs Sambalpur Warriors [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "startTime": "07:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249584_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Football",
             "match_id": "4248486_ENG",
             "title": "Barclays Women's Super League 2026-27 [English]",
@@ -709,19 +734,6 @@
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249584,
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249576,
