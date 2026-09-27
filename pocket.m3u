@@ -1381,11 +1381,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaaiTV" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png" tvg-region="United Kingdom" group-title="Overseas",Thaai TV
 https://cd198.anystream.uk:9092/kaneen/thailive/playlist.m3u8
 
-#EXTINF:-1  tvg-name="" group-title="Overseas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF39wbYOZ7rUEhw10r2i-8KrVCgaSS9qowlP3MCLCs_KswPBgmL1u2ZR8H&s=10",TTN TV
-https://5e5679f71b925.streamlock.net:442/live/ttntv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="Overseas",Britain Tamil Bhakthi
 http://btc.inet.moe/live/btctv/index.m3u8
+
+#EXTINF:-1 tvg-id="IthazhTV" tvg-logo="https://play-lh.googleusercontent.com/WOVl9OoVhMuStsl6ws9HTXQZrQgk__GjErulmJpy7JnCxOp0yDc5e0SThZ5lIF87xrY" tvg-region="Unknown" group-title="Overseas",Ithazh TV
+http://148.113.170.17:8091/ithal/index.m3u8
 
 #EXTINF:-1 tvg-id="EuroTamil" tvg-logo="https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png" tvg-region="Europe" group-title="Overseas",Euro Tamil
 http://198.144.149.206:8080/DINESH/EURO/index.m3u8?token=YAAL
@@ -1577,9 +1577,9 @@ https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1 tvg-id="jio-3409" tvg-name="ROJA TV" tvg-logo="https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png" group-title="Local Channels", ROJA TV
+#EXTINF:-1 tvg-id="3409" tvg-name="ROJA TV" tvg-logo="https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png" group-title="Local Channels", ROJA TV
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RockTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" tvg-region="Salem" group-title="Local Channels",Rock TV
+#EXTINF:-1 tvg-id="3356" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" tvg-region="Salem" group-title="Local Channels",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="OLITV" tvg-name="OLI TV" tvg-logo="https://i.ibb.co/tPsBQWky/logo-png.png" group-title="Local Channels", OLI TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
