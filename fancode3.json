@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 4:23:47 pm",
+  "updatedAt": "27/9/2026, 4:32:00 pm",
   "total_matches": 40,
   "live_matches": 6,
   "upcoming_matches": 34,
@@ -299,6 +299,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Delhi Dynamos vs Noida Ninjas",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249303",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Birmingham City F.C. Women vs Crystal Palace Women",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -344,25 +363,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 27-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Delhi Dynamos vs Noida Ninjas",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249303",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
