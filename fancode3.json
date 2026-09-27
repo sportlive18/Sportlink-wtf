@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 10:25:18 pm",
+  "updatedAt": "27/9/2026, 10:35:11 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -67,6 +67,39 @@
           },
           "cookie": "hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
           "expires": "1790608938",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4 - World Feed [English]",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249107",
+      "status": "LIVE",
+      "startTime": "10:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/240p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/360p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/480p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/540p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/720p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB"
+          },
+          "cookie": "hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
+          "expires": "1790614389",
           "expire_date": ""
         }
       }
@@ -243,25 +276,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 4 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249107",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Sharjah vs Emirates Blues",
       "tournament": "Emirates D10, 2026",
@@ -338,13 +352,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Leganes vs Castellón",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249272",
+      "category": "Cricket",
+      "title": "New South Wales Breakers vs Queensland Fire",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": "4249528",
       "status": "UPCOMING",
-      "startTime": "12:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+      "startTime": "05:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -357,13 +371,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "New South Wales Breakers vs Queensland Fire",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": "4249528",
+      "category": "Football",
+      "title": "Leganes vs Castellón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249272",
       "status": "UPCOMING",
-      "startTime": "05:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
+      "startTime": "12:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
