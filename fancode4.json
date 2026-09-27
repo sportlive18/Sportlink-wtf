@@ -2,14 +2,33 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "12:37:48 PM 27-09-2026",
-    "generated_at": "2026-09-27 07:15:39",
+    "source_last_updated": "12:47:55 PM 27-09-2026",
+    "generated_at": "2026-09-27 07:25:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 38,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 37,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "match_id": "4249299_ENG",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Noida Ninjas vs Faridabad Firebirds [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+            "team_1": "Noida Ninjas",
+            "team_2": "Faridabad Firebirds",
+            "status": "LIVE",
+            "startTime": "01:00:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249299_ENG/english.m3u8"
+                }
+            ]
+        },
         {
             "event_category": "Tennis",
             "match_id": "4248541_ENG",
@@ -47,19 +66,6 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248548_ENG/english.m3u8"
                 }
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249299,
-            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 27-09-2026",
-            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -545,6 +551,25 @@
     ],
     "live_matches": [
         {
+            "event_category": "Cricket",
+            "match_id": "4249299_ENG",
+            "title": "NCR T20 League, 2026 [English]",
+            "match_name": "Noida Ninjas vs Faridabad Firebirds [English]",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+            "team_1": "Noida Ninjas",
+            "team_2": "Faridabad Firebirds",
+            "status": "LIVE",
+            "startTime": "01:00:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249299_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Tennis",
             "match_id": "4248541_ENG",
             "title": "ATP 250 - Chengdu Open 2026 [English]",
@@ -584,19 +609,6 @@
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249299,
-            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 27-09-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249779,

@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 12:38:25 pm",
+  "updatedAt": "27/9/2026, 12:52:55 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Noida Ninjas vs Faridabad Firebirds [English]",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249299",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/240p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/360p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/480p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/540p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/720p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D"
+          },
+          "cookie": "hdntl=Expires=1790579874~_GO=Generated~acl=/mumbai/4249299_english_hls_1b3ba15c2187784_1ta-di_h264/*~Signature=AUh_zpVnmztujhfvkYZYLFsp6JX7nafqmKCJWav5WMUMMLiDVK6IduTVuwrp2tYExJuUeoeVEpw02wwL3NcImUCqP30D",
+          "expires": "1790579874",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "Day 5 [English]",
@@ -70,25 +103,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Ninjas vs Faridabad Firebirds",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249299",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
