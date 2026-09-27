@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 5:12:54 pm",
+  "updatedAt": "27/9/2026, 5:23:25 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -100,6 +100,39 @@
           },
           "cookie": "hdntl=Expires=1790594403~_GO=Generated~acl=/mumbai/4249302_english_hls_fa26b726d87342_1ta-di_h264/*~Signature=AUh_zpUl9USTWNwAiJMjdX8EzU_r0CrJ2fIB1YF9ELEBLr9bL1OtwlnIIXb11Uhkb3k8zrv5O9XLkB26hVi_esY21YMP",
           "expires": "1790594403",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United Women vs West Ham United Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248486",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/240p.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/360p.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/480p.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/540p.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/720p.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO"
+          },
+          "cookie": "hdntl=Expires=1790596219~_GO=Generated~acl=/mumbai/4248486_english_hls_cfce1fdb1055389_1ta-di_h264/*~Signature=AUh_zpUdLYD_WPE17wPKdVA7DA4lC0xpwoIpoG-Nex3dgCU98V-DKA6HPC8LRiIYwNJYnl7C8AwyZieXHLWy8BNI-ekO",
+          "expires": "1790596219",
           "expire_date": ""
         }
       }
@@ -216,25 +249,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249301_53073_YAW_CRU_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United Women vs West Ham United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248486",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
