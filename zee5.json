@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "02:45:11 PM 27-09-2026",
+  "last_updated": "05:15:05 PM 27-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,42 +15,7 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [
-    {
-      "id": "0-1-6z51083182",
-      "title": "PH Vs DW",
-      "description": "Watch Pithoragarh Hurricanes Vs Dehradun Warriors LIVE & Exclusive only on ZEE5. UPL'26",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Sunday, 27 September 2026",
-      "languages": [
-        "hindi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083182/list/1920x1080listb52c86a4561045769995cd0411cfb0f7bf1bc1a9291a4345bcf9e6a9250d3139.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083182/cover/1920x770b2cab1d669bf4248a47c6faeaa1a26c92cf034721d8044599b80f2c69d1cce2f4b64b37e8c9640638344c0386a75c535.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083182/appCover/1920x1080appcover4c31eadebbf34b0baf30fd3b6b92a0ec223a80c63413437e908580fba47aed52.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083182/verticalBanner/845x1080452b6053933e45f98a39a0586d457edbb0a54192141049f0aada8816c8888f94.jpg"
-      },
-      "playback": {
-        "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Monday 28th of September 2026 02:45:11 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_360p.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_480p.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_576P.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_720p.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_1080p.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/UPL-M19_ENG/master_aud.m3u8?hdntl=exp=1790586911~acl=%2f*~id=0-1-6z51083182_ae11860d-1b94-4117-951f-aeec0f1afcc1~data=hdntl,2109037,UPL-M19,ENG,034e471105326d41a34beb60905b66e5ff6827353e0f9a8180579c8ef2bb6f1e~hmac=c1a44906a4dbcc534b53e176db4b3061cf399611ab37c0bce038af5b979f756f\""
-        }
-      }
-    }
-  ],
+  "matches": [],
   "upcoming": {
     "0-1-6z51084794": {
       "id": "0-1-6z51084794",
@@ -101,5 +66,6 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
       }
     }
-  }
+  },
+  "status": "Offline / No Matches"
 }
