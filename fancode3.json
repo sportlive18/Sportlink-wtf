@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 7:05:10 pm",
+  "updatedAt": "27/9/2026, 7:15:24 pm",
   "total_matches": 40,
-  "live_matches": 9,
-  "upcoming_matches": 31,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -34,39 +34,6 @@
           },
           "cookie": "hdntl=Expires=1790581085~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpXFFvBB8PuYQyTwqkTbh5t9O99Uz2sf4GLwTO5cw_FC4K23xHq_UDqNKAUSqVOmXusOwFRDws5oXvKk6aY-YtcN",
           "expires": "1790581085",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Rourkela Superstars vs Keonjhar Miners [English]",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249585",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/240p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/360p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/480p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/540p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/720p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK"
-          },
-          "cookie": "hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
-          "expires": "1790585322",
           "expire_date": ""
         }
       }
@@ -232,39 +199,6 @@
           },
           "cookie": "hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
           "expires": "1790599862",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5 [English]",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": "4248541",
-      "status": "LIVE",
-      "startTime": "10:30:00 AM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/240p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/360p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/480p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/540p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/720p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J"
-          },
-          "cookie": "hdntl=Expires=1790599864~_GO=Generated~acl=/mumbai/4248541_english_hls_0b8ad6b83074722_1ta-di_h264/*~Signature=AUh_zpV7yAwiB5SnQ7R0aRxSyAuyjI0xvVhXn-Z5a6ANHRbSCja8VGXKwLpBJ_mfB1JvIHMGDA4P3wD70z4X1hvqvP4J",
-          "expires": "1790599864",
           "expire_date": ""
         }
       }
@@ -880,6 +814,44 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Toronto Sixers Women vs Vancouver Warriors Women",
+      "tournament": "Canada Super 60 Women, 2026",
+      "match_id": "4249829",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "White Rock Warriors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249811",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
