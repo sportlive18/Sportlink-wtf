@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" updated="2026-09-27T09:12:30Z"
+#EXTM3U x-tvg-url="" updated="2026-09-27T09:41:07Z"
 
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="English",CNBC TV18 Prime
 #KODIPROP:inputstream=inputstream.adaptive
@@ -53,11 +53,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f20fb86cf6857b4b9048772dc9edc10:5bc8fcee5dd070516dbdc665d3df989d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497431~exp=1790501031~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=62e13f5055edcf3155eaa494387bba0fb79fa87671e71e0ec0604fbc05fb45fe
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501034~exp=1790504634~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=95b2979142bac6e12dd3685a063989e8f6e08653c5bf6547b61961888c0529f3
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497431~exp=1790501031~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=62e13f5055edcf3155eaa494387bba0fb79fa87671e71e0ec0604fbc05fb45fe
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497431~exp=1790501031~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=62e13f5055edcf3155eaa494387bba0fb79fa87671e71e0ec0604fbc05fb45fe"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501034~exp=1790504634~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=95b2979142bac6e12dd3685a063989e8f6e08653c5bf6547b61961888c0529f3
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501034~exp=1790504634~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=95b2979142bac6e12dd3685a063989e8f6e08653c5bf6547b61961888c0529f3"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
@@ -669,11 +669,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Wion_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790496827~exp=1790500427~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=3dffb3aee5c338c44f7f9e820fa24e77bd18d9dd52d81c80fdfd8dfed2486001
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790500423~exp=1790504023~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=04a0f2595c71d17293a05ddec243daf859d71abbb0999fdab876319a0e27383c
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790496827~exp=1790500427~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=3dffb3aee5c338c44f7f9e820fa24e77bd18d9dd52d81c80fdfd8dfed2486001
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790496827~exp=1790500427~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=3dffb3aee5c338c44f7f9e820fa24e77bd18d9dd52d81c80fdfd8dfed2486001"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790500423~exp=1790504023~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=04a0f2595c71d17293a05ddec243daf859d71abbb0999fdab876319a0e27383c
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790500423~exp=1790504023~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=04a0f2595c71d17293a05ddec243daf859d71abbb0999fdab876319a0e27383c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="414" tvg-name="Zee Yuva" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeYuva.png" group-title="Marathi",Zee Yuva
@@ -681,11 +681,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48e6651418f51e89ae6cf9d5ce11b98:f3333c49b77751c4cdc874908ebe7c31
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497434~exp=1790501034~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=e974091ad56614a4deee22a808e298894fdaa18457f2c1399408e724f6787f8e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501039~exp=1790504639~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=438005f6ccc342e05e1075b02cbfe8ae2c10e6abc4d47aaa955f0e2ee4e91b69
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497434~exp=1790501034~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=e974091ad56614a4deee22a808e298894fdaa18457f2c1399408e724f6787f8e
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497434~exp=1790501034~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=e974091ad56614a4deee22a808e298894fdaa18457f2c1399408e724f6787f8e"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501039~exp=1790504639~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=438005f6ccc342e05e1075b02cbfe8ae2c10e6abc4d47aaa955f0e2ee4e91b69
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501039~exp=1790504639~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=438005f6ccc342e05e1075b02cbfe8ae2c10e6abc4d47aaa955f0e2ee4e91b69"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="Movies",Zee Anmol Cinema
@@ -693,11 +693,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497394~exp=1790500994~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=02968c404e48098c53c7e7eaf53c3dd9e9d0673fc5e1d9b0261a4d000aea62ed
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790500992~exp=1790504592~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=88c753e1cf145580ad4cb1a744568190fe6f6b6c318a2480e93d5ae06ca7f92f
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497394~exp=1790500994~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=02968c404e48098c53c7e7eaf53c3dd9e9d0673fc5e1d9b0261a4d000aea62ed
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497394~exp=1790500994~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=02968c404e48098c53c7e7eaf53c3dd9e9d0673fc5e1d9b0261a4d000aea62ed"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790500992~exp=1790504592~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=88c753e1cf145580ad4cb1a744568190fe6f6b6c318a2480e93d5ae06ca7f92f
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790500992~exp=1790504592~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=88c753e1cf145580ad4cb1a744568190fe6f6b6c318a2480e93d5ae06ca7f92f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
@@ -805,11 +805,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6926b72412225200bc3622da23dfd90c:07a39d35219cfb5fdcc84213491bf302
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497436~exp=1790501036~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=f4bdb2a40cfc0d3a4ffef0aeef0c09225bb6450f1edf55d5caf467c92cced5bc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501043~exp=1790504643~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=3530faacc8375c5b39cf3f2537ca9ab3a07e0b2e3b4489bcb5fb31533cb4fd9e
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497436~exp=1790501036~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=f4bdb2a40cfc0d3a4ffef0aeef0c09225bb6450f1edf55d5caf467c92cced5bc
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497436~exp=1790501036~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=f4bdb2a40cfc0d3a4ffef0aeef0c09225bb6450f1edf55d5caf467c92cced5bc"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501043~exp=1790504643~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=3530faacc8375c5b39cf3f2537ca9ab3a07e0b2e3b4489bcb5fb31533cb4fd9e
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501043~exp=1790504643~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=3530faacc8375c5b39cf3f2537ca9ab3a07e0b2e3b4489bcb5fb31533cb4fd9e"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bengali",Jalsha Movies HD
@@ -1009,11 +1009,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da42ae25046f5ba980f0fe4cc2e5e33e:ea7fd965094ff9b933e3fb654466f19f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497437~exp=1790501037~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=48bcdcaecdab7bc21372a3dd563222cca4c8ffff97c68d0895325a3ddb72e39c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501046~exp=1790504646~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=1bee78cf4132aa3442c682c8ac63ebda5fbf95b26b26d2767dda708952fa7585
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497437~exp=1790501037~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=48bcdcaecdab7bc21372a3dd563222cca4c8ffff97c68d0895325a3ddb72e39c
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497437~exp=1790501037~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=48bcdcaecdab7bc21372a3dd563222cca4c8ffff97c68d0895325a3ddb72e39c"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501046~exp=1790504646~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=1bee78cf4132aa3442c682c8ac63ebda5fbf95b26b26d2767dda708952fa7585
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501046~exp=1790504646~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=1bee78cf4132aa3442c682c8ac63ebda5fbf95b26b26d2767dda708952fa7585"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="Movies",Zee Bollywood
@@ -1201,11 +1201,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790496835~exp=1790500435~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=1f7b6ccaceeda6fc2ac693b4d55e2b8fd4b55186bfdf94030874de3dbd7a6a94
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790500425~exp=1790504025~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=9505561e2bc7126a0bc78db58573faf5c79b3a37245a5185522c020d69d0f319
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790496835~exp=1790500435~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=1f7b6ccaceeda6fc2ac693b4d55e2b8fd4b55186bfdf94030874de3dbd7a6a94
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790496835~exp=1790500435~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=1f7b6ccaceeda6fc2ac693b4d55e2b8fd4b55186bfdf94030874de3dbd7a6a94"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790500425~exp=1790504025~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=9505561e2bc7126a0bc78db58573faf5c79b3a37245a5185522c020d69d0f319
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790500425~exp=1790504025~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=9505561e2bc7126a0bc78db58573faf5c79b3a37245a5185522c020d69d0f319"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="510" tvg-name="VIP News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="News",VIP News
@@ -3929,11 +3929,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=f5fce09cddd9a31660b4d9c014bb091d052e65a3d3d4e6315e2c34c019ee7f90
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501571~exp=1790505171~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=5824f107058f025510d96c8399f74f35ed4ca5c0e77e12f911350565c6c04d14
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=f5fce09cddd9a31660b4d9c014bb091d052e65a3d3d4e6315e2c34c019ee7f90
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=f5fce09cddd9a31660b4d9c014bb091d052e65a3d3d4e6315e2c34c019ee7f90"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501571~exp=1790505171~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=5824f107058f025510d96c8399f74f35ed4ca5c0e77e12f911350565c6c04d14
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501571~exp=1790505171~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=5824f107058f025510d96c8399f74f35ed4ca5c0e77e12f911350565c6c04d14"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil",Puthu Yugam
@@ -6365,11 +6365,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/HHDL_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=937e3af54bd55ef4b862296e0319bb80:8868db6c5e57e4330e9304d18745ea5f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790498065~exp=1790501665~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=eb32b978f0643e3d920d651f98c0a1932be531d479b7ca16b05cf7931926f105
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501670~exp=1790505270~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=dcb81e88bea1cd595375ab5d71d13c5dd0451e62d604ebd4ed175481b7dbf635
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790498065~exp=1790501665~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=eb32b978f0643e3d920d651f98c0a1932be531d479b7ca16b05cf7931926f105
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790498065~exp=1790501665~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=eb32b978f0643e3d920d651f98c0a1932be531d479b7ca16b05cf7931926f105"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501670~exp=1790505270~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=dcb81e88bea1cd595375ab5d71d13c5dd0451e62d604ebd4ed175481b7dbf635
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501670~exp=1790505270~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=dcb81e88bea1cd595375ab5d71d13c5dd0451e62d604ebd4ed175481b7dbf635"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1322" tvg-name="And Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" group-title="English",And Flix HD
@@ -6449,11 +6449,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497697~exp=1790501297~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d06137001c7559326bcc2611eddeb4da6724bdba47bb17de47dbc3a3867418c2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501301~exp=1790504901~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=821996b3c7f4fef710c3f7174472432a3b7752f3fb9335ebbc0fa2dba0518034
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497697~exp=1790501297~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d06137001c7559326bcc2611eddeb4da6724bdba47bb17de47dbc3a3867418c2
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497697~exp=1790501297~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d06137001c7559326bcc2611eddeb4da6724bdba47bb17de47dbc3a3867418c2"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501301~exp=1790504901~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=821996b3c7f4fef710c3f7174472432a3b7752f3fb9335ebbc0fa2dba0518034
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501301~exp=1790504901~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=821996b3c7f4fef710c3f7174472432a3b7752f3fb9335ebbc0fa2dba0518034"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="English",National Geographic HD
@@ -6557,11 +6557,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=284db1a465ee50c081b7fa9735c4e000:26d05a4a82a0d6eb317dd861a06d746c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c09f3ee0fcc732ac52b12bc47326b0bbc22343aefbcd14693f2513426560985e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501673~exp=1790505273~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=66a284bd86115338d7308ef4be2b82c42a856f00a16842fcdbd3bbeebe8d952b
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c09f3ee0fcc732ac52b12bc47326b0bbc22343aefbcd14693f2513426560985e
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790498067~exp=1790501667~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c09f3ee0fcc732ac52b12bc47326b0bbc22343aefbcd14693f2513426560985e"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501673~exp=1790505273~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=66a284bd86115338d7308ef4be2b82c42a856f00a16842fcdbd3bbeebe8d952b
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501673~exp=1790505273~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=66a284bd86115338d7308ef4be2b82c42a856f00a16842fcdbd3bbeebe8d952b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Telugu",Zee Telugu HD
@@ -6593,11 +6593,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e370273ac0f521c8ee529a886f2dc06:c2bc9f42751680a68c006986fbf2f039
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790498072~exp=1790501672~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=dd1369444da16a160d398db8d95a74f887ae7eb57b9d2ddd06735895a68385ec
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501680~exp=1790505280~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=6397938e2430b97bbae48f28de4ad4e5017b972e0b337f552c79b50538f09bdb
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790498072~exp=1790501672~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=dd1369444da16a160d398db8d95a74f887ae7eb57b9d2ddd06735895a68385ec
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790498072~exp=1790501672~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=dd1369444da16a160d398db8d95a74f887ae7eb57b9d2ddd06735895a68385ec"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501680~exp=1790505280~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=6397938e2430b97bbae48f28de4ad4e5017b972e0b337f552c79b50538f09bdb
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501680~exp=1790505280~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=6397938e2430b97bbae48f28de4ad4e5017b972e0b337f552c79b50538f09bdb"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Entertainment",Big Magic
@@ -7729,11 +7729,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497515~exp=1790501115~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=716a4b6727d5804b863da841178770ca54bf259dc86f72d408f3034ef7216ea0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501003~exp=1790504603~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=6585a18b03c0aef17ee557af1444a2999508baa0489fe2e0a59efe693417c0fe
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497515~exp=1790501115~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=716a4b6727d5804b863da841178770ca54bf259dc86f72d408f3034ef7216ea0
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497515~exp=1790501115~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=716a4b6727d5804b863da841178770ca54bf259dc86f72d408f3034ef7216ea0"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501003~exp=1790504603~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=6585a18b03c0aef17ee557af1444a2999508baa0489fe2e0a59efe693417c0fe
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501003~exp=1790504603~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=6585a18b03c0aef17ee557af1444a2999508baa0489fe2e0a59efe693417c0fe"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
@@ -7765,11 +7765,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/C_News_Bharat_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2aea84bae39054cbbc86ace8a08bac37:146d2414142edb746f82d71459274d39
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790496791~exp=1790500391~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=3a770b4314a015e297a812670b4c1e23c4f8bb6c2686a0ab19b8f1375a1f6645
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790500433~exp=1790504033~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=82633dd85d3165dc82a277aac79056e620fe9aa38ecc110d96740f46b6f05240
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790496791~exp=1790500391~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=3a770b4314a015e297a812670b4c1e23c4f8bb6c2686a0ab19b8f1375a1f6645
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790496791~exp=1790500391~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=3a770b4314a015e297a812670b4c1e23c4f8bb6c2686a0ab19b8f1375a1f6645"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790500433~exp=1790504033~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=82633dd85d3165dc82a277aac79056e620fe9aa38ecc110d96740f46b6f05240
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790500433~exp=1790504033~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=82633dd85d3165dc82a277aac79056e620fe9aa38ecc110d96740f46b6f05240"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia",Badakhabar
@@ -7925,11 +7925,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hornbill_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dc6e925a323584cb48685099442b2b4:1027f5fe3d5d6c6f0524f3b4f8f85dae
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790497465~exp=1790501065~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=b7c202bc74b7c528e94cbc3582cfd49dc244e0ecfa1210c7fc84df8caec7b831
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790501080~exp=1790504680~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=83323d99cd21bf0fd51f21a5eb07654b6ed00e45026e9f31b25a790f55cc29eb
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790497465~exp=1790501065~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=b7c202bc74b7c528e94cbc3582cfd49dc244e0ecfa1210c7fc84df8caec7b831
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790497465~exp=1790501065~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=b7c202bc74b7c528e94cbc3582cfd49dc244e0ecfa1210c7fc84df8caec7b831"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790501080~exp=1790504680~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=83323d99cd21bf0fd51f21a5eb07654b6ed00e45026e9f31b25a790f55cc29eb
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790501080~exp=1790504680~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=83323d99cd21bf0fd51f21a5eb07654b6ed00e45026e9f31b25a790f55cc29eb"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBiskope_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1746" tvg-name="Zee Power HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeePowerHD.png" group-title="Kannada",Zee Power HD
@@ -7937,11 +7937,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBiskope_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bfd5c68d9bf5e4692074b423d636db8:72987aa584fd5c029de3d46033f42595
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790496863~exp=1790500463~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=baff30141b62be9779d63882637e21c8921d2b5447e3ef8eaff5c615a51698e3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790500436~exp=1790504036~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=c9302811656d7e5e1acb3ae54da9b0a9ea48ad67f4de5a4bc4fc247cf3997779
 #EXTVLCOPT:http-user-agent=Sayan10
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790496863~exp=1790500463~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=baff30141b62be9779d63882637e21c8921d2b5447e3ef8eaff5c615a51698e3
-#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790496863~exp=1790500463~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=baff30141b62be9779d63882637e21c8921d2b5447e3ef8eaff5c615a51698e3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790500436~exp=1790504036~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=c9302811656d7e5e1acb3ae54da9b0a9ea48ad67f4de5a4bc4fc247cf3997779
+#EXTHTTP:{"User-Agent": "Sayan10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790500436~exp=1790504036~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=c9302811656d7e5e1acb3ae54da9b0a9ea48ad67f4de5a4bc4fc247cf3997779"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1747" tvg-name="India News Gujarat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" group-title="Gujarati",India News Gujarat
