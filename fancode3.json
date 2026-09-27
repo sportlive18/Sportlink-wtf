@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 8:36:53 pm",
+  "updatedAt": "27/9/2026, 8:52:43 pm",
   "total_matches": 40,
   "live_matches": 6,
   "upcoming_matches": 34,
@@ -139,39 +139,6 @@
     },
     {
       "category": "Football",
-      "title": "Liverpool Women vs Everton Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248488",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/240p.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/360p.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/480p.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/540p.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/720p.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI"
-          },
-          "cookie": "hdntl=Expires=1790599861~_GO=Generated~acl=/mumbai/4248488_english_hls_75e7d29d444703_1ta-di_h264/*~Signature=AUh_zpUCyd6Xmpfc2CA1lkzvJjlpE11HUIZxNmCoDo76LgtaG0IlJ8MekXUQYGIJOfaMjYpP9sANNPsSva9gVYZ02vYI",
-          "expires": "1790599861",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Tottenham Hotspur Women vs Aston Villa Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
       "match_id": "4248489",
@@ -199,6 +166,39 @@
           },
           "cookie": "hdntl=Expires=1790599862~_GO=Generated~acl=/mumbai/4248489_english_hls_f166311bfd77133_1ta-di_h264/*~Signature=AUh_zpURNJVdZ5kt3HGhMsU96Ae2KQcMB4QH4nbHWju3HHeDq4yt9WAbHjymMG6O_-16VHFqPUsLgPP3sCbSw0aaTS4A",
           "expires": "1790599862",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Arsenal Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248490",
+      "status": "LIVE",
+      "startTime": "09:00:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/240p.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/360p.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/480p.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/540p.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/720p.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A"
+          },
+          "cookie": "hdntl=Expires=1790608938~_GO=Generated~acl=/mumbai/4248490_english_hls_d724147bdc16406_1ta-di_h264/*~Signature=AUh_zpWt8AyHqgXTvYqRXD0TmQJqwcxUDjXWY2l6M0_xewH2x2-2ihTtsYacTaVyd5WNTVvTlvulfBXO43GtvLy_Nf4A",
+          "expires": "1790608938",
           "expire_date": ""
         }
       }
@@ -280,32 +280,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea F.C. Women vs Arsenal Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248490",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
-      "title": "TBC vs TBC",
+      "title": "Rourkela Superstars vs Kataka Panthers",
       "tournament": "Odisha T20 League 2026",
-      "match_id": "4249586",
+      "match_id": "4249580",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -394,13 +375,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 4 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249107",
+      "category": "Cricket",
+      "title": "Sharjah vs Emirates Blues",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250058",
       "status": "UPCOMING",
-      "startTime": "10:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "startTime": "09:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -413,13 +394,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sharjah vs Emirates Blues",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250058",
+      "category": "Golf",
+      "title": "Day 4 - World Feed",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249107",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "10:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -701,7 +682,7 @@
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "Odisha T20 League 2026",
-      "match_id": "4249587",
+      "match_id": "4249586",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
@@ -838,6 +819,25 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 AM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Mississauga Masters vs Vancouver Anchors",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249813",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
