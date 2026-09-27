@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 12:28:16 pm",
+  "updatedAt": "27/9/2026, 12:38:25 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Puri Titans vs Kataka Panthers [English]",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249574",
-      "status": "LIVE",
-      "startTime": "10:30:00 AM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/240p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/360p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/480p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/540p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/720p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB"
-          },
-          "cookie": "hdntl=Expires=1790570788~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a99300_1ta-di_h264/*~Signature=AUh_zpUel8E-AqA3kboq4vnL_BBYnYD4oCg5eePDCNjcyxBK3fhzoIbi040iiZmrVp9Uy7m1jHP3BAyfRPBnA5EM8OUB",
-          "expires": "1790570788",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 5 [English]",
@@ -795,6 +762,25 @@
       "match_id": "4250060",
       "status": "UPCOMING",
       "startTime": "04:30:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Abu Dhabi vs Emirates Blues",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250061",
+      "status": "UPCOMING",
+      "startTime": "06:45:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
