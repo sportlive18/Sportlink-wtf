@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 1:59:07 pm",
+  "updatedAt": "27/9/2026, 2:19:40 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -67,6 +67,72 @@
           },
           "cookie": "hdntl=Expires=1790581085~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpXFFvBB8PuYQyTwqkTbh5t9O99Uz2sf4GLwTO5cw_FC4K23xHq_UDqNKAUSqVOmXusOwFRDws5oXvKk6aY-YtcN",
           "expires": "1790581085",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Keonjhar Miners [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249585",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/240p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/360p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/480p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/540p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/720p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK"
+          },
+          "cookie": "hdntl=Expires=1790585322~_GO=Generated~acl=/mumbai/4249585_english_hls_1d586372fc45447_1ta-di_h264/*~Signature=AUh_zpWeaZSsyyCaxwZOeEeO209Gv3dhSlCpulKiAIBF8Gs0U1HUmB4SWvAW_VK5NLcfoaex9k-6DU4RyzqLHGaaeAgK",
+          "expires": "1790585322",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Calcutta Customs Club vs Punjab FC [English]",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249523",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/240p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/360p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/480p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/540p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/720p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK"
+          },
+          "cookie": "hdntl=Expires=1790585323~_GO=Generated~acl=/mumbai/4249523_english_hls_5b9ffbb85484796_1ta-di_h264/*~Signature=AUh_zpW3UFdRA9J8vReNI4fqnbp2w3cFxeLL-Edyrmov1OpQu76hRJeHf8XHB5IXOzZaGSQ0hBeVbZmSJrJtNmzw42oK",
+          "expires": "1790585323",
           "expire_date": ""
         }
       }
@@ -139,25 +205,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Rourkela Superstars vs Keonjhar Miners",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249585",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Capital Cruisers vs Ghaziabad Giants",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249302",
@@ -202,25 +249,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1790170352084.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Calcutta Customs Club vs Punjab FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249523",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
