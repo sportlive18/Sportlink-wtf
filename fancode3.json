@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 9:37:25 pm",
+  "updatedAt": "27/9/2026, 10:04:09 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249779",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/240p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/360p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/480p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/540p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/720p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF"
-          },
-          "cookie": "hdntl=Expires=1790610150~_GO=Generated~acl=/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/*~Signature=AUh_zpWATa1nesxfYidD3c8fRjJzOrBTNa04WaYcbYfb7F74nkGXHvubPCraCMzr1ko3Yi-TwVtdYltq9blWybTcukQF",
-          "expires": "1790610150",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Puri Titans vs Sambalpur Warriors [English]",
@@ -200,44 +167,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Real Oviedo vs Sporting de Gijón",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249271",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249107",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Kolhan King vs Jagannathpur Tigers",
       "tournament": "West Singhbhum T20 League 2026",
@@ -276,6 +205,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Real Oviedo vs Sporting de Gijón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249271",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Ajman vs Fujairah",
       "tournament": "Emirates D10, 2026",
@@ -295,12 +243,50 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Day 4 - World Feed",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249107",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Sharjah vs Emirates Blues",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250058",
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Red vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250059",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
@@ -340,25 +326,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Red vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250059",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -429,25 +396,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Western Australia Women vs Tasmania Women",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": "4249530",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Manoharpur Lions vs Saranda Worriers",
       "tournament": "West Singhbhum T20 League 2026",
       "match_id": "4250039",
@@ -467,12 +415,50 @@
     },
     {
       "category": "Cricket",
+      "title": "Western Australia Women vs Tasmania Women",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": "4249530",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Aravali Avengers vs Ghaziabad Giants",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249298",
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kolhan King vs Chaibasa Challengers",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250040",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -524,25 +510,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Kolhan King vs Chaibasa Challengers",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250040",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Gurugram Gladiators vs Faridabad Firebirds",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249297",
@@ -581,12 +548,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249586",
+      "title": "Sharjah vs Emirates Red",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250060",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+      "startTime": "04:30:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -600,12 +567,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah vs Emirates Red",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250060",
+      "title": "TBC vs TBC",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249586",
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "07:30:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -733,12 +700,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mississauga Masters vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249813",
+      "title": "Jagannathpur Tigers vs Chakradharpur Royals",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250041",
       "status": "UPCOMING",
-      "startTime": "11:15:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+      "startTime": "09:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -752,12 +719,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Chakradharpur Royals",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250041",
+      "title": "Mississauga Masters vs Vancouver Anchors",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249813",
       "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "11:15:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Yamuna Warriors vs Ghaziabad Giants",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249296",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
