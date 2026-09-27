@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:00:02 PM 27-09-2026",
+  "last_updated": "09:15:02 PM 27-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,9 +17,9 @@
   },
   "matches": [
     {
-      "id": "0-1-6z51083183",
-      "title": "RRK Vs NT",
-      "description": "Watch Rishikesh River Kings Vs Nainital Tigers LIVE &amp; Exclusive only on ZEE5. UPL'26",
+      "id": "0-1-6z51080258",
+      "title": "Spain Vs DPR Korea",
+      "description": "Watch Spain Vs DPR Korea LIVE &amp; Exclusive only on ZEE5. FIFA U-20 Women's World Cup 2026",
       "genres": [
         {
           "id": "Sports",
@@ -27,28 +27,21 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
+      "businessType": "premium",
       "releaseDate": "Sunday, 27 September 2026",
       "languages": [
-        "hindi"
+        "english"
       ],
       "audioLanguages": [
-        "hi"
+        "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083183/list/1920x1080list7e32cd77802c41bcb31d98922b1ad81ba55da4bab0cd4cd98f66bbee34b8de64.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083183/cover/1920x77091b7158b7f0243539aa9024d2a11e52825bf8593fdd9460292099a57a6eae1533c5bd55acf124ccb9a7c9b3d82b3770c.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083183/appCover/1920x1080appcoverf2ad826603b24a69b62c58437e2fd230043e1069d69a427e931b5874d6aa4da4.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083183/verticalBanner/845x108002780ee5febf4e679121e73195dc5fbec17d8a6044f249cb87d9e9590f225152.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080258/list/1920x1080list3ac203cac6d04970a6c7575c719a1e6f29da830de5ea4afeaa23b7f127bacf7a.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080258/cover/1920x7703aecf97eff1c48169d02f81ac7b237a4dd5e9959658e4fb4aac3be76a25c51b4aa51c8a49daa41b882ffb80f12c25714.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080258/appCover/1920x1080appcoverb81b8384d4754e7aa9c1e2e5873deb55901430b1938a45d0941feecb8ec7f6b3.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080258/verticalBanner/845x10806b60c10724bc478c987d90727a0db6c0e1805ad16fce437589a9584f182448f6.jpg"
       },
-      "playback": {
-        "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Monday 28th of September 2026 07:15:17 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_360p.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_480p.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_576P.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_720p.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_1080p.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/UPL-M20_ENG/master_aud.m3u8?hdntl=exp=1790603117~acl=%2f*~id=0-1-6z51083183_0e5adbdd-0f6e-44f2-904e-7bed94641bec~data=hdntl,2109038,UPL-M20,ENG,d89c502b14d53cba9e3bdbe35ac19172b005baa68e778624b4bfea923463ab81~hmac=f61db96780617ba53e0939585ac66cf6620eb65db2ae01b5822b4e36c64d08ef\""
-        }
-      }
+      "playback": []
     },
     {
       "id": "0-1-6z51083997",
