@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:10:45 PM 27-09-2026",
-    "generated_at": "2026-09-27 12:55:09",
+    "source_last_updated": "06:31:04 PM 27-09-2026",
+    "generated_at": "2026-09-27 13:10:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 6,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 9,
+    "upcoming_matches_count": 31,
     "matches": [
         {
             "event_category": "Cricket",
@@ -83,6 +83,63 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248486_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248487_ENG",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Birmingham City F.C. Women vs Crystal Palace Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
+            "team_1": "Birmingham City F.C. Women",
+            "team_2": "Crystal Palace Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248487_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248488,
+            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Liverpool Women vs Everton Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
+            "team_1": "Liverpool Women",
+            "team_2": "Everton Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "UNKNOWN",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248488/unknown.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248489_ENG",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Tottenham Hotspur Women vs Aston Villa Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "Aston Villa Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248489_ENG/english.m3u8"
                 }
             ]
         },
@@ -164,45 +221,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4248487,
-            "title": "Birmingham City F.C. Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Birmingham City F.C. Women vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
-            "team_1": "Birmingham City F.C. Women",
-            "team_2": "Crystal Palace Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248488,
-            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Liverpool Women vs Everton Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-            "team_1": "Liverpool Women",
-            "team_2": "Everton Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248489,
-            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249303,
             "title": "Delhi Dynamos vs Noida Ninjas (NCR T20 League, 2026)",
@@ -281,19 +299,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249107,
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250057,
             "title": "Ajman vs Fujairah (Emirates D10, 2026)",
@@ -304,6 +309,19 @@
             "team_2": "Fujairah",
             "status": "UPCOMING",
             "startTime": "06:45:00 PM 28-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249107,
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -645,6 +663,63 @@
             ]
         },
         {
+            "event_category": "Football",
+            "match_id": "4248487_ENG",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Birmingham City F.C. Women vs Crystal Palace Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
+            "team_1": "Birmingham City F.C. Women",
+            "team_2": "Crystal Palace Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248487_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248488,
+            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Liverpool Women vs Everton Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
+            "team_1": "Liverpool Women",
+            "team_2": "Everton Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "UNKNOWN",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248488/unknown.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248489_ENG",
+            "title": "Barclays Women's Super League 2026-27 [English]",
+            "match_name": "Tottenham Hotspur Women vs Aston Villa Women [English]",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
+            "team_1": "Tottenham Hotspur Women",
+            "team_2": "Aston Villa Women",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 27-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248489_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Tennis",
             "match_id": "4248541_ENG",
             "title": "ATP 250 - Chengdu Open 2026 [English]",
@@ -721,45 +796,6 @@
             "team_2": "Capital Cruisers",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 28-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248487,
-            "title": "Birmingham City F.C. Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Birmingham City F.C. Women vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
-            "team_1": "Birmingham City F.C. Women",
-            "team_2": "Crystal Palace Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248488,
-            "title": "Liverpool Women vs Everton Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Liverpool Women vs Everton Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-            "team_1": "Liverpool Women",
-            "team_2": "Everton Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248489,
-            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -841,19 +877,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249107,
-            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 4 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250057,
             "title": "Ajman vs Fujairah (Emirates D10, 2026)",
@@ -864,6 +887,19 @@
             "team_2": "Fujairah",
             "status": "UPCOMING",
             "startTime": "06:45:00 PM 28-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249107,
+            "title": "Day 4 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
