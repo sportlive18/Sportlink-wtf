@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 3:59:40 am",
+  "updatedAt": "28/9/2026, 4:26:49 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Golf",
-      "title": "Day 4 - World Feed [English]",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249107",
-      "status": "LIVE",
-      "startTime": "10:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/240p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/360p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/480p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/540p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/720p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB"
-          },
-          "cookie": "hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB",
-          "expires": "1790614389",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Rourkela Superstars vs Puri Titans",
@@ -768,6 +735,25 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 500 - China Open 2026",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248551",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
