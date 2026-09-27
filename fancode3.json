@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 3:29:11 am",
+  "updatedAt": "28/9/2026, 3:59:40 am",
   "total_matches": 40,
   "live_matches": 1,
   "upcoming_matches": 39,
@@ -267,6 +267,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Victoria Women vs South Australian Scorpions",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": "4249529",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -293,25 +312,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria Women vs South Australian Scorpions",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": "4249529",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
