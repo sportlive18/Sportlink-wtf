@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 1:28:20 am",
+  "updatedAt": "28/9/2026, 3:18:58 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Real Oviedo vs Sporting de Gijón [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249271",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/240p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/360p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/480p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/540p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/720p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA"
-          },
-          "cookie": "hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA",
-          "expires": "1790621658",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Day 4 - World Feed [English]",
@@ -782,6 +749,25 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Blues vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250064",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
