@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:09:54 PM 09-27-2026
+#LAST_UPDATE:10:05 PM 09-27-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="One Day International: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",One Day International: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -739,28 +739,14 @@ http://193.47.62.59/hls/VIIIAA.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8
 
+#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE TV FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE TV FHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441
+
 #EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/SKKKQQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-20/mia-sd
-https://messi.damitv.st/live-hls/channel/mls/2026-09-20/mia-sd/playlist.m3u8?tk=VZJv_BqOWR009JkyQDwXSw&e=1789986609
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - LQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56881?ad=111
-https://chatgpt.hereisman.net/playlist/56881/load-playlist
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8
 
 #EXTINF:-1 tvg-id="768" tvg-name="Liga F Moeve: Athletic Club vs AtlÃ©tico de Madrid - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: Athletic Club vs AtlÃ©tico de Madrid - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -951,49 +937,49 @@ http://193.47.62.59/hls/BB55AAAAAAA.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8
 
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Cook Islands vs Tahiti - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Cook Islands vs Tahiti - GHD SPORTS HD
+#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Japan vs Venezuela - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Japan vs Venezuela - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 https://hey.futbol-tv.online/usa/index.m3u8
 
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Cook Islands vs Tahiti - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Cook Islands vs Tahiti - GHD SPORTS SD
+#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Japan vs Venezuela - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Japan vs Venezuela - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401905203
 https://instreams.live/live/tv401905203/index.m3u8?st=7T7TegK0VP2v7BQZO4a0RQ&e=1790463671
 
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Cook Islands vs Tahiti - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Cook Islands vs Tahiti - FAST SERVER HD
+#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Japan vs Venezuela - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Japan vs Venezuela - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://play.aarray.cn/rrty/sd-1-4650024_gqzm.m3u8?auth_key=1790458802-0-0-05c09d065463b205b8eb99a110c2b78e&token=ed2dba18900100ed&device=4&platform=rrty
 
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Cook Islands vs Tahiti - HD SERVER" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Cook Islands vs Tahiti - HD SERVER
+#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Japan vs Venezuela - HD SERVER" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Japan vs Venezuela - HD SERVER
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/zuuuQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: China vs New Zealand - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: China vs New Zealand - GHD SPORTS HD
+#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: South Korea vs Uruguay - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: South Korea vs Uruguay - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/RAAAAF.m3u8
 
-#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: China vs New Zealand - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: China vs New Zealand - GHD SPORTS SD
+#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: South Korea vs Uruguay - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: South Korea vs Uruguay - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_540p.m3u8?auth_key=1790523255-0-0-84c9a12a57971e20c4e36fb39b7abfe1
 
-#EXTINF:-1 tvg-id="857" tvg-name="International Friendly Games: Seychelles vs Sri Lanka - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Seychelles vs Sri Lanka - GHD SPORTS HD
+#EXTINF:-1 tvg-id="857" tvg-name="International Friendly Games: Tajikistan vs Palestine - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Tajikistan vs Palestine - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/ZFFFA.m3u8
 
-#EXTINF:-1 tvg-id="857" tvg-name="International Friendly Games: Seychelles vs Sri Lanka - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Seychelles vs Sri Lanka - GHD SPORTS SD
+#EXTINF:-1 tvg-id="857" tvg-name="International Friendly Games: Tajikistan vs Palestine - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Tajikistan vs Palestine - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://play.aarray.cn/rrty/hd-zh-1-4587678_gqzm.m3u8?auth_key=1790513769-0-0-5c3b1ea12b7b5db98bdbbd07445db3ce&token=1dcadfd0da23d764&device=4&platform=rrty
@@ -1009,18 +995,18 @@ http://193.47.62.50/hls/K999AAAAAAAAA.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="859" tvg-name="International Friendly Games: Bolivia vs Paraguay - FOX DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Bolivia vs Paraguay - FOX DEPORTES HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="859" tvg-name="International Friendly Games: Bolivia vs Paraguay - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Bolivia vs Paraguay - GHD SPORTS - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/FUUUAaAA.m3u8
+http://193.47.62.50/hls/C888QQ.m3u8
+
+#EXTINF:-1 tvg-id="859" tvg-name="International Friendly Games: Bolivia vs Paraguay - FOX DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Bolivia vs Paraguay - FOX DEPORTES HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-id="859" tvg-name="International Friendly Games: Bolivia vs Paraguay - VAMOS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Bolivia vs Paraguay - VAMOS - HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=612226
