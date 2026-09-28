@@ -1,28 +1,42 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 10:03:12 am",
+  "updatedAt": "28/9/2026, 10:19:44 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Rourkela Superstars vs Puri Titans",
+      "title": "Rourkela Superstars vs Puri Titans [English]",
       "tournament": "Odisha T20 League 2026",
       "match_id": "4249576",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:30:00 AM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1790170352084.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/240p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/360p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/480p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/540p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/720p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP"
+          },
+          "cookie": "hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+          "expires": "1790657378",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -310,6 +324,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Kolhan King vs Chaibasa Challengers",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250040",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Day 6",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -336,25 +369,6 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kolhan King vs Chaibasa Challengers",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250040",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -405,6 +419,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Sharjah vs Emirates Red",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250060",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -431,25 +464,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah vs Emirates Red",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250060",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
