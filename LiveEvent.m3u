@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:05:17 AM 09-28-2026
+#LAST_UPDATE:05:32 AM 09-28-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="One Day International: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",One Day International: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -56,34 +56,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a1
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd
-
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd
-
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbuzz - ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbuzz - ALT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd
-
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/criclive2709/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - Sky Cricket - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",SRI LANKA TOUR OF ENGLAND: ENG vs SL - Sky Cricket - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/bbbbbAAA.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="One Day International Women: ZIM-W vs WI-W - FANCODE - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark" group-title="Cricket",One Day International Women: ZIM-W vs WI-W - FANCODE - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -620,18 +592,6 @@ https://chatgpt.hereisman.net/playlist/56802/load-playlist
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream1.pro/hls/377qj1h2727.m3u8
 
-#EXTINF:-1 tvg-id="756" tvg-name="Liga F Moeve: FC Badalona vs Granada CF - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: FC Badalona vs Granada CF - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/GNNN.m3u8
-
-#EXTINF:-1 tvg-id="757" tvg-name="Liga F Moeve: R. Sociedad vs Real Madrid - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: R. Sociedad vs Real Madrid - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/GNNNA.m3u8
-
 #EXTINF:-1 tvg-id="758" tvg-name="Asian Games: PAK vs HK - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: PAK vs HK - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -654,28 +614,14 @@ https://live.incableinternet.com/ptv-sports/720p.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kvdztx0wyt/out/v1/35c85c1cc5264ddaa6d601acb893c9bf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ede7c67754635ee32dfe0cb550358ee2:7e488d33ce781c3a8972b07adc774624
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1/cb8f23c369044504b7a2a046ff2f92b8/cenc.mpd
 
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games: IND vs AFG - Willow Cricbuzz - ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: IND vs AFG - Willow Cricbuzz - ALT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kvdztx0wyt/out/v1/35c85c1cc5264ddaa6d601acb893c9bf/cenc.mpd
-
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games: IND vs AFG - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: IND vs AFG - TAPMAD ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games: IND vs AFG - Willow Cricbuzz HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: IND vs AFG - Willow Cricbuzz HD
+#EXTINF:-1 tvg-id="759" tvg-name="Asian Games: IND vs AFG - Willow Cricbuzz - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: IND vs AFG - Willow Cricbuzz - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.44/hls/EVVV.m3u8
+http://193.47.62.50/hls/frrr.m3u8
 
 #EXTINF:-1 tvg-id="760" tvg-name="Asian Games: SL vs NEP - Willow Cricbuzz AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: SL vs NEP - Willow Cricbuzz AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -755,35 +701,6 @@ http://193.47.62.59/hls/VIIIAA.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8
 
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - FHD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-27/clb-mia
-https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=z246fSzGrEXnBcD2wNj_Fg&e=1790591435
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/BHBHBHAAAA.m3u8
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE  TV - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE  TV - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv761844
-https://instreams.pro/live/tv761844/index.m3u8?st=CGrqKsBWKpVm1jbHJmLFiA&e=1790559037
-
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Columbus vs Inter Miami - APPLE TV UHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Columbus vs Inter Miami - APPLE TV UHD
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441
-
-#EXTINF:-1 tvg-id="768" tvg-name="Liga F Moeve: Athletic Club vs AtlÃ©tico de Madrid - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: Athletic Club vs AtlÃ©tico de Madrid - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/BHHHA.m3u8
-
 #EXTINF:-1 tvg-id="769" tvg-name="Serie A: Genoa vs Fiorentina - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Genoa vs Fiorentina - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -835,18 +752,6 @@ http://193.47.62.59/hls/BB55AAAAAA.m3u8
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/ecfe4922-dea3-4b8e-af9b-0303281df4fc.m3u8
-
-#EXTINF:-1 tvg-id="800" tvg-name="Liga F Moeve: Valencia vs C. Adeje Tenerife - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: Valencia vs C. Adeje Tenerife - DAZN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/BHHHAA.m3u8
-
-#EXTINF:-1 tvg-id="801" tvg-name="Liga F Moeve: Sevilla FC vs Eibar" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: Sevilla FC vs Eibar
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/E666QQQQAAAA.m3u8
 
 #EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: Casa Pia vs Santa Clara - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Casa Pia vs Santa Clara - Sport Digital FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1281,24 +1186,6 @@ http://193.47.62.50/hls/K999A.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=true&token=40242ec08c3ddf3e9d72332677af1e6a57324944&x-sign=0461d530d21749cdca4d9945ddef47dc&x-time=1790523000
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Pakistan vs Thailand - TAPMAD ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Pakistan vs Thailand - TAPMAD ENG AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Pakistan vs Thailand - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Pakistan vs Thailand - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/CCCCA.m3u8
-
-#EXTINF:-1 tvg-id="1076" tvg-name="ASEAN Cup: Vietnam vs Philippines - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Vietnam vs Philippines - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/FPPPVVAAA.m3u8
 
 #EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
