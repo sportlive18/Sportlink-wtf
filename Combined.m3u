@@ -1,16 +1,19 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (1 channels) =====
+#===== Fancode | Sportlink (2 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-# Last Checked: Monday, 28 September 2026 at 8:49:09 am
+#DATE:- Monday, 28 September 2026 at 10:21:16 am
+
+#EXTINF:-1 tvg-id="4249576" tvg-name="Rourkela Superstars Vs Puri Titans @virat10" tvg-logo="https://images.fancode.com/aig/match/v1790165047477/4249576_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rourkela Superstars Vs Puri Titans
+https://dai-fancode.pages.dev/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-name="India In Action - Squash - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025101/1790537212580900_AG26_28Sep_Squash_Mens_India_vs_China_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790613583~acl=/*~id=21205706040008623603820876522461~hmac=990fa7bdf944cf25fe17a81ca36eeff38d1387e50111ddd75983356ede491382
+#EXTINF:-1 tvg-name="Day 10 - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLIV | Sportlink", Day 10 - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790614794~acl=/*~id=63409678337377025983286097874553~hmac=3e9b05b0f4d2b78e2e0d1dcdd3cc8bf7bcd46f700effc4db99833df65ad3da24
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 28-09-2026
+#LAST_UPDATE:11:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -21,11 +24,11 @@ https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ede7c67754635ee32dfe0cb550358ee2:7e488d33ce781c3a8972b07adc774624
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1/cb8f23c369044504b7a2a046ff2f92b8/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1/cb8f23c369044504b7a2a046ff2f92b8/cenc.mpd
 
 #===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 28-09-2026
+#LAST_UPDATE:11:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -36,14 +39,14 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HK8218VK" tvg-name="Diving 03 Men @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5116f456-d415-4e10-93d1-76c2a4705098/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Diving 03 Men
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #===== AXS | Sportlink (28 channels) =====
 #name: Axsports Auto Update Playlist
