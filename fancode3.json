@@ -1,21 +1,21 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/10/2026, 9:59:07 am",
-  "total_matches": 30,
+  "updatedAt": "9/10/2026, 6:55:57 pm",
+  "total_matches": 32,
   "live_matches": 2,
-  "upcoming_matches": 28,
+  "upcoming_matches": 30,
   "matches": [
     {
-      "category": "Tennis",
-      "title": "Court 7",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250187",
+      "category": "Cricket",
+      "title": "Emirates Blues vs Fujairah [English]",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250095",
       "status": "LIVE",
-      "startTime": "09:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "startTime": "06:45:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -25,30 +25,30 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/240p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/360p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/480p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/540p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/240p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/360p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/480p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/540p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH"
           },
-          "cookie": "hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-          "expires": "1791604416",
+          "cookie": "hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
+          "expires": "1791551250",
           "expire_date": ""
         }
       }
     },
     {
-      "category": "Tennis",
-      "title": "Court 4",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250188",
+      "category": "Motorsports",
+      "title": "Free Practice 2 [English]",
+      "tournament": "DTM 2026",
+      "match_id": "4250133",
       "status": "LIVE",
-      "startTime": "09:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "startTime": "06:55:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -58,27 +58,27 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/240p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/360p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/480p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/540p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/240p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/360p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/480p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/540p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB"
           },
-          "cookie": "hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-          "expires": "1791604428",
+          "cookie": "hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
+          "expires": "1791551856",
           "expire_date": ""
         }
       }
     },
     {
       "category": "Cricket",
-      "title": "Afghanistan vs Bangladesh",
-      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
-      "match_id": "4249693",
+      "title": "Victoria vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249662",
       "status": "UPCOMING",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
+      "startTime": "09:50:00 AM 08-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -92,12 +92,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Oman vs Canada",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250113",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249663",
       "status": "UPCOMING",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
+      "startTime": "05:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -111,31 +111,12 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
+      "title": "Queensland vs Western Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249664",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Australia Champions vs South Africa Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249232",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249232_53069_AAC_SAC_FC-Web_1790764440838.png",
+      "startTime": "08:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -186,70 +167,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Malaysia vs Saudi Arabia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249742",
+      "category": "Football",
+      "title": "Al-Kholood Club vs Al-Qadsiah FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4249136",
       "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "China vs Hong Kong, China",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249743",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Maldives vs Singapore",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249744",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250095",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
+      "startTime": "07:20:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -281,13 +205,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Al-Kholood Club vs Al-Qadsiah FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4249136",
+      "category": "Cricket",
+      "title": "Emirates Blues vs Emirates Red",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250097",
       "status": "UPCOMING",
-      "startTime": "07:20:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png",
+      "startTime": "11:15:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -307,25 +231,6 @@
       "status": "UPCOMING",
       "startTime": "08:25:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Emirates Red",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250097",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -395,165 +300,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139497",
+      "category": "Cricket",
+      "title": "India Champions vs South Africa Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249220",
       "status": "UPCOMING",
-      "startTime": "02:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Badminton",
-      "title": "Quarter-Finals",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250125",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 1",
-      "tournament": "DTM 2026",
-      "match_id": "4250132",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Stadium Court",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248818",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Sprint Qualifying",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139498",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 2",
-      "tournament": "DTM 2026",
-      "match_id": "4250133",
-      "status": "UPCOMING",
-      "startTime": "06:55:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "MotoGP",
-      "title": "Indonesia GP",
-      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-      "match_id": "139976",
-      "status": "UPCOMING",
-      "startTime": "06:10:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Baycurrent Classic 2026",
-      "match_id": "4249776",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "Aramco Korea Championship 2026",
-      "match_id": "4250105",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
+      "startTime": "09:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -592,6 +345,291 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249589_52993_WBA_BIR_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Rayo Vallecano vs Athletic Club",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247645",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247645_53004_RVL_ATH_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250099",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Bolton Wanderers vs Stoke City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249590",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alaves vs Atletico de Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247639",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247639_53004_ALA_ATM_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "MotoGP",
+      "title": "Indonesia GP",
+      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
+      "match_id": "139976",
+      "status": "UPCOMING",
+      "startTime": "06:10:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "FC Barcelona vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247647",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Baycurrent Classic 2026",
+      "match_id": "4249776",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250100",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "Aramco Korea Championship 2026",
+      "match_id": "4250105",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250134",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248821",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248822",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248823",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248824",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi-Final",
+      "tournament": "BWF Super 500 - Arctic Open 2026",
+      "match_id": "4250126",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
