@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:41:11 10-10-2026",
+    "last update time": "14:04:20 10-10-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090547563,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -24,11 +15,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090547561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
+            "contentId": 1090547667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026094/1791613679228338_UCL_barcelona_arsenal_combo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27"
+            "event_name": "Upcoming - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547699,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026094/1791613855947338_UCL_Roma_manch_city_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -42,11 +42,29 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090547563,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090547564,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026021/1791455625098932_UCL26_Galatasaray-vs-Barcelona_promo_landscape_thumb_ddt.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Barcelona - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
