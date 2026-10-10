@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:01:00 AM 10-10-2026
+#LAST_UPDATE:06:58 AM 10-10-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - WILLOW AD FREE - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - WILLOW AD FREE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -177,14 +177,40 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Kholood vs Al-Qadsiah - FOX DEPORTES FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Kholood vs Al-Qadsiah - FOX DEPORTES FHD
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://admin2.formaturamaxi.com.br/wwe.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER 2" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER 2
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.50/hls/QIIIAAAAAAQQQ.m3u8
+
+#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Hazem vs Neom - FOX DEPORTES FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hazem vs Neom - FOX DEPORTES FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Kholood vs Al-Qadsiah - SporTV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Kholood vs Al-Qadsiah - SporTV BR FHD
+#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Hazem vs Neom - SporTV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hazem vs Neom - SporTV BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -192,13 +218,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Kholood vs Al-Qadsiah - DAZN Sports HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Kholood vs Al-Qadsiah - DAZN Sports HD
+#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Hazem vs Neom - DAZN Sports HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hazem vs Neom - DAZN Sports HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/3b36849dcd8c25c3754bc49c0a713d2a/index.m3u8
 
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Kholood vs Al-Qadsiah - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Kholood vs Al-Qadsiah - GHD SPORTS HD
+#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Hazem vs Neom - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hazem vs Neom - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -206,14 +232,14 @@ https://netanjahu.hls.st/t/3b36849dcd8c25c3754bc49c0a713d2a/index.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.41/hls/seeeaaa.m3u8
 
-#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Al-Fateh vs Al-Ahli - FOX2 SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Fateh vs Al-Ahli - FOX2 SPORTS FHD
+#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Al-Ettifaq vs Al-Khaleej - FOX2 SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Ettifaq vs Al-Khaleej - FOX2 SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Al-Fateh vs Al-Ahli - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Fateh vs Al-Ahli - GHD SPORTS HD
+#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Al-Ettifaq vs Al-Khaleej - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Ettifaq vs Al-Khaleej - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -221,14 +247,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.41/hls/seeeaaaaaqqqqqq.m3u8
 
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Nassr vs Diriyah - FOX DEPORTES - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Nassr vs Diriyah - FOX DEPORTES - AQ
+#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Hilal vs Al-Ittihad - FOX DEPORTES - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hilal vs Al-Ittihad - FOX DEPORTES - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Nassr vs Diriyah - SporTV BR - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Nassr vs Diriyah - SporTV BR - AQ
+#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Hilal vs Al-Ittihad - SporTV BR - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hilal vs Al-Ittihad - SporTV BR - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,7 +262,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Nassr vs Diriyah - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Nassr vs Diriyah - GHD SPORTS HD
+#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Hilal vs Al-Ittihad - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Hilal vs Al-Ittihad - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -280,6 +306,29 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791551043~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a6c551d5-1ce2-4d8f-89dd-0a64b26fdd7d~data=hdntl~hmac=bc44e6f6efe807e0c6c5e565afa8a4230f884513de1e8f417929f71685e1858d/manifest.mpd
+
+#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs DC United - APPLE  TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Inter Miami vs DC United - APPLE  TV - FHD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-27/clb-mia
+https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=z246fSzGrEXnBcD2wNj_Fg&e=1790591435
+
+#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs DC United - APPLE  TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Inter Miami vs DC United - APPLE  TV - HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/BHBHBHAAAA.m3u8
+
+#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs DC United - APPLE  TV - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Inter Miami vs DC United - APPLE  TV - SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv761844
+https://instreams.pro/live/tv761844/index.m3u8?st=CGrqKsBWKpVm1jbHJmLFiA&e=1790559037
+
+#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs DC United - APPLE TV UHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football",MLS: Inter Miami vs DC United - APPLE TV UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441
 
 #EXTINF:-1 tvg-id="894" tvg-name="ICC CWC League 2: NAM vs UAE - PRIME VIDEO AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",ICC CWC League 2: NAM vs UAE - PRIME VIDEO AQ
 #KODIPROP:inputstream=inputstream.adaptive
