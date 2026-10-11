@@ -1,7 +1,47 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:06:21 PM 10-11-2026
+#LAST_UPDATE:10:20 PM 10-11-2026
 #Created by - Sayan 10
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - NBC SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - NBC SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
+
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - Astro Premier League" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - Astro Premier League
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8
+
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8
+
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - SKY SPORTS MAIN" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - SKY SPORTS MAIN
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
+https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - FUBO SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879264
+https://instreams.live/live3/tv401879264/index.m3u8?st=t2dBo5bu86KCCYuKCkvzzA&e=1791741612
+
+#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/M999.m3u8
+
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -130,26 +170,18 @@ https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_
 #EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv HIN AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv HIN AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1110/HIN/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
 
 #EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789
-
-#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv MAL AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv MAL AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1110/MAL/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -433,57 +465,6 @@ https://edgestream6.pro/hls/eJmauBDCIf.m3u8
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8
 
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - FUBO SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=826f38c6d2c96e11002e3ee25d14e67a:ab5c6529c3b53d7d2607772ac99ee5fc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qlm6vtznxd/out/v1/07d94e5695564616bc21118f294f6cc7/50a444d1-53bc-4f88-b7ab-3d0ce10faaa5-cenc.mpd?aws_sessionId=23064b53-6dcc-4985-a441-a0a75adee6a0
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - PEACOCK TV SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - PEACOCK TV SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57789/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - STAN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - STAN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/3832267485c250d1ca56a83642a417dc/index.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/FPPPAA.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - ARENA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - ARENA SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/c1a6b4002ab49f9fa10181c4513e42ba/index.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - CANAL+ EXTRA HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - CANAL+ EXTRA HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/19d469966abaf31166f7a38600659c89/index.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/1e66f3ea-183a-4712-849d-f625e96ce926.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - SKY SPORTS NZ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - SKY SPORTS NZ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream4.pro/hls/sqdahach1ax.m3u8
-
 #EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - PREMIERE SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - PREMIERE SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -541,12 +522,13 @@ https://dlive.sx/stream/stream-550.php
 #EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - test 3" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - test 3
 https://dlive.sx/stream/stream-550.php
 
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - DAZN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - DAZN SPORTS FHD
+#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - PREMIERE SPORTS" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - PREMIERE SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99ddd452f50d5ef02386297eefd580b4:da00fef7668440c58d6a4fa84583b121
-https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/rrwx4l56x5/out/v1/7608032c24c84525ad715f6298f6b0c3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -555,13 +537,13 @@ https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/rrwx4l56x5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - FANCODE - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - FANCODE - FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/dc465823-df2b-40b3-9590-f2d71e48c55a.m3u8
 
 #EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - D SPORTS + FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -571,42 +553,69 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - ARENA PREMIUM" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - ARENA PREMIUM
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57826/load-playlist?&.m3u8
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/67e017fae9b0f1eef971edf6dafc1e99/index.m3u8
 
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - FAST SERVER HD
+#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - ZIGGO SPORT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - ZIGGO SPORT
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57828/load-playlist?&.m3u8
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/3782acf17f06b216cc3cb4b4687d86a5/index.m3u8
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - FANCODE FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - FANCODE FHD
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - PREMIER SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - PREMIER SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - D SPORTS + FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - CazÃ©TV FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - CazÃ©TV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - LALIGA TV HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - LALIGA TV HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/610a3d0e1ad9b5b815627d10563f7a09/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream4.pro/hls/377qj1h2727.m3u8
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - ARENA PREMIUM" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - ARENA PREMIUM
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/2e760a15ca605eefd0585ffb0806d643/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.56/hls/siiiaqqqqq.m3u8
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - CANAL + HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - CANAL + HD
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/945fe3e7daf4a9fd697363b00c2d9cd6/index.m3u8
+https://www.rtmpcdn.com/live/ef794ea1-61a0-41e8-8986-36f22b7b390f.m3u8
 
 #EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Racing Club vs Valencia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Racing Club vs Valencia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -629,14 +638,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791722736~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=291d345a5b46b72c9b99e37639251fc042dbe2af25226aaf3bd076bf8494051d/manifest.mpd
-
-#EXTINF:-1 tvg-id="759" tvg-name="ICC CWC League 2: USA vs UAE - ICC TV" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",ICC CWC League 2: USA vs UAE - ICC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553533~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=5cbeac42f42ce9231abf47eccb19cf32a9ca4f245bf2755aed63c41932c17cd8/manifest.mpd
 
 #EXTINF:-1 tvg-id="764" tvg-name="Bundesliga: Freiburg vs Schalke - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football",Bundesliga: Freiburg vs Schalke - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -730,47 +731,21 @@ https://www.rtmpcdn.com/live/31fa0202-5573-4f15-bd20-bd59025055f4.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - TNT SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - CBS SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - CBS SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - SPORT 1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - SPORT 1 CZ FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/gdddAAAAAQQ.m3u8
+https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8
 
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - TNT SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - TNT SPORTS HD
+#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.56/hls/GLLLAA.m3u8
 
 #EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - CBS Golazo FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - CBS Golazo FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -823,11 +798,27 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/U888AAAQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - SPORT DIGITAL FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - SPORT DIGITAL FHD
+#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - D SPORTS2 + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - D SPORTS2 + FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - SportDigital Fussball" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - SportDigital Fussball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/vlllqQQQq.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.56/hls/GYYYQQQQ.m3u8
 
 #EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Nice vs Strasbourg - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Nice vs Strasbourg - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
