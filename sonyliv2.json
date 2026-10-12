@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "11-10-2026 23:00",
+  "last_updated": "12-10-2026 22:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -13,11 +13,360 @@
     "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
-    "ALL_IN_ONE": "ON",
+    "ALL_IN_ONE": "OFF",
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090547482,
+      "video_info": {
+        "title": "Kon Honaar Crorepati",
+        "shortDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "longDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kon Honaar Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Marathi",
+        "audio_language_list": [
+          {
+            "lang_code": "MAR",
+            "lang_label": "Marathi"
+          }
+        ],
+        "emfAttributes__audio_languages": "MAR",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "MAR",
+              "isPreferred": true,
+              "audioLanguageLabel": "Marathi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "12 Oct 2026, 08:30 PM",
+        "contractEndDate": "13 Oct 2026, 12:00 AM",
+        "originalAirDate": "12 Oct 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810134665132_KHC_promo_portrait_thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026075/179155410116345_KHC_promo_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025996/1791381398795492_KHC_India_Masthead_Logo_newshow.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Marathi",
+          "lang_code": "MAR",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "MAR",
+                "audioLanguageLabel": "Marathi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791820796237,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 25,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=692560,AVERAGE-BANDWIDTH=611600,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/hdntl=exp=1791907196~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118978,KHC_E1_11210,none~hmac=f113146ff799b32772ce399a45112bf057c8c562926ea09a0d1f5cd5c66a2287/std_lrh-800300010_360_460000.m3u8?aka_me_session_id=AAAAAAAAAAB8Vc5qAAAAAKmTFjBYBeObtsq%2fkqEwkTVB7VVXzdxPeBYxxAquqhX7o%2fTw2tLjP7qhEU11Z3Lgb5EY4XJRQNfG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=927344,AVERAGE-BANDWIDTH=814000,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/hdntl=exp=1791907196~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118978,KHC_E1_11210,none~hmac=f113146ff799b32772ce399a45112bf057c8c562926ea09a0d1f5cd5c66a2287/std_lrh-800300010_480_644000.m3u8?aka_me_session_id=AAAAAAAAAAB8Vc5qAAAAAKmTFjBYBeObtsq%2fkqEwkTVB7VVXzdxPeBYxxAquqhX7o%2fTw2tLjP7qhEU11Z3Lgb5EY4XJRQNfG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1631696,AVERAGE-BANDWIDTH=1421200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/hdntl=exp=1791907196~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118978,KHC_E1_11210,none~hmac=f113146ff799b32772ce399a45112bf057c8c562926ea09a0d1f5cd5c66a2287/std_lrh-800300010_540_1196000.m3u8?aka_me_session_id=AAAAAAAAAAB8Vc5qAAAAAKmTFjBYBeObtsq%2fkqEwkTVB7VVXzdxPeBYxxAquqhX7o%2fTw2tLjP7qhEU11Z3Lgb5EY4XJRQNfG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2453440,AVERAGE-BANDWIDTH=2129600,CODECS=\"avc1.4d4020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/hdntl=exp=1791907196~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118978,KHC_E1_11210,none~hmac=f113146ff799b32772ce399a45112bf057c8c562926ea09a0d1f5cd5c66a2287/std_lrh-800300010_720_1840000.m3u8?aka_me_session_id=AAAAAAAAAAB8Vc5qAAAAAKmTFjBYBeObtsq%2fkqEwkTVB7VVXzdxPeBYxxAquqhX7o%2fTw2tLjP7qhEU11Z3Lgb5EY4XJRQNfG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4214320,AVERAGE-BANDWIDTH=3647600,CODECS=\"avc1.4d402a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118978/KHC_E1_11210/MAR/hdntl=exp=1791907196~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118978,KHC_E1_11210,none~hmac=f113146ff799b32772ce399a45112bf057c8c562926ea09a0d1f5cd5c66a2287/std_lrh-800300010_1080_3220000.m3u8?aka_me_session_id=AAAAAAAAAAB8Vc5qAAAAAKmTFjBYBeObtsq%2fkqEwkTVB7VVXzdxPeBYxxAquqhX7o%2fTw2tLjP7qhEU11Z3Lgb5EY4XJRQNfG&aka_media_format_type=hls",
+            "Date": "Monday 12th of October 2026 09:29:56 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090538390,
+      "video_info": {
+        "title": "Kaun Banega Crorepati",
+        "shortDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "longDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kaun Banega Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/275o2m1SSRGJAqHCQfrzbQ/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "12 Oct 2026, 09:19 PM",
+        "contractEndDate": "12 Oct 2026, 11:03 PM",
+        "originalAirDate": "12 Oct 2026, 09:21 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789110779517380_KBC_S18_simulcast_11sep_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026176/1791797875880892_KBC_12th_Oct_EP46_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023833/1789128836326288_KBC25_26_3_Masthead_Logo.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021694/1785652805162510_KBC25_26_3_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022004/1786370266203134_KBC25_26_3_600x900_clean_Airtel_Portrait.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791820797169,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/hdntl=exp=1791907197~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2022321,kbc181210,HIN~hmac=b4825108bb38088f13497e964a5d8dbe9349553f94331c6afa5f87361bccc0ad/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB9Vc5qAAAAAC5uV0LrZwkBWWlm73fntClcrV6EQGHz8cmTsxqamCHFVy4I8+EVL%2f%2f9v6op8yX1DCP59jr7bIze&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/hdntl=exp=1791907197~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2022321,kbc181210,HIN~hmac=b4825108bb38088f13497e964a5d8dbe9349553f94331c6afa5f87361bccc0ad/master_700.m3u8?aka_me_session_id=AAAAAAAAAAB9Vc5qAAAAAC5uV0LrZwkBWWlm73fntClcrV6EQGHz8cmTsxqamCHFVy4I8+EVL%2f%2f9v6op8yX1DCP59jr7bIze&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/hdntl=exp=1791907197~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2022321,kbc181210,HIN~hmac=b4825108bb38088f13497e964a5d8dbe9349553f94331c6afa5f87361bccc0ad/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB9Vc5qAAAAAC5uV0LrZwkBWWlm73fntClcrV6EQGHz8cmTsxqamCHFVy4I8+EVL%2f%2f9v6op8yX1DCP59jr7bIze&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/hdntl=exp=1791907197~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2022321,kbc181210,HIN~hmac=b4825108bb38088f13497e964a5d8dbe9349553f94331c6afa5f87361bccc0ad/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB9Vc5qAAAAAC5uV0LrZwkBWWlm73fntClcrV6EQGHz8cmTsxqamCHFVy4I8+EVL%2f%2f9v6op8yX1DCP59jr7bIze&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181210/HIN/hdntl=exp=1791907197~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2022321,kbc181210,HIN~hmac=b4825108bb38088f13497e964a5d8dbe9349553f94331c6afa5f87361bccc0ad/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAB9Vc5qAAAAAC5uV0LrZwkBWWlm73fntClcrV6EQGHz8cmTsxqamCHFVy4I8+EVL%2f%2f9v6op8yX1DCP59jr7bIze&aka_media_format_type=hls",
+            "Date": "Monday 12th of October 2026 09:29:57 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090547705,
+      "video_info": {
+        "title": "Volleyball Championship League 2026 ",
+        "shortDescription": "Watch all the action from the Volleyball Championship League 2026 as Tamil Titans take on Hooghly Hitters, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the Volleyball Championship League 2026 as Tamil Titans take on Hooghly Hitters, LIVE on Sony LIV.",
+        "genres": [
+          "Volleyball"
+        ],
+        "episodeTitle": "Tamil Titans vs Hooghly Hitters - 12 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/-sPJl_4PQO-Xld0TN6nxkw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 1",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "12 Oct 2026, 07:28 PM",
+        "contractEndDate": "13 Oct 2026, 02:30 AM",
+        "originalAirDate": "12 Oct 2026, 07:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137602847952_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026039/1791470273313541_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Tamil_Titans_vs_Hoogly_Hitters.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026203/1791818906309597_Volleyball_Champions_League_26_Tamil_Titans_vs_Hooghly_Hitters_live_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791820802341,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/hdntl=exp=1791907202~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,ENG~hmac=194fd12c7d1baf21e62291d690c06de0978546fb90d1c3b79570b0fc1a58e9de/std_lrh-800300010_360_460000.m3u8?aka_me_session_id=AAAAAAAAAACCVc5qAAAAAEjHgqGgs9pz8uhoUozUE2D1ovY3zT9jPMQ7b6%2fKrrTSw3gpqOGTx%2fG0LyiJbHfGb7eDgDYwbSh9&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/hdntl=exp=1791907202~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,ENG~hmac=194fd12c7d1baf21e62291d690c06de0978546fb90d1c3b79570b0fc1a58e9de/std_lrh-800300010_540_920000.m3u8?aka_me_session_id=AAAAAAAAAACCVc5qAAAAAEjHgqGgs9pz8uhoUozUE2D1ovY3zT9jPMQ7b6%2fKrrTSw3gpqOGTx%2fG0LyiJbHfGb7eDgDYwbSh9&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/hdntl=exp=1791907202~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,ENG~hmac=194fd12c7d1baf21e62291d690c06de0978546fb90d1c3b79570b0fc1a58e9de/std_lrh-800300010_720_1840000.m3u8?aka_me_session_id=AAAAAAAAAACCVc5qAAAAAEjHgqGgs9pz8uhoUozUE2D1ovY3zT9jPMQ7b6%2fKrrTSw3gpqOGTx%2fG0LyiJbHfGb7eDgDYwbSh9&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/hdntl=exp=1791907202~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,ENG~hmac=194fd12c7d1baf21e62291d690c06de0978546fb90d1c3b79570b0fc1a58e9de/std_lrh-800300010_1080_4140000.m3u8?aka_me_session_id=AAAAAAAAAACCVc5qAAAAAEjHgqGgs9pz8uhoUozUE2D1ovY3zT9jPMQ7b6%2fKrrTSw3gpqOGTx%2fG0LyiJbHfGb7eDgDYwbSh9&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/hdntl=exp=1791907202~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,ENG~hmac=194fd12c7d1baf21e62291d690c06de0978546fb90d1c3b79570b0fc1a58e9de/std_lrh-800300010_1080_2944000.m3u8?aka_me_session_id=AAAAAAAAAACCVc5qAAAAAEjHgqGgs9pz8uhoUozUE2D1ovY3zT9jPMQ7b6%2fKrrTSw3gpqOGTx%2fG0LyiJbHfGb7eDgDYwbSh9&aka_media_format_type=hls",
+            "Date": "Monday 12th of October 2026 09:30:02 PM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791820803022,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/hdntl=exp=1791907203~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,HIN~hmac=54e87f8e54a6f781f400c025730c4958cc40110a4bd69ff139d7d14d87792787/std_lrh-800300010_360_460000.m3u8?aka_me_session_id=AAAAAAAAAACDVc5qAAAAAOxm1F5JurEsPpGvj%2fCXg%2figJxVNPGCMjwsZfM5LIbvCv32gYDCECW+ZBFYdrnpqMgI%2ffHg+XfWn&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/hdntl=exp=1791907203~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,HIN~hmac=54e87f8e54a6f781f400c025730c4958cc40110a4bd69ff139d7d14d87792787/std_lrh-800300010_540_920000.m3u8?aka_me_session_id=AAAAAAAAAACDVc5qAAAAAOxm1F5JurEsPpGvj%2fCXg%2figJxVNPGCMjwsZfM5LIbvCv32gYDCECW+ZBFYdrnpqMgI%2ffHg+XfWn&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/hdntl=exp=1791907203~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,HIN~hmac=54e87f8e54a6f781f400c025730c4958cc40110a4bd69ff139d7d14d87792787/std_lrh-800300010_720_1840000.m3u8?aka_me_session_id=AAAAAAAAAACDVc5qAAAAAOxm1F5JurEsPpGvj%2fCXg%2figJxVNPGCMjwsZfM5LIbvCv32gYDCECW+ZBFYdrnpqMgI%2ffHg+XfWn&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/hdntl=exp=1791907203~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,HIN~hmac=54e87f8e54a6f781f400c025730c4958cc40110a4bd69ff139d7d14d87792787/std_lrh-800300010_1080_4140000.m3u8?aka_me_session_id=AAAAAAAAAACDVc5qAAAAAOxm1F5JurEsPpGvj%2fCXg%2figJxVNPGCMjwsZfM5LIbvCv32gYDCECW+ZBFYdrnpqMgI%2ffHg+XfWn&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/hdntl=exp=1791907203~acl=%2f*~id=80461510017454516903916418087084~data=hdntl,2118981,Volleyba1210,HIN~hmac=54e87f8e54a6f781f400c025730c4958cc40110a4bd69ff139d7d14d87792787/std_lrh-800300010_1080_2944000.m3u8?aka_me_session_id=AAAAAAAAAACDVc5qAAAAAOxm1F5JurEsPpGvj%2fCXg%2figJxVNPGCMjwsZfM5LIbvCv32gYDCECW+ZBFYdrnpqMgI%2ffHg+XfWn&aka_media_format_type=hls",
+            "Date": "Monday 12th of October 2026 09:30:02 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090547508,
@@ -66,14 +415,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639049176873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639148861873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639135368873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025984/1791377896964508_Indian_Super_League_2026_GOB_Landscape_Thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026099/179161844401124_Indian_Super_League_2026_Match_masthead_mobile_v2_984x1182_Inter_Kashi_vs_Kerala_Blasters_FC.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026170/1791794580208199_ISL_NorthEast_FC_Mohun_Bagan_SG_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025984/1791377897057508_Indian_Super_League_2026_GOB_Masthead_logo_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639148861873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025984/1791377896964508_Indian_Super_League_2026_GOB_Landscape_Thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -414,14 +763,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791448087139949_UCL_ARS_vs_LOSC_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791448087139949_UCL_ARS_vs_LOSC_landscape.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026175/1791800173987655_UCL26_Arsenal_vs_Lille_dated_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026175/1791802307972655_UCL26_Arsenal_vs_Lille_dated_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791448087139949_UCL_ARS_vs_LOSC_landscape.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026175/1791802307972655_UCL26_Arsenal_vs_Lille_dated_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
