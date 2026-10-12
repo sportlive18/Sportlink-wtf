@@ -1,46 +1,59 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:07:59 AM 10-12-2026
+#LAST_UPDATE:05:46 PM 10-12-2026
 #Created by - Sayan 10
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - NBC SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - NBC SPORTS FHD
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
 
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - Astro Premier League" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - Astro Premier League
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - SKY SPORTS MAIN" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - SKY SPORTS MAIN
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - FUBO SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879264
-https://instreams.live/live3/tv401879264/index.m3u8?st=t2dBo5bu86KCCYuKCkvzzA&e=1791741612
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Liverpool vs Man City - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Liverpool vs Man City - GHD SPORTS HD
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/M999.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - TAPMAD WW - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - TAPMAD WW - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - T SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - T SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - A SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - A SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - FANCODE (IND)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - FANCODE (IND)
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1
+#EXTVLCOPT:http-referrer=https%3A%2F%2Ffancode.com%2F
+https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://pull.streamviewk7x.click/livesp/sd-6MxjK4S4BPKfjZs9er_autosp.m3u8?txSecret=565cc0b759131495d111021cc6f6f0de&txTime=6ACE3960
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live2.dyrur1.com/live/14512696_2e4bd69bc8446e65ba548b7840882739_1080p.m3u8?auth_key=1791827680-0-0-f7bbeff75afd9252665579ca0bb7e98b
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS LQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+https://live.vivo155.com/live/sd-1-4655587.m3u8?txSecret=8c518afeca78215f222366f9c573fa23&txTime=6ACCEA1D
 
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -78,37 +91,6 @@ https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd
 
-#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
-
-#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz ALT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
-
-#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - T SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - T SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - T SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - T SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.151.60.162:2122/play/a030/index.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - FANCODE (IND)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - FANCODE (IND)
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-id="13" tvg-name="T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -133,22 +115,6 @@ https://live.incableinternet.com/ptv-sports/720p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-
-#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv HIN AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv HIN AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
-#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
-
-#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv ENG AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
-#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -234,6 +200,38 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fe9d436-3197-4cbd-ab5b-76a0c27c2dc9/master.m3u8
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 1
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 2" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 2
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 3" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 3
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 4" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 4
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 1
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 2" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 2
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 3" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 3
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 4" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 4
+https://dlive.sx/watch.php?id=32
 
 #EXTINF:-1 tvg-id="276" tvg-name="WWE NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="WWE",WWE NXT - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -328,74 +326,21 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Fayha vs Al-Riyadh - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Fayha vs Al-Riyadh - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/35707d90-7321-4471-a9c9-a3304b7b71c1.m3u8
-
-#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Fayha vs Al-Riyadh - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Fayha vs Al-Riyadh - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/KYYYAAAAA.m3u8
-
-#EXTINF:-1 tvg-id="735" tvg-name="Campeonato Brasileiro SÃ©rie A: AtlÃ©tico-MG vs Santos - Premier Sports BR" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: AtlÃ©tico-MG vs Santos - Premier Sports BR
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/KYYYQQQ.m3u8
-
-#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Abha vs Al Faisaly - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Abha vs Al Faisaly - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://pull.streamviewk7x.click/livesp/sd-6MwarmCjKVFWvHyWqp_autosp.m3u8?txSecret=893e047ccc48eb03f4563e0cd9bc1ed2&txTime=6ACBA344
-
-#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Abha vs Al Faisaly - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Abha vs Al Faisaly - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/hyhyhy.m3u8
-
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Shabab vs Al-Taawoun - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Shabab vs Al-Taawoun - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/G888AAAAQQ.m3u8
-
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Shabab vs Al-Taawoun - Sport Digital HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Shabab vs Al-Taawoun - Sport Digital HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
-
-#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Shabab vs Al-Taawoun - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Shabab vs Al-Taawoun - TAPMAD ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Crystal Palace vs Forest - Sky Sports Main Event" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Crystal Palace vs Forest - Sky Sports Main Event
+#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Coventry vs Newcastle - Sky Sports Main Event" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Coventry vs Newcastle - Sky Sports Main Event
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
 #EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
 https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Crystal Palace vs Forest - ESPN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Crystal Palace vs Forest - ESPN SPORTS FHD
+#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Coventry vs Newcastle - ESPN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Coventry vs Newcastle - ESPN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Crystal Palace vs Forest - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Crystal Palace vs Forest - GHD SPORTS HD
+#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Coventry vs Newcastle - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Coventry vs Newcastle - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
@@ -403,7 +348,7 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-893
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 http://193.47.62.55/hls/J333AAAA.m3u8
 
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Crystal Palace vs Forest - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Crystal Palace vs Forest - GHD SPORTS SD
+#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Coventry vs Newcastle - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Coventry vs Newcastle - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -411,28 +356,7 @@ http://193.47.62.55/hls/J333AAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/3d393c29-59de-4795-b63f-1eeba868403c.m3u8
 
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Hull vs Everton - SKY SPORTS EPL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Hull vs Everton - SKY SPORTS EPL HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57915/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Hull vs Everton - Sky Sports EPL SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Hull vs Everton - Sky Sports EPL SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
-https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Hull vs Everton - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Hull vs Everton - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
-#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
-https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8
-
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - PREMIERE SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - PREMIERE SPORTS FHD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - PREMIERE SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - PREMIERE SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -440,7 +364,7 @@ https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - D SPORTS + FHD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - D SPORTS + FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - D SPORTS + FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -448,7 +372,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - CAZE TV FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - CAZE TV FHD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - CAZE TV FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - CAZE TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -456,83 +380,40 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - ARENA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - ARENA SPORTS HD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - ARENA SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - ARENA SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/934918608f905e9f7e2cf7a59318dbd2/index.m3u8
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - DAZN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/67741449226f40696783bd1ffa075be6/index.m3u8
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - GHD SPORTS SD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/9b17bdeb-4b2b-48ab-af5c-4c8499e9a332.m3u8
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - Premier Sports HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - Premier Sports HD
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - Premier Sports HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - Premier Sports HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
 #EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
 https://edgestream5.pro/hls/377qj1h2727.m3u8
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - TEST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - TEST
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - TEST" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - TEST
 https://dlive.sx/stream/stream-550.php
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - test 2" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - test 2
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - test 2" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - test 2
 https://dlive.sx/stream/stream-550.php
 
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Elche vs Celta - test 3" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Elche vs Celta - test 3
+#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - test 3" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - test 3
 https://dlive.sx/stream/stream-550.php
 
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - PREMIERE SPORTS" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - PREMIERE SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - BeIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/dc465823-df2b-40b3-9590-f2d71e48c55a.m3u8
-
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - D SPORTS + FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - ARENA PREMIUM" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - ARENA PREMIUM
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/67e017fae9b0f1eef971edf6dafc1e99/index.m3u8
-
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: Real Sociedad vs Deportivo - ZIGGO SPORT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Sociedad vs Deportivo - ZIGGO SPORT
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/3782acf17f06b216cc3cb4b4687d86a5/index.m3u8
-
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - BEIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -540,137 +421,56 @@ https://netanjahu.hls.st/t/3782acf17f06b216cc3cb4b4687d86a5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - PREMIER SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - PREMIER SPORTS FHD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - CBS NETWORK FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - CBS NETWORK FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - D SPORTS + FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - CazÃ©TV FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - CazÃ©TV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - LALIGA TV HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - LALIGA TV HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream4.pro/hls/377qj1h2727.m3u8
-
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.56/hls/siiiaqqqqq.m3u8
-
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Real Betis vs Osasuna - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Real Betis vs Osasuna - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/ef794ea1-61a0-41e8-8986-36f22b7b390f.m3u8
-
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Racing Club vs Valencia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Racing Club vs Valencia - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/GNNNA.m3u8
-
-#EXTINF:-1 tvg-id="758" tvg-name="ICC CWC League 2: CAN vs NEP - ICC TV English - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",ICC CWC League 2: CAN vs NEP - ICC TV English - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791722735~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=0b8222f3db053907dcdb3ea320709b76b86e240cbbfce67fa6d4104092806db1/manifest.mpd
-
-#EXTINF:-1 tvg-id="758" tvg-name="ICC CWC League 2: CAN vs NEP - ICC TV NEP - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",ICC CWC League 2: CAN vs NEP - ICC TV NEP - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791722736~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=291d345a5b46b72c9b99e37639251fc042dbe2af25226aaf3bd076bf8494051d/manifest.mpd
-
-#EXTINF:-1 tvg-id="764" tvg-name="Bundesliga: Freiburg vs Schalke - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football",Bundesliga: Freiburg vs Schalke - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/KYYYAAAA.m3u8
-
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Como vs Roma - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Como vs Roma - TNT SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Como vs Roma - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Como vs Roma - BeIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Como vs Roma - SPORT1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Como vs Roma - SPORT1 CZ FHD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - SPORT1 CZ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - SPORT1 CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Como vs Roma - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Como vs Roma - GHD SPORTS HD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8
+https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8
 
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Como vs Roma - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Como vs Roma - GHD SPORTS SD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/GUUUA.m3u8
+http://193.47.62.55/hls/A555AAAAAA.m3u8
 
-#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Lazio vs Monza - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lazio vs Monza - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Torino vs Udinese - BEIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Torino vs Udinese - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Lazio vs Monza - SPORT1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lazio vs Monza - SPORT1 CZ FHD
+#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Torino vs Udinese - SPORT1 CZ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Torino vs Udinese - SPORT1 CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Lazio vs Monza - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lazio vs Monza - CBS SPORTS HD
+#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Torino vs Udinese - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Torino vs Udinese - CBS SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream6.pro/hls/syaLqucEne4k.m3u8
 
-#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Lazio vs Monza - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lazio vs Monza - GHD SPORTS HD
+#EXTINF:-1 tvg-id="770" tvg-name="Serie A: Torino vs Udinese - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Torino vs Udinese - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -678,234 +478,18 @@ https://edgestream6.pro/hls/syaLqucEne4k.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.41/hls/ECCCAAA.m3u8
 
-#EXTINF:-1 tvg-id="771" tvg-name="Serie A: Lecce vs Bologna - GHD SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lecce vs Bologna - GHD SPORTS FHD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/J999AAAAQQQQQA.m3u8
-
-#EXTINF:-1 tvg-id="771" tvg-name="Serie A: Lecce vs Bologna - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Lecce vs Bologna - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
-#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
-https://www.rtmpcdn.com/live/31fa0202-5573-4f15-bd20-bd59025055f4.m3u8
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - BeIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8
-
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Sassuolo vs Milan - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Sassuolo vs Milan - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.56/hls/GLLLAA.m3u8
-
-#EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - CBS Golazo FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - CBS Golazo FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - PARAMOUNT+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - PARAMOUNT+ HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-
-#EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/RKKKAAAA.m3u8
-
-#EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - ESPN SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - ESPN SPORTS AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
-
-#EXTINF:-1 tvg-id="795" tvg-name="Serie A: Cagliari vs Juventus - CBS SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Cagliari vs Juventus - CBS SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=seriea/2026-09-19/ven-laz
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=seriea/2026-09-19/ven-laz
-https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/ven-laz/playlist.m3u8?tk=LSCcN0y6ZCY2w-jnob0rww&e=1789885809
-
-#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: Rio Ave vs Nacional - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Rio Ave vs Nacional - Sport Digital FHD
+#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: FamalicÃ£o vs Alverca - Sport Digital FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: FamalicÃ£o vs Alverca - Sport Digital FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: Rio Ave vs Nacional - Sport TV Portugal" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Rio Ave vs Nacional - Sport TV Portugal
+#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: FamalicÃ£o vs Alverca - Sport TV Portugal" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: FamalicÃ£o vs Alverca - Sport TV Portugal
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/U888AAAQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - D SPORTS2 + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - D SPORTS2 + FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-
-#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - SportDigital Fussball" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - SportDigital Fussball
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Benfica vs VitÃ³ria - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Benfica vs VitÃ³ria - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.56/hls/GYYYQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Nice vs Strasbourg - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Nice vs Strasbourg - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/cc689620-89c7-4466-8539-3e2aea1d1ee3.m3u8
-
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Nice vs Strasbourg - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Nice vs Strasbourg - BeIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream6.pro/hls/dza5z8f69.m3u8
-
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Nice vs Strasbourg - LIGUE+ LIVE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Nice vs Strasbourg - LIGUE+ LIVE HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/J333.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - DAZN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - DAZN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56d7ae01bc8b73a51d8a7e3cce6d1ff3:bc437fb12695a94ea8bfada6633dc327
-https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gui32e1dyx/out/v1/0b17e841b1084069bb06241c516fb173/cenc.mpd
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - PRIME VIDEO FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - PRIME VIDEO FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - CazÃ©TV FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - CazÃ©TV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/0dc56a3e-d999-4fc0-9f0d-1ba70cc74b97.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - BeIN SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://otaghera.site/updates/psg-vs-le-mans/
-https://fingersoon.st/scripts/application3
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/KRRRRAAAA.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - LIGUE+ 1 HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - LIGUE+ 1 HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/sqdahach1ax.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - SPORT TV HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - SPORT TV HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/10ee985900929f91015e0f3da2bf7536/index.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - ELEVEN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - ELEVEN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/a83aa829dbc33cd2f40b9938c85de6e7/index.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - DAZN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/3a2896f53c77b0f0c4fe8c4c22bacc66/index.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://player.online909.com/
-https://live.vivo155.com/live/hd-en-1-4550893.m3u8?txSecret=89621a48bdbfdf4099f0d528bbf4ef46&txTime=6ACA9910
-
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Rennes vs Auxerre - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Rennes vs Auxerre - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57827/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Troyes vs Marseille - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Troyes vs Marseille - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/KRRRRA.m3u8
-
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Troyes vs Marseille - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Troyes vs Marseille - BeIN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/griogoehvn2.m3u8
-
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Troyes vs Marseille - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Troyes vs Marseille - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/400508cb-9dbf-4bfa-8d70-92064e4e80b7.m3u8
 
 #EXTINF:-1 tvg-id="843" tvg-name="AEW Dynamite - FOX SPORTS FHD" tvg-logo="https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png" group-title="WWE",AEW Dynamite - FOX SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -956,4 +540,468 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.50/hls/HHHHRAAA.m3u8
+
+#EXTINF:-1 tvg-id="773" tvg-name="AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/YFFFAAAA.m3u8
+
+#EXTINF:-1 tvg-id="774" tvg-name="AFC Champions League Elite: Al-Wasl vs Al-Ahli - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Wasl vs Al-Ahli - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://193.47.62.50/hls/A555A.m3u8
+
+#EXTINF:-1 tvg-id="774" tvg-name="AFC Champions League Elite: Al-Wasl vs Al-Ahli - FANCODE  FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Wasl vs Al-Ahli - FANCODE  FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - SportDigital Fussball" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - SportDigital Fussball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - FANCODE  FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - FANCODE  FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/ylllaaaa.m3u8
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - FANCODE - FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - FANCODE - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/JFFFAAAA.m3u8
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - CBS SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - CBS SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fc55289aea6fe9032310fb1d8255ed9:c653b155ae613c4cc1670bf8cd380980
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
+#EXTVLCOPT:http-referrer=https://www.amazon.com/
+#EXTVLCOPT:http-origin=https://www.amazon.com
+https://otte.live.cache-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ildsgxtg8v/out/v1/45871796294349fc85974dd035c8254b/7074e10d-4852-4e90-ac0f-169ec4abdd44-cenc.mpd
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - Bein ARABIC HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - Bein ARABIC HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/
+https://fhlsport954.tm3drop33weeps.ru/token-IkR4nLCcKPeG7mchxfY6yD6ElMCBgirjZCaow6NGQWWjs7WdHUFaCZQkqwtJVU8GRXjBwzNpk%2F55fpNIUxMK%2FJFgREK%2BMA%3D%3Da/cfall/s2001/v3b/qs18rp3qnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_829391/index.m3u8
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - FANCODE HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - FANCODE HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/chunks.m3u8?is_vip=false&token=1790269423-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-246321b9456ed0d6b96d239ff1f4f930
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Lens vs Sporting - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Lens vs Sporting - CBS SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/chunks.m3u8?is_vip=false&token=1790269427-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d8988b14aaaec7552ad417d832a5b22e
+
+#EXTINF:-1 tvg-id="808" tvg-name="UEFA Champions League: Sabah vs Slavia Praha - FANCODE - FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Sabah vs Slavia Praha - FANCODE - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="808" tvg-name="UEFA Champions League: Sabah vs Slavia Praha - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Sabah vs Slavia Praha - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/JFFFAAAAA.m3u8
+
+#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Arsenal vs Lille - FANCODE - FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Arsenal vs Lille - FANCODE - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Arsenal vs Lille - CBS SPORTS AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Arsenal vs Lille - CBS SPORTS AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Arsenal vs Lille - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Arsenal vs Lille - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/IQQQEEEEQAA.m3u8
+
+#EXTINF:-1 tvg-id="810" tvg-name="UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/IQQQEEEEQAAA.m3u8
+
+#EXTINF:-1 tvg-id="810" tvg-name="UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/i555.m3u8
+
+#EXTINF:-1 tvg-id="810" tvg-name="UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - ESPN ARG FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - ESPN ARG FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 tvg-id="810" tvg-name="UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - FANCODE - FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: AtlÃ©tico Madrid vs Man Utd - FANCODE - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-name="UEFA Champions League: Galatasaray vs Barcelona - FANCODE - FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Galatasaray vs Barcelona - FANCODE - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-name="UEFA Champions League: Galatasaray vs Barcelona - CBS NETWORK - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Galatasaray vs Barcelona - CBS NETWORK - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-name="UEFA Champions League: Galatasaray vs Barcelona - ESPN2 SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Galatasaray vs Barcelona - ESPN2 SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-name="UEFA Champions League: Galatasaray vs Barcelona - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Galatasaray vs Barcelona - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.56/hls/i555AA.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/griogoehvn2.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - SKY FOOTBALL - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - SKY FOOTBALL - HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/OOOO.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/99dfdc6f-7158-4cb7-963b-735f6b4d4a72.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - NOVA SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - NOVA SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn4.zohanayaan.com:1686/hls/do43.m3u8?md5=G6FXPC0hDCXF7rhrRwR8WA&expires=1789072273
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - FOOT DIRECT HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - FOOT DIRECT HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn1.zohanayaan.com:1686/hls/do50.m3u8?md5=HEdfx6LYZviTmQhDartErg&expires=1789072277
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - SKY SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - SKY SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn4.zohanayaan.com:1686/hls/do45.m3u8?md5=Lea6ZMeaWorcd5cqXa1UXA&expires=1789072275
+
+#EXTINF:-1 tvg-id="812" tvg-name="UEFA Champions League: Inter vs Club Brugge - FAST SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Inter vs Club Brugge - FAST SERVER HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=LHD4
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=LHD4
+https://instreams.live/live/LHD4/index.m3u8?st=iz1TfZQRrtfFCSxxjx2HAA&e=1789075816
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - PARAMOUNT+ - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - PARAMOUNT+ - HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56103/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - LALIGA COMPANIES" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - LALIGA COMPANIES
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://play4.lk0328.com/live/114288863662_2706068844_720p.m3u8?txSecret=5241aa50386e5703daac1d0ac8b5a865&txTime=6AA19B83&t=1788972403376
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/DOOO.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/b12af720-acb2-48c3-95d9-f76e03ec0056.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://xyzstreams.blog/1/tnt3/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - BEIN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - BEIN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f4-backup/chunks.m3u8?is_vip=false&token=1789058845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f7e565ca4b97be6897c880a7bdd3fbe
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - FAST SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - FAST SERVER HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/493650/720p/chunks.m3u8?is_vip=false&token=1789058846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f65d15a5c106d6d04cd3e7342e649d72
+
+#EXTINF:-1 tvg-id="813" tvg-name="UEFA Champions League: Viking vs Bayern - CN SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Viking vs Bayern - CN SERVER HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live05.meung.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/b8a92b58-6572-4cfa-a965-3152cbf8a795.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/WAWAWAQQQ.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - PARAMOUNT HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - PARAMOUNT HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56110/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - CBS SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn3.zohanayaan.com:1686/hls/do9.m3u8?md5=5ij42TWcoRc4i_VikaJb2g&expires=1788985839
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - SPORT DIRECT HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - SPORT DIRECT HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn6.zohanayaan.com:1686/hls/do51.m3u8?md5=IHksg-hMaf_Rchhp1Vnxaw&expires=1788985866
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - SKY SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - SKY SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn4.zohanayaan.com:1686/hls/do47.m3u8?md5=TNHCU3_MlF-e7Ew-0YpSWw&expires=1788985864
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - TUDN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - TUDN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - TNT SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - TNT SPORTS SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://gozowatch.top/updates/liverpool-vs-atletico-madrid/
+#EXTVLCOPT:http-origin=https://gozowatch.top/updates/liverpool-vs-atletico-madrid/
+https://fingersoon.st/scripts/application2
+
+#EXTINF:-1 tvg-id="814" tvg-name="UEFA Champions League: Villarreal vs Napoli - CBS YHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Villarreal vs Napoli - CBS YHD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://instream.click/dady.php?stream=LHD1
+#EXTVLCOPT:http-origin=https://instream.click/dady.php?stream=LHD1
+https://instreams.pro/live/LHD1/index.m3u8?st=E1oCBNJK-Yf9M7bxEtDhmg&e=1788989437
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/95b24386-ffe5-4087-8244-2430a12df9d9.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - BEIN ARABIC HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - BEIN ARABIC HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.dyrur1.com/live/j374oi02xorfgqo_fd8494dc59e087bdc788eae38456ffbb_720p.m3u8?auth_key=1788995212-0-0-6817c158d2b03ceb9472c6295df48280
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - PRIME VIDEO HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - PRIME VIDEO HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn2.zohanayaan.com:1686/hls/do46.m3u8?md5=6esVTYQhuW6WNAPxzizd2w&expires=1788985873
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/SWAWAWAQQ.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - TWO LIVE HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - TWO LIVE HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn5.zohanayaan.com:1686/hls/do4.m3u8?md5=FjFLvXbgglhtTiBHp9fXpw&expires=1788985871
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - Sport Direct HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - Sport Direct HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+https://cdn1.zohanayaan.com:1686/hls/do52.m3u8?md5=ZObZSMKvFzN2jCo4r4dVyg&expires=1788985875
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - FAST SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - FAST SERVER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://gozowatch.top/updates/napoli-vs-arsenal/
+#EXTVLCOPT:http-origin=https://gozowatch.top/updates/napoli-vs-arsenal/
+https://fingersoon.st/scripts/application1
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - PARAMOUNT HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - PARAMOUNT HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=LHD2
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=LHD2
+https://instreams.pro/live/LHD2/index.m3u8?st=mFCkUnfyUIE1f6BCqPRF5w&e=1788989438
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - DAZN SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - DAZN SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56111/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - SonyLIV HIN AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - SonyLIV HIN AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive0909/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - SonyLIV ENG AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - SonyLIV ENG AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sonymtmnew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789021648~acl=/*~id=35594042334592772786522392787607~hmac=887e7a8d3793843f9994e3989d1921e7a2f9b1a1f98669fe45dda66b4224ad1a
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - SonyLIV ENG AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - SonyLIV ENG AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/Footlive0909/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Leipzig vs PSV - SonyLIV TAM AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Leipzig vs PSV - SonyLIV TAM AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0909/TAM/master.m3u8
 
