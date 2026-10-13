@@ -1,50 +1,89 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:32 AM 13-10-2026",
+    "LastUpdate": "05:02 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
       "match_id": "B0HLG67G7Q",
       "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
       "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "status": "UPCOMING",
-      "time": "Live at 11:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "11:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd"
+      },
+      "drm_key": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2"
     },
     {
       "match_id": "B0HKFRWMBH",
       "title": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
       "synopsis": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
-      "status": "UPCOMING",
-      "time": "Live at 1:30 PM BDT",
+      "status": "LIVE",
+      "time": "1:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd"
+      },
+      "drm_key": "7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8"
     },
     {
       "match_id": "B0HK14NRTX",
       "title": "World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions",
       "synopsis": "World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions",
-      "status": "UPCOMING",
-      "time": "Live at 5:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "5 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HK14NRTX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lln7sjtddj/out/v1/262a483f82764eb78e6e52b88a540658/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lln7sjtddj/out/v1/262a483f82764eb78e6e52b88a540658/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lln7sjtddj/out/v1/262a483f82764eb78e6e52b88a540658/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lln7sjtddj/out/v1/262a483f82764eb78e6e52b88a540658/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lln7sjtddj/out/v1/262a483f82764eb78e6e52b88a540658/cenc.mpd"
+      },
+      "drm_key": "f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8"
     },
     {
       "match_id": "B0HL1539PF",
