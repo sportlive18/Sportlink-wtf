@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:49:16 AM 15-10-2026",
-    "generated_at": "2026-10-15 06:20:10",
+    "source_last_updated": "05:12:27 PM 15-10-2026",
+    "generated_at": "2026-10-15 11:45:39",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 37,
+    "live_matches_count": 7,
+    "upcoming_matches_count": 33,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,6 +26,44 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250116_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248979_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Tai Po FC vs Lion City Sailors [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
+            "team_1": "Tai Po FC",
+            "team_2": "Lion City Sailors",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248979_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248983_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Gangwon FC vs Phnom Penh Crown [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
+            "team_1": "Gangwon FC",
+            "team_2": "Phnom Penh Crown",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248983_ENG/english.m3u8"
                 }
             ]
         },
@@ -52,10 +90,10 @@
             "event_category": "Tennis",
             "match_id": "4248843_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "World Feed [English]",
+            "match_name": "A. Zverev vs A. Minaur [English]",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur_Web-match-card.png",
+            "team_1": "A. Zverev vs A. Minaur",
             "team_2": "Shanghai, China",
             "status": "LIVE",
             "startTime": "11:00:00 AM 15-10-2026",
@@ -68,95 +106,42 @@
             ]
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250101,
-            "title": "Australia Governor Generals XI vs New Zealand Women (Governor General's XI vs New Zealand W, 2026)",
-            "match_name": "Australia Governor Generals XI vs New Zealand Women",
-            "event_name": "Governor General's XI vs New Zealand W, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Governor-Generals-XI-vs-New-Zealand-W-2026_FC-WEB.jpg",
-            "team_1": "Australia Governor Generals XI",
-            "team_2": "New Zealand Women",
-            "status": "UPCOMING",
-            "startTime": "01:35:00 PM 15-10-2026",
-            "user-agent": null
+            "event_category": "Badminton",
+            "match_id": "4250143_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "Round 16 - Court 1 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Round 16 - Court 1",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "12:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250143_ENG/english.m3u8"
+                }
+            ]
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250189,
-            "title": "Southern Strikers Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
-            "match_name": "Southern Strikers Women vs Seattle Thunders Women",
-            "event_name": "Atlanta Open Women's T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg",
-            "team_1": "Southern Strikers Women",
-            "team_2": "Seattle Thunders Women",
-            "status": "UPCOMING",
-            "startTime": "07:00:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250176,
-            "title": "Michigan Cricket Stars vs Prime Raider Gladiators (Atlanta Open T20 2026)",
-            "match_name": "Michigan Cricket Stars vs Prime Raider Gladiators",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg",
-            "team_1": "Michigan Cricket Stars",
-            "team_2": "Prime Raider Gladiators",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250177,
-            "title": "St. Louis Americans vs Atlanta Lightning (Atlanta Open T20 2026)",
-            "match_name": "St. Louis Americans vs Atlanta Lightning",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250177_53113_SLA_AL_fc-web_1791990455142.jpg",
-            "team_1": "St. Louis Americans",
-            "team_2": "Atlanta Lightning",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248979,
-            "title": "Tai Po FC vs Lion City Sailors (AFC Champions League Two 2026-27)",
-            "match_name": "Tai Po FC vs Lion City Sailors",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
-            "team_1": "Tai Po FC",
-            "team_2": "Lion City Sailors",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248983,
-            "title": "Gangwon FC vs Phnom Penh Crown (AFC Champions League Two 2026-27)",
-            "match_name": "Gangwon FC vs Phnom Penh Crown",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
-            "team_1": "Gangwon FC",
-            "team_2": "Phnom Penh Crown",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250178,
-            "title": "RR Stars vs Bay Blazers (Atlanta Open T20 2026)",
-            "match_name": "RR Stars vs Bay Blazers",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791990454380.jpg",
-            "team_1": "RR Stars",
-            "team_2": "Bay Blazers",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 15-10-2026",
-            "user-agent": null
+            "event_category": "Badminton",
+            "match_id": "4250144_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "Round 16 - Court 2 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Round 16 - Court 2",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "12:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250144_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Football",
@@ -212,6 +197,58 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4250189,
+            "title": "Southern Strikers Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
+            "match_name": "Southern Strikers Women vs Seattle Thunders Women",
+            "event_name": "Atlanta Open Women's T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg",
+            "team_1": "Southern Strikers Women",
+            "team_2": "Seattle Thunders Women",
+            "status": "UPCOMING",
+            "startTime": "07:00:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250176,
+            "title": "Michigan Cricket Stars vs Prime Raider Gladiators (Atlanta Open T20 2026)",
+            "match_name": "Michigan Cricket Stars vs Prime Raider Gladiators",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg",
+            "team_1": "Michigan Cricket Stars",
+            "team_2": "Prime Raider Gladiators",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250177,
+            "title": "St. Louis Americans vs Atlanta Lightning (Atlanta Open T20 2026)",
+            "match_name": "St. Louis Americans vs Atlanta Lightning",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250177_53113_SLA_AL_fc-web_1791990455142.jpg",
+            "team_1": "St. Louis Americans",
+            "team_2": "Atlanta Lightning",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250178,
+            "title": "RR Stars vs Bay Blazers (Atlanta Open T20 2026)",
+            "match_name": "RR Stars vs Bay Blazers",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791990454380.jpg",
+            "team_1": "RR Stars",
+            "team_2": "Bay Blazers",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250179,
             "title": "Atlanta Force vs Space City Cowboys (Atlanta Open T20 2026)",
             "match_name": "Atlanta Force vs Space City Cowboys",
@@ -263,32 +300,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250143,
-            "title": "Round 16 - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Round 16 - Court 1",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 1",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250144,
-            "title": "Round 16 - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Round 16 - Court 2",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 2",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249793,
             "title": "Brisbane Heat Women vs ACT Meteors (T20 Spring Challenge, 2026)",
@@ -303,11 +314,24 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249234,
+            "title": "South Africa Champions vs England Champions (World Championship of Legends, 2026)",
+            "match_name": "South Africa Champions vs England Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL-match-card-semifinal-1_Mini.png",
+            "team_1": "South Africa Champions",
+            "team_2": "England Champions",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250220,
             "title": "Darmstadt CC vs TSV Malmsheim (GSL Championship 2026)",
             "match_name": "Darmstadt CC vs TSV Malmsheim",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
             "team_1": "Darmstadt CC",
             "team_2": "TSV Malmsheim",
             "status": "UPCOMING",
@@ -329,24 +353,11 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249234,
-            "title": "South Africa Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "South Africa Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png",
-            "team_1": "South Africa Champions",
-            "team_2": "England Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250221,
             "title": "TSV Malmsheim vs Koln CC (GSL Championship 2026)",
             "match_name": "TSV Malmsheim vs Koln CC",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
             "team_1": "TSV Malmsheim",
             "team_2": "Koln CC",
             "status": "UPCOMING",
@@ -359,7 +370,7 @@
             "title": "ICA Berlin vs Darmstadt CC (GSL Championship 2026)",
             "match_name": "ICA Berlin vs Darmstadt CC",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg",
             "team_1": "ICA Berlin",
             "team_2": "Darmstadt CC",
             "status": "UPCOMING",
@@ -368,28 +379,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250223,
-            "title": "Koln CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
-            "match_name": "Koln CC vs THCC Rot-Gelb Hamburg",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Koln CC",
-            "team_2": "THCC Rot-Gelb Hamburg",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249229,
             "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
             "match_name": "Australia Champions vs West Indies Champions",
             "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
             "team_1": "Australia Champions",
             "team_2": "West Indies Champions",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250223,
+            "title": "Koln CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "Koln CC vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250223_53117_KCC_THCC_fc-web.jpg",
+            "team_1": "Koln CC",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -429,6 +440,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250224,
+            "title": "THCC Rot-Gelb Hamburg vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "THCC Rot-Gelb Hamburg vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250224_53117_THCC_ICAB_fc-web.jpg",
+            "team_1": "THCC Rot-Gelb Hamburg",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -484,19 +508,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250224,
-            "title": "THCC Rot-Gelb Hamburg vs ICA Berlin (GSL Championship 2026)",
-            "match_name": "THCC Rot-Gelb Hamburg vs ICA Berlin",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "THCC Rot-Gelb Hamburg",
-            "team_2": "ICA Berlin",
-            "status": "UPCOMING",
-            "startTime": "08:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249834,
             "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
@@ -546,6 +557,19 @@
             "team_2": "Seattle Thunders Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250183,
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 16-10-2026",
             "user-agent": null
         }
     ],
@@ -570,6 +594,44 @@
             ]
         },
         {
+            "event_category": "Football",
+            "match_id": "4248979_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Tai Po FC vs Lion City Sailors [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
+            "team_1": "Tai Po FC",
+            "team_2": "Lion City Sailors",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248979_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4248983_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Gangwon FC vs Phnom Penh Crown [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
+            "team_1": "Gangwon FC",
+            "team_2": "Phnom Penh Crown",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248983_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Tennis",
             "match_id": "4248841_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
@@ -592,10 +654,10 @@
             "event_category": "Tennis",
             "match_id": "4248843_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "World Feed [English]",
+            "match_name": "A. Zverev vs A. Minaur [English]",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur_Web-match-card.png",
+            "team_1": "A. Zverev vs A. Minaur",
             "team_2": "Shanghai, China",
             "status": "LIVE",
             "startTime": "11:00:00 AM 15-10-2026",
@@ -606,100 +668,47 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248843_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250143_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "Round 16 - Court 1 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Round 16 - Court 1",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "12:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250143_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250144_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "Round 16 - Court 2 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Round 16 - Court 2",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "12:30:00 PM 15-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250144_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4250101,
-            "title": "Australia Governor Generals XI vs New Zealand Women (Governor General's XI vs New Zealand W, 2026)",
-            "match_name": "Australia Governor Generals XI vs New Zealand Women",
-            "event_name": "Governor General's XI vs New Zealand W, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Governor-Generals-XI-vs-New-Zealand-W-2026_FC-WEB.jpg",
-            "team_1": "Australia Governor Generals XI",
-            "team_2": "New Zealand Women",
-            "status": "UPCOMING",
-            "startTime": "01:35:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250189,
-            "title": "Southern Strikers Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
-            "match_name": "Southern Strikers Women vs Seattle Thunders Women",
-            "event_name": "Atlanta Open Women's T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg",
-            "team_1": "Southern Strikers Women",
-            "team_2": "Seattle Thunders Women",
-            "status": "UPCOMING",
-            "startTime": "07:00:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250176,
-            "title": "Michigan Cricket Stars vs Prime Raider Gladiators (Atlanta Open T20 2026)",
-            "match_name": "Michigan Cricket Stars vs Prime Raider Gladiators",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg",
-            "team_1": "Michigan Cricket Stars",
-            "team_2": "Prime Raider Gladiators",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250177,
-            "title": "St. Louis Americans vs Atlanta Lightning (Atlanta Open T20 2026)",
-            "match_name": "St. Louis Americans vs Atlanta Lightning",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250177_53113_SLA_AL_fc-web_1791990455142.jpg",
-            "team_1": "St. Louis Americans",
-            "team_2": "Atlanta Lightning",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248979,
-            "title": "Tai Po FC vs Lion City Sailors (AFC Champions League Two 2026-27)",
-            "match_name": "Tai Po FC vs Lion City Sailors",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
-            "team_1": "Tai Po FC",
-            "team_2": "Lion City Sailors",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248983,
-            "title": "Gangwon FC vs Phnom Penh Crown (AFC Champions League Two 2026-27)",
-            "match_name": "Gangwon FC vs Phnom Penh Crown",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
-            "team_1": "Gangwon FC",
-            "team_2": "Phnom Penh Crown",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250178,
-            "title": "RR Stars vs Bay Blazers (Atlanta Open T20 2026)",
-            "match_name": "RR Stars vs Bay Blazers",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791990454380.jpg",
-            "team_1": "RR Stars",
-            "team_2": "Bay Blazers",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Football",
             "match_id": 4248980,
@@ -750,6 +759,58 @@
             "team_2": "Kitchee SC",
             "status": "UPCOMING",
             "startTime": "05:45:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250189,
+            "title": "Southern Strikers Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
+            "match_name": "Southern Strikers Women vs Seattle Thunders Women",
+            "event_name": "Atlanta Open Women's T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg",
+            "team_1": "Southern Strikers Women",
+            "team_2": "Seattle Thunders Women",
+            "status": "UPCOMING",
+            "startTime": "07:00:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250176,
+            "title": "Michigan Cricket Stars vs Prime Raider Gladiators (Atlanta Open T20 2026)",
+            "match_name": "Michigan Cricket Stars vs Prime Raider Gladiators",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg",
+            "team_1": "Michigan Cricket Stars",
+            "team_2": "Prime Raider Gladiators",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250177,
+            "title": "St. Louis Americans vs Atlanta Lightning (Atlanta Open T20 2026)",
+            "match_name": "St. Louis Americans vs Atlanta Lightning",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250177_53113_SLA_AL_fc-web_1791990455142.jpg",
+            "team_1": "St. Louis Americans",
+            "team_2": "Atlanta Lightning",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 15-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250178,
+            "title": "RR Stars vs Bay Blazers (Atlanta Open T20 2026)",
+            "match_name": "RR Stars vs Bay Blazers",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791990454380.jpg",
+            "team_1": "RR Stars",
+            "team_2": "Bay Blazers",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 15-10-2026",
             "user-agent": null
         },
         {
@@ -805,32 +866,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250143,
-            "title": "Round 16 - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Round 16 - Court 1",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 1",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250144,
-            "title": "Round 16 - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Round 16 - Court 2",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 2",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249793,
             "title": "Brisbane Heat Women vs ACT Meteors (T20 Spring Challenge, 2026)",
@@ -845,11 +880,24 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249234,
+            "title": "South Africa Champions vs England Champions (World Championship of Legends, 2026)",
+            "match_name": "South Africa Champions vs England Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL-match-card-semifinal-1_Mini.png",
+            "team_1": "South Africa Champions",
+            "team_2": "England Champions",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250220,
             "title": "Darmstadt CC vs TSV Malmsheim (GSL Championship 2026)",
             "match_name": "Darmstadt CC vs TSV Malmsheim",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
             "team_1": "Darmstadt CC",
             "team_2": "TSV Malmsheim",
             "status": "UPCOMING",
@@ -871,24 +919,11 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249234,
-            "title": "South Africa Champions vs England Champions (World Championship of Legends, 2026)",
-            "match_name": "South Africa Champions vs England Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png",
-            "team_1": "South Africa Champions",
-            "team_2": "England Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250221,
             "title": "TSV Malmsheim vs Koln CC (GSL Championship 2026)",
             "match_name": "TSV Malmsheim vs Koln CC",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
             "team_1": "TSV Malmsheim",
             "team_2": "Koln CC",
             "status": "UPCOMING",
@@ -901,7 +936,7 @@
             "title": "ICA Berlin vs Darmstadt CC (GSL Championship 2026)",
             "match_name": "ICA Berlin vs Darmstadt CC",
             "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg",
             "team_1": "ICA Berlin",
             "team_2": "Darmstadt CC",
             "status": "UPCOMING",
@@ -910,28 +945,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250223,
-            "title": "Koln CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
-            "match_name": "Koln CC vs THCC Rot-Gelb Hamburg",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Koln CC",
-            "team_2": "THCC Rot-Gelb Hamburg",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249229,
             "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
             "match_name": "Australia Champions vs West Indies Champions",
             "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
             "team_1": "Australia Champions",
             "team_2": "West Indies Champions",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250223,
+            "title": "Koln CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "Koln CC vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250223_53117_KCC_THCC_fc-web.jpg",
+            "team_1": "Koln CC",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -971,6 +1006,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250224,
+            "title": "THCC Rot-Gelb Hamburg vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "THCC Rot-Gelb Hamburg vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250224_53117_THCC_ICAB_fc-web.jpg",
+            "team_1": "THCC Rot-Gelb Hamburg",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -1026,19 +1074,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250224,
-            "title": "THCC Rot-Gelb Hamburg vs ICA Berlin (GSL Championship 2026)",
-            "match_name": "THCC Rot-Gelb Hamburg vs ICA Berlin",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "THCC Rot-Gelb Hamburg",
-            "team_2": "ICA Berlin",
-            "status": "UPCOMING",
-            "startTime": "08:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249834,
             "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
@@ -1088,6 +1123,19 @@
             "team_2": "Seattle Thunders Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250183,
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 16-10-2026",
             "user-agent": null
         }
     ]
