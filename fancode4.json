@@ -2,52 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "08:27:11 PM 15-10-2026",
-    "generated_at": "2026-10-15 15:45:38",
+    "source_last_updated": "12:25:23 AM 16-10-2026",
+    "generated_at": "2026-10-15 19:25:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 36,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 34,
+    "total_matches": 35,
+    "live_matches_count": 0,
+    "upcoming_matches_count": 35,
     "matches": [
-        {
-            "event_category": "Badminton",
-            "match_id": "4250143_ENG",
-            "title": "BWF Super 750 - Denmark Open 2026 [English]",
-            "match_name": "Round 16 - Court 1 [English]",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 1",
-            "team_2": "Denmark",
-            "status": "LIVE",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250143_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": "4250144_ENG",
-            "title": "BWF Super 750 - Denmark Open 2026 [English]",
-            "match_name": "Round 16 - Court 2 [English]",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 2",
-            "team_2": "Denmark",
-            "status": "LIVE",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250144_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249234,
@@ -63,54 +25,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250179,
-            "title": "Atlanta Force vs Space City Cowboys (Atlanta Open T20 2026)",
-            "match_name": "Atlanta Force vs Space City Cowboys",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg",
-            "team_1": "Atlanta Force",
-            "team_2": "Space City Cowboys",
+            "match_id": 4249229,
+            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "UPCOMING",
-            "startTime": "11:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250190,
-            "title": "Atlanta Fire Women vs Hurricanes Women (Atlanta Open Women's T20 2026)",
-            "match_name": "Atlanta Fire Women vs Hurricanes Women",
-            "event_name": "Atlanta Open Women's T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg",
-            "team_1": "Atlanta Fire Women",
-            "team_2": "Hurricanes Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250180,
-            "title": "All Stars Cardinals vs Atlanta Fire (Atlanta Open T20 2026)",
-            "match_name": "All Stars Cardinals vs Atlanta Fire",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250180_53113_ASC_AF_fc-web_1791990455090.jpg",
-            "team_1": "All Stars Cardinals",
-            "team_2": "Atlanta Fire",
-            "status": "UPCOMING",
-            "startTime": "11:45:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250181,
-            "title": "Seattle Thunderbolts vs ICR Falcons (Atlanta Open T20 2026)",
-            "match_name": "Seattle Thunderbolts vs ICR Falcons",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250181_53113_ST_ICR_fc-web_1791990454371.jpg",
-            "team_1": "Seattle Thunderbolts",
-            "team_2": "ICR Falcons",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 16-10-2026",
+            "startTime": "09:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -150,32 +73,6 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249229,
-            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250202,
-            "title": "Mansfield Town vs Oxford United (League One 2026-27)",
-            "match_name": "Mansfield Town vs Oxford United",
-            "event_name": "League One 2026-27",
-            "image": "https://images.fancode.com/aig/match/v1791789693985/4250202_CASACARDS_APP.png",
-            "team_1": "Mansfield Town",
-            "team_2": "Oxford United",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 16-10-2026",
             "user-agent": null
         },
         {
@@ -283,6 +180,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4247653,
+            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
+            "match_name": "Deportivo de La Coruna vs Levante",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
+            "team_1": "Deportivo de La Coruna",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249594,
+            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
+            "team_1": "Burnley",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249283,
+            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
+            "match_name": "South Australia vs Queensland",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248845,
             "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
@@ -336,32 +272,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247653,
-            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Levante",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249594,
-            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
-            "team_1": "Burnley",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249834,
             "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
             "match_name": "Sydney FC vs Western Sydney Wanderers",
@@ -401,32 +311,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249283,
-            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Córdoba",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249794,
             "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
@@ -449,6 +333,19 @@
             "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
             "startTime": "04:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249994,
+            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Córdoba",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -489,48 +386,87 @@
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 17-10-2026",
             "user-agent": null
-        }
-    ],
-    "live_matches": [
-        {
-            "event_category": "Badminton",
-            "match_id": "4250143_ENG",
-            "title": "BWF Super 750 - Denmark Open 2026 [English]",
-            "match_name": "Round 16 - Court 1 [English]",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 1",
-            "team_2": "Denmark",
-            "status": "LIVE",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250143_ENG/english.m3u8"
-                }
-            ]
         },
         {
-            "event_category": "Badminton",
-            "match_id": "4250144_ENG",
-            "title": "BWF Super 750 - Denmark Open 2026 [English]",
-            "match_name": "Round 16 - Court 2 [English]",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Round 16 - Court 2",
-            "team_2": "Denmark",
-            "status": "LIVE",
-            "startTime": "12:30:00 PM 15-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250144_ENG/english.m3u8"
-                }
-            ]
+            "event_category": "Cricket",
+            "match_id": 4250225,
+            "title": "Koln CC vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "Koln CC vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg",
+            "team_1": "Koln CC",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250211,
+            "title": "Uganda A vs Jersey (Jersey tour of Uganda A 2026)",
+            "match_name": "Uganda A vs Jersey",
+            "event_name": "Jersey tour of Uganda A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg",
+            "team_1": "Uganda A",
+            "team_2": "Jersey",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250226,
+            "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "Darmstadt CC vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "02:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249835,
+            "title": "Auckland vs Melbourne City (A-League 2026-27)",
+            "match_name": "Auckland vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249694,
+            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250227,
+            "title": "TSV Malmsheim vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "TSV Malmsheim vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250227_53117_TSV_ICAB_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "04:00:00 PM 17-10-2026",
+            "user-agent": null
         }
     ],
+    "live_matches": [],
     "upcoming_matches": [
         {
             "event_category": "Cricket",
@@ -547,54 +483,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250179,
-            "title": "Atlanta Force vs Space City Cowboys (Atlanta Open T20 2026)",
-            "match_name": "Atlanta Force vs Space City Cowboys",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg",
-            "team_1": "Atlanta Force",
-            "team_2": "Space City Cowboys",
+            "match_id": 4249229,
+            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "UPCOMING",
-            "startTime": "11:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250190,
-            "title": "Atlanta Fire Women vs Hurricanes Women (Atlanta Open Women's T20 2026)",
-            "match_name": "Atlanta Fire Women vs Hurricanes Women",
-            "event_name": "Atlanta Open Women's T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg",
-            "team_1": "Atlanta Fire Women",
-            "team_2": "Hurricanes Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250180,
-            "title": "All Stars Cardinals vs Atlanta Fire (Atlanta Open T20 2026)",
-            "match_name": "All Stars Cardinals vs Atlanta Fire",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250180_53113_ASC_AF_fc-web_1791990455090.jpg",
-            "team_1": "All Stars Cardinals",
-            "team_2": "Atlanta Fire",
-            "status": "UPCOMING",
-            "startTime": "11:45:00 PM 15-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250181,
-            "title": "Seattle Thunderbolts vs ICR Falcons (Atlanta Open T20 2026)",
-            "match_name": "Seattle Thunderbolts vs ICR Falcons",
-            "event_name": "Atlanta Open T20 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250181_53113_ST_ICR_fc-web_1791990454371.jpg",
-            "team_1": "Seattle Thunderbolts",
-            "team_2": "ICR Falcons",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 16-10-2026",
+            "startTime": "09:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -634,32 +531,6 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249229,
-            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250202,
-            "title": "Mansfield Town vs Oxford United (League One 2026-27)",
-            "match_name": "Mansfield Town vs Oxford United",
-            "event_name": "League One 2026-27",
-            "image": "https://images.fancode.com/aig/match/v1791789693985/4250202_CASACARDS_APP.png",
-            "team_1": "Mansfield Town",
-            "team_2": "Oxford United",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 16-10-2026",
             "user-agent": null
         },
         {
@@ -767,6 +638,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4247653,
+            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
+            "match_name": "Deportivo de La Coruna vs Levante",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
+            "team_1": "Deportivo de La Coruna",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249594,
+            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
+            "team_1": "Burnley",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249283,
+            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
+            "match_name": "South Australia vs Queensland",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248845,
             "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
@@ -820,32 +730,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247653,
-            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Levante",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249594,
-            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
-            "team_1": "Burnley",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249834,
             "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
             "match_name": "Sydney FC vs Western Sydney Wanderers",
@@ -885,32 +769,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249283,
-            "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Queensland",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Córdoba",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249794,
             "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
@@ -933,6 +791,19 @@
             "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
             "startTime": "04:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249994,
+            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Córdoba",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -972,6 +843,84 @@
             "team_2": "Adelaide Strikers Women",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250225,
+            "title": "Koln CC vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "Koln CC vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg",
+            "team_1": "Koln CC",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250211,
+            "title": "Uganda A vs Jersey (Jersey tour of Uganda A 2026)",
+            "match_name": "Uganda A vs Jersey",
+            "event_name": "Jersey tour of Uganda A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg",
+            "team_1": "Uganda A",
+            "team_2": "Jersey",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250226,
+            "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "Darmstadt CC vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "02:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249835,
+            "title": "Auckland vs Melbourne City (A-League 2026-27)",
+            "match_name": "Auckland vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249694,
+            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250227,
+            "title": "TSV Malmsheim vs ICA Berlin (GSL Championship 2026)",
+            "match_name": "TSV Malmsheim vs ICA Berlin",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250227_53117_TSV_ICAB_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "ICA Berlin",
+            "status": "UPCOMING",
+            "startTime": "04:00:00 PM 17-10-2026",
             "user-agent": null
         }
     ]
