@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:06:32 PM 10-15-2026
+#LAST_UPDATE:09:46 PM 10-15-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - NBC SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1887,7 +1887,7 @@ http://193.47.62.50/hls/DMMM.m3u8
 #EXTINF:-1 tvg-id="817" tvg-name="UEFA Europa League: Lech vs Leverkusen - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Lech vs Leverkusen - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/f7a8945f-428d-48ea-a9f5-42056cb0ba56.m3u8
+https://www.rtmpcdn.com/live/b5d8712a-132c-4b4c-b491-af5444636d85.m3u8
 
 #EXTINF:-1 tvg-id="818" tvg-name="UEFA Europa League: Lyon vs Crystal Palace - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Lyon vs Crystal Palace - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1936,13 +1936,24 @@ https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.50/hls/DMMMA.m3u8
 
-#EXTINF:-1 tvg-id="819" tvg-name="UEFA Europa League: RB Salzburg vs Milan - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: RB Salzburg vs Milan - TNT SPORTS HD
+#EXTINF:-1 tvg-id="818" tvg-name="UEFA Europa League: Lyon vs Crystal Palace - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Lyon vs Crystal Palace - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/7f83d6a8-45e4-4933-996f-8f56aba4bab4.m3u8
+
+#EXTINF:-1 tvg-id="819" tvg-name="UEFA Europa League: RB Salzburg vs Milan - DAZN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: RB Salzburg vs Milan - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 https://edgestream6.pro/hls/griogoehvn2.m3u8
+
+#EXTINF:-1 tvg-id="819" tvg-name="UEFA Europa League: RB Salzburg vs Milan - PARAMOUNT+ HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: RB Salzburg vs Milan - PARAMOUNT+ HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58068/load-playlist-multi?&.m3u8
 
 #EXTINF:-1 tvg-id="819" tvg-name="UEFA Europa League: RB Salzburg vs Milan - SonyLiv ENG - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: RB Salzburg vs Milan - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -1959,6 +1970,11 @@ https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-80030
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.55/hls/3HHHA.m3u8
+
+#EXTINF:-1 tvg-id="819" tvg-name="UEFA Europa League: RB Salzburg vs Milan - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: RB Salzburg vs Milan - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/5906c892-ec5f-42eb-acf7-6769b4f44ca3.m3u8
 
 #EXTINF:-1 tvg-id="820" tvg-name="UEFA Europa League: Torreense vs Sunderland - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Torreense vs Sunderland - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2031,25 +2047,29 @@ https://www.rtmpcdn.com/live/fa30af30-b29e-41dc-8844-42e90c26b204.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.55/hls/3HHH.m3u8
 
-#EXTINF:-1 tvg-id="838" tvg-name="UEFA Europa League: USG vs Real Sociedad - CBS SPORTS FAST" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: USG vs Real Sociedad - CBS SPORTS FAST
+#EXTINF:-1 tvg-id="838" tvg-name="UEFA Europa League: USG vs Real Sociedad - SonyLiv ENG - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: USG vs Real Sociedad - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.futbol-x.top
-#EXTVLCOPT:http-origin=https://www.futbol-x.top
-https://type.futtv.nx.kg/rel-bou/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd
 
 #EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - BeIN Arabic HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - BeIN Arabic HD
+#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
 
 #EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -2057,183 +2077,35 @@ https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/NDDDDFFQQ.m3u8
+http://193.47.62.59/hls/GOOOAAAA.m3u8
 
 #EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-https://www.rtmpcdn.com/live/b73a52a7-91e5-4889-ba3c-33fc2d94863c.m3u8
+https://www.rtmpcdn.com/live/f6f8dc34-098a-4087-bd23-4d2fd40d0fac.m3u8
 
-#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - TNY SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - TNY SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uel/2026-09-17/cel-fer
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uel/2026-09-17/cel-fer
-https://messi.damitv.st/live-hls/channel/uel/2026-09-17/cel-fer/playlist.m3u8?tk=2bTFHAFj6gzbPW-zEjDuww&e=1789713052
-
-#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - LIVE SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - LIVE SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn2.zohanayaan.com:1686/hls/do54.m3u8?md5=Y6AZvG6nLpbr19YKod-sdA&expires=1789677069
-
-#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - TNY SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - TNY SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream2.pro/hls/sqdahach1ax.m3u8
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - CBS SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - CBS SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn7.zohanayaan.com:1686/hls/do7.m3u8?md5=UsxfC555Av-9sNO71E9niA&expires=1789677095
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - M LALIGA DE HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - M LALIGA DE HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn9.zohanayaan.com:1686/hls/do28.m3u8?md5=8lGUvTY8crzepHW4W05iCQ&expires=1789677097
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - BeIN Arabic HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - BeIN Arabic HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/NDDDD.m3u8
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-https://www.rtmpcdn.com/live/36f77530-c334-4270-9301-49c3cf5e4806.m3u8
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - CBS SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uel/2026-09-17/bes-olm
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uel/2026-09-17/bes-olm
-https://messi.damitv.st/live-hls/channel/uel/2026-09-17/bes-olm/playlist.m3u8?tk=2bTFHAFj6gzbPW-zEjDuww&e=1789713052
-
-#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - CANAL+ - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - CANAL+ - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn10.zohanayaan.com:1686/hls/do53.m3u8?md5=SDQw_lH8KHtaCHp9HC89cA&expires=1789677098
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - CBS SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn8.zohanayaan.com:1686/hls/do9.m3u8?md5=i5GCu1cVk59bkyocDqszKw&expires=1789677108
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - BeIN Arabic HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - BeIN Arabic HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://135.125.109.73:9000/beinsport5_.m3u8
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.52/hls/jjjjAA.m3u8
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-https://www.rtmpcdn.com/live/6e7198a5-f843-4026-aaf4-ba29e38dc40e.m3u8
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - CBS SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uel/2026-09-17/lil-tor
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uel/2026-09-17/lil-tor
-https://messi.damitv.st/live-hls/channel/uel/2026-09-17/lil-tor/playlist.m3u8?tk=DlM9EDZ-FwSHKWR7KO2zvA&e=1789713053
-
-#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - LIVE SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - LIVE SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn1.zohanayaan.com:1686/hls/do56.m3u8?md5=lmF8ZqquLvsIkTwDSxml1g&expires=1789677110
-
-#EXTINF:-1 tvg-id="842" tvg-name="UEFA Conference League: Hajduk vs Ajax - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Hajduk vs Ajax - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.45/hls/BSSS.m3u8
-
-#EXTINF:-1 tvg-id="1006" tvg-name="Championship: Millwall vs Lincoln - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Millwall vs Lincoln - GHD SPORTS SD
+#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - FAST SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090
+https://live.vivo155.com/live/hd-en-1-4630524.m3u8?txSecret=64d4ecae1d0ef5abd8746763b6ccc926&txTime=6AD132EE
 
-#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS - HD
+#EXTINF:-1 tvg-id="839" tvg-name="UEFA Europa League: Bournemouth vs Sturm - SonyLiv ENG - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Bournemouth vs Sturm - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live2.ftlcbx.com/live/73399212_62d0e4cd209688d8918f51ea80f7cca3_540p.m3u8?auth_key=1787868361-0-0-1dab0577fc0524ee6c85255fe2cbe67e
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2037143/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792129827~acl=/*~id=f3e747f49cc7daffa5250f54294624ed-1792086601557~hmac=abab228d17136460a8e2a3328c2006410d2ac21fc5bb7be398dc2a0286433b4d
 
-#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS - SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55312/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="1017" tvg-name="UEFA Conference League: Atalanta vs Pafos - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Atalanta vs Pafos - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8
-
-#EXTINF:-1 tvg-id="1017" tvg-name="UEFA Conference League: Atalanta vs Pafos - GHD SPORTS - SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Atalanta vs Pafos - GHD SPORTS - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.58/hls/TTTTAA.m3u8
-
-#EXTINF:-1 tvg-id="1016" tvg-name="UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.49/hls/nnnn.m3u8
-
-#EXTINF:-1 tvg-id="1016" tvg-name="UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS - SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS - SD
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -2241,11 +2113,161 @@ http://193.47.62.49/hls/nnnn.m3u8
 #EXTVLCOPT:http-origin=https://streame.center
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
 
-#EXTINF:-1 tvg-id="1016" tvg-name="UEFA Conference League: KÃ¸benhavn vs Braga - VG SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: KÃ¸benhavn vs Braga - VG SPORTS - HD
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/GOOOAAA.m3u8
+
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/b420fdeb-e638-4447-a23e-f4fc4bf07822.m3u8
+
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - CBS NETWORK HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - CBS NETWORK HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58073/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="840" tvg-name="UEFA Europa League: Benfica vs Celtic - SonyLiv ENG - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Benfica vs Celtic - SonyLiv ENG - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792129827~acl=/*~id=f3e747f49cc7daffa5250f54294624ed-1792086601557~hmac=abab228d17136460a8e2a3328c2006410d2ac21fc5bb7be398dc2a0286433b4d
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55315?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55315?ad=111
-https://chatgpt.hereisman.net/playlist/55315/load-playlist
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream4.pro/hls/377qj1h2727.m3u8
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - TUDN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - TUDN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream4.pro/hls/377qj1h2727.m3u8
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.50/hls/K333AAAA.m3u8
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/465e31ef-beba-44f8-a284-045e8d0db79f.m3u8
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - CBS NETWORK HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - CBS NETWORK HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58072/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="841" tvg-name="UEFA Europa League: Celta vs Juventus - SonyLiv ENG - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Celta vs Juventus - SonyLiv ENG - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
+#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792129827~acl=/*~id=f3e747f49cc7daffa5250f54294624ed-1792086601557~hmac=abab228d17136460a8e2a3328c2006410d2ac21fc5bb7be398dc2a0286433b4d
+
+#EXTINF:-1 tvg-id="842" tvg-name="UEFA Conference League: Hajduk vs Ajax - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Hajduk vs Ajax - GHD SPORTS - HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/9fe31447-623d-4029-bf14-f4e554ce45d1.m3u8
+
+#EXTINF:-1 tvg-id="842" tvg-name="UEFA Conference League: Hajduk vs Ajax - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Hajduk vs Ajax - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8
+
+#EXTINF:-1 tvg-id="1006" tvg-name="Championship: Millwall vs Lincoln - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Millwall vs Lincoln - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090
+
+#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+
+#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.44/hls/8BBB.m3u8
+
+#EXTINF:-1 tvg-id="1015" tvg-name="UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Brighton vs Kauno Å½algiris - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8
+
+#EXTINF:-1 tvg-id="1017" tvg-name="UEFA Conference League: Atalanta vs Pafos - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Atalanta vs Pafos - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.44/hls/8BBBA.m3u8
+
+#EXTINF:-1 tvg-id="1017" tvg-name="UEFA Conference League: Atalanta vs Pafos - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: Atalanta vs Pafos - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/c0f7760a-a528-4dad-9878-b06a4d9726f6.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-name="UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.41/hls/H999A.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-name="UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark" group-title="Football",UEFA Conference League: KÃ¸benhavn vs Braga - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8
 
 #EXTINF:-1 tvg-id="1026" tvg-name="Championship: Watford vs Charlton - beIN ENGLISH FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Watford vs Charlton - beIN ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2302,11 +2324,21 @@ http://193.47.62.49/hls/QIIIQQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/SIIIQQQQQQ.m3u8
 
+#EXTINF:-1 tvg-id="1045" tvg-name="League One: Mansfield vs Oxford Utd - BEIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football",League One: Mansfield vs Oxford Utd - BEIN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 #EXTINF:-1 tvg-id="1045" tvg-name="League One: Mansfield vs Oxford Utd - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football",League One: Mansfield vs Oxford Utd - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/HIIIVAAAAAQQ.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.55/hls/GOOOA.m3u8
 
 #EXTINF:-1 tvg-id="1047" tvg-name="UEFA Champions League: Stuttgart vs AtlÃ©tico Madrid - PARAMOUNT+ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Stuttgart vs AtlÃ©tico Madrid - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2348,45 +2380,29 @@ https://netanjahu.hls.st/t/e9af53c0dfa6746c858a1bff11ed716b/index.m3u8
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/a4b44cae69ba9308681df15bf7c13312/index.m3u8
 
+#EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - TNT SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - TNT SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/dza5z8f69.m3u8
+
 #EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.52/hls/jjjjAAA.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.55/hls/GOOO.m3u8
 
 #EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-https://www.rtmpcdn.com/live/87f8f806-2ea8-4756-9e99-780c96a7548e.m3u8
-
-#EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - CBS SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uel/2026-09-17/plz-usg
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uel/2026-09-17/plz-usg
-https://messi.damitv.st/live-hls/channel/uel/2026-09-17/plz-usg/playlist.m3u8?tk=UPe8TBE8WfOync9OcCmUkg&e=1789713054
-
-#EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - SPORTS CT HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - SPORTS CT HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn8.zohanayaan.com:1686/hls/do41.m3u8?md5=93uEWexCfjeTCUoko0KaZg&expires=1789677093
-
-#EXTINF:-1 tvg-id="1059" tvg-name="UEFA Europa League: Marseille vs Olympiacos - CBS SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="Football",UEFA Europa League: Marseille vs Olympiacos - CBS SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://forgemindly.com/
-#EXTVLCOPT:http-origin=https://forgemindly.com/
-https://cdn2.zohanayaan.com:1686/hls/do6.m3u8?md5=ncC_C4eJGrGNYvZURy5YFA&expires=1789677091
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/dde626d7-b157-4c16-a3d1-59fb311a7b9e.m3u8
 
 #EXTINF:-1 tvg-id="1143" tvg-name="Liga F Moeve: Real Madrid vs Espanyol - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1127/image/dark" group-title="Football",Liga F Moeve: Real Madrid vs Espanyol - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
