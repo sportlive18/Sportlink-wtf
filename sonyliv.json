@@ -1,20 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:09:00 15-10-2026",
+    "last update time": "21:11:49 15-10-2026",
     "matches": [
         {
-            "event_category": "Golf",
+            "event_category": "Volleyball",
             "isLive": true,
-            "contentId": "1090548063_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg",
+            "contentId": "1090548068_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378"
+        },
+        {
+            "event_category": "Volleyball",
+            "isLive": true,
+            "contentId": "1090548068_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090548076_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791664082709476_APL26_Kakatiya_Knights_vs_Chero_Archers_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "DP World India Championship - Day 1 - 15 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792107540~acl=/*~id=57319441038360309767802639107951~hmac=d12cfb687eca702de5869496939ce19777d3349c472af29ff82666ad20e7df0f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792107540~acl=/*~id=57319441038360309767802639107951~hmac=d12cfb687eca702de5869496939ce19777d3349c472af29ff82666ad20e7df0f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792107540~acl=/*~id=57319441038360309767802639107951~hmac=d12cfb687eca702de5869496939ce19777d3349c472af29ff82666ad20e7df0f"
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Kakatiya Knights vs Chero Archers - 15 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122108~acl=/*~id=76310331523983865452277708409735~hmac=2f0a45c31e22e784489a49d0c93c58e278652b6b9f0d97865f14c99783f29378"
         },
         {
             "event_category": "Cricket",
