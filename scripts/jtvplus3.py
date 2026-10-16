@@ -5,9 +5,9 @@ import base64
 import time
 import sys
 import requests
-from typing import Dict, Any, Tuple
+from typing import Dict, Any, Tuple, List
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
+from urllib.parse import urlparse, urlunparse, parse_qs, urlencode, unquote
 
 CHANNELS_URL = "https://sportlink10-ajp.pages.dev/jtv.json"
 COOKIE_URL = "https://allinonereborn2.online/jstrweb2/cookies.json"
@@ -71,11 +71,6 @@ def get_normal_cookie() -> str:
 def _extract_cookie_from_url(url: str) -> Tuple[str, str]:
     """
     Extract embedded token/cookie params from a JioTV URL.
-
-    Handles both URL-ENCODED query strings (from requests/json) and RAW
-    query strings. The Akamai token contains '~' and '*' which urlencode
-    will percent-encode; players expect the raw form, so we always return
-    the cookie in its decoded/original shape.
     """
     if not url:
         return url, ""
@@ -84,7 +79,6 @@ def _extract_cookie_from_url(url: str) -> Tuple[str, str]:
     if not parsed.query:
         return url, ""
 
-    # keep_blank_values=True so params survive round-trip
     params = parse_qs(parsed.query, keep_blank_values=True)
 
     cookie_name = ""
@@ -96,13 +90,11 @@ def _extract_cookie_from_url(url: str) -> Tuple[str, str]:
             cookie_name = key
             break
 
-    # Also handle the form '__hdnea__' appearing raw (unencoded) in the query
     if not cookie_raw:
         m = re.search(r"(?:^|&)(__hdnea__|__cookie__|cookie|cookies)=([^&]+)", parsed.query)
         if m:
             cookie_name = m.group(1)
             cookie_raw = m.group(2)
-            # Rebuild params without that token
             params = parse_qs(
                 re.sub(r"(?:^|&)" + re.escape(cookie_name) + r"=[^&]+", "", parsed.query).lstrip("&"),
                 keep_blank_values=True,
@@ -111,9 +103,6 @@ def _extract_cookie_from_url(url: str) -> Tuple[str, str]:
     if not cookie_raw:
         return url, ""
 
-    # The JioTV hdnea token is NOT url-encoded on the wire, so make sure
-    # we're not returning 'st%3D...%7Ehmac%3D...' form.
-    from urllib.parse import unquote
     cookie_val = unquote(cookie_raw)
     cookie_string = f"{cookie_name}={cookie_val}"
 
@@ -126,29 +115,29 @@ def _extract_cookie_from_url(url: str) -> Tuple[str, str]:
 
 
 # ---------------- COOKIE EXPIRY ----------------
-def get_cookie_expiry(cookie: str) -> str:
+def get_cookie_expiry_details(cookie: str) -> Tuple[int, str]:
     """
-    Parse `exp=<unix_ts>` from an __hdnea__ cookie and return it as
-    a human-readable IST string.
+    Parse `exp=<unix_ts>` from an __hdnea__ cookie.
+    Returns (timestamp, human_readable_ist_string).
     """
     if not cookie:
-        return ""
+        return 0, ""
     m = re.search(r"exp=(\d+)", cookie)
     if not m:
-        return ""
+        return 0, ""
     try:
         exp = int(m.group(1))
-        # Use timezone-aware conversion to avoid deprecation warning
         dt_utc = datetime.fromtimestamp(exp, tz=timezone.utc)
         dt_ist = dt_utc + timedelta(hours=5, minutes=30)
         hour12 = dt_ist.hour % 12 or 12
         ampm = "AM" if dt_ist.hour < 12 else "PM"
-        return (
-            f"{dt_ist.day}/{dt_ist.month}/{dt_ist.year} "
-            f"{hour12}:{dt_ist.minute:02d}:{dt_ist.second:02d} {ampm} IST"
+        human = (
+            f"{dt_ist.day} {dt_ist.strftime('%b %Y')}, "
+            f"{hour12:02d}:{dt_ist.minute:02d}:{dt_ist.second:02d} {ampm} IST"
         )
+        return exp, human
     except Exception:
-        return ""
+        return 0, ""
 
 
 # ---------------- SPORTS DATA ----------------
@@ -191,7 +180,8 @@ def get_sports_data() -> Dict[str, Any]:
 
 
 # ---------------- HELPERS ----------------
-def extract_keys(channel):
+def extract_keys(channel) -> Tuple[str, str]:
+    """Legacy single key extraction (kept for compatibility)."""
     key_id = channel.get("keyId") or ""
     key = channel.get("key") or ""
     if not key_id and isinstance(channel.get("clearkey"), dict) and channel.get("clearkey"):
@@ -202,6 +192,66 @@ def extract_keys(channel):
     return key_id, key
 
 
+def extract_all_keys(channel) -> List[Dict[str, str]]:
+    """
+    Extract ALL ClearKey pairs from a channel.
+    Returns list of dicts: [{"key_id": "...", "key": "..."}, ...]
+    Handles:
+      - channel["clearkey"] as dict {kid: key, ...}
+      - channel["keyId"] + channel["key"]
+      - channel["keys"] as list of dicts
+      - channel["key_ids"] / channel["key"] lists
+    """
+    keys: List[Dict[str, str]] = []
+
+    # 1) clearkey dict
+    clearkey = channel.get("clearkey")
+    if isinstance(clearkey, dict) and clearkey:
+        for kid, kval in clearkey.items():
+            if kid and kval:
+                keys.append({"key_id": str(kid), "key": str(kval)})
+
+    # 2) keys list
+    keys_list = channel.get("keys")
+    if isinstance(keys_list, list):
+        for item in keys_list:
+            if isinstance(item, dict):
+                kid = item.get("key_id") or item.get("keyId") or item.get("kid")
+                kval = item.get("key") or item.get("k")
+                if kid and kval:
+                    keys.append({"key_id": str(kid), "key": str(kval)})
+            elif isinstance(item, str) and ":" in item:
+                kid, kval = item.split(":", 1)
+                if kid and kval:
+                    keys.append({"key_id": kid, "key": kval})
+
+    # 3) keyId + key singletons
+    if not keys:
+        key_id = channel.get("keyId") or channel.get("key_id")
+        key = channel.get("key")
+        if key_id and key:
+            keys.append({"key_id": str(key_id), "key": str(key)})
+
+    # 4) key_ids list + key list
+    key_ids = channel.get("key_ids")
+    key_vals = channel.get("key_values")
+    if isinstance(key_ids, list) and isinstance(key_vals, list) and len(key_ids) == len(key_vals):
+        for kid, kval in zip(key_ids, key_vals):
+            if kid and kval:
+                keys.append({"key_id": str(kid), "key": str(kval)})
+
+    # Deduplicate preserving order
+    seen = set()
+    unique = []
+    for k in keys:
+        sig = (k["key_id"], k["key"])
+        if sig not in seen:
+            seen.add(sig)
+            unique.append(k)
+
+    return unique
+
+
 def _clean_base_url(raw_url: str) -> str:
     parsed = urlparse(raw_url)
     return urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, "", ""))
@@ -210,9 +260,6 @@ def _clean_base_url(raw_url: str) -> str:
 def resolve_channel(channel, normal_cookie, sports_cookies):
     """
     Returns (final_url, cookie_value, is_sports).
-
-    FIX: Sports channels whose cookie is missing fall back to the normal cookie,
-    so the stream doesn't 403 when the sports endpoint is stale.
     """
     channel_id = str(channel.get("id") or "")
 
@@ -223,7 +270,6 @@ def resolve_channel(channel, normal_cookie, sports_cookies):
             return url, cookie or normal_cookie, True
         url = entry.get("url", "")
         cookie = entry.get("cookie", "")
-        # FIX: fall back to the global cookie when the sports entry has none
         if not cookie:
             cookie = normal_cookie
         return url, cookie, True
@@ -246,7 +292,7 @@ def create_channel_entry(channel, normal_cookie="", sports_cookies=None):
     group      = channel.get("group") or channel.get("category") or "Other"
     raw_url    = channel.get("url") or ""
 
-    key_id, key = extract_keys(channel)
+    all_keys = extract_all_keys(channel)
 
     final_url, cookie_to_use, _is_sports = resolve_channel(
         channel, normal_cookie, sports_cookies
@@ -268,15 +314,16 @@ def create_channel_entry(channel, normal_cookie="", sports_cookies=None):
     if is_mpd:
         lines.append("#KODIPROP:inputstream=inputstream.adaptive")
         lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
-        if key_id and key:
+        if all_keys:
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={key_id}:{key}")
+            # Multiple keys joined with comma: kid1:key1,kid2:key2
+            key_pairs = ",".join(f"{k['key_id']}:{k['key']}" for k in all_keys)
+            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={key_pairs}")
         elif channel.get("license_url"):
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
             lines.append(f'#KODIPROP:inputstream.adaptive.license_key={channel["license_url"]}')
 
     if cookie_to_use:
-        # FIX: full header set, not just cookie — VLC/TiviMate need Referer + UA too
         stream_headers = (
             f"User-Agent={USER_AGENT}"
             f"&Referer=https://www.jiotv.com/"
@@ -310,21 +357,34 @@ def build_channel_object(channel, normal_cookie="", sports_cookies=None):
     if sports_cookies is None:
         sports_cookies = {}
 
-    key_id, key = extract_keys(channel)
+    all_keys = extract_all_keys(channel)
 
     final_url, cookie_to_use, _is_sports = resolve_channel(
         channel, normal_cookie, sports_cookies
     )
 
+    exp_ts, exp_ist = get_cookie_expiry_details(cookie_to_use)
+
+    # Primary key (first) for legacy key_id/key fields
+    primary = all_keys[0] if all_keys else {"key_id": None, "key": None}
+
+    # sportlink list: all key pairs as "kid:key" strings (only if >1 key or sports)
+    sportlink = None
+    if len(all_keys) > 1:
+        sportlink = [f"{k['key_id']}:{k['key']}" for k in all_keys]
+    elif len(all_keys) == 1 and _is_sports:
+        sportlink = [f"{all_keys[0]['key_id']}:{all_keys[0]['key']}"]
+
     return {
-        "id":             str(channel.get("id") or ""),
-        "name":           channel.get("name") or "",
-        "stream_url":     final_url,
-        "cookie":         cookie_to_use,
-        "cookie_expires": get_cookie_expiry(cookie_to_use),
-        "key_id":         key_id,
-        "key":            key,
-        "logo":           channel.get("logo") or "",
+        "id":               str(channel.get("id") or ""),
+        "name":             channel.get("name") or "",
+        "stream_url":       final_url,
+        "cookie":           cookie_to_use,
+        "cookie_expire":    exp_ts,
+        "cookie_expire_ist": exp_ist,
+        "key_id":           primary["key_id"],
+        "key":              primary["key"],
+        "sportlink":        sportlink,
     }
 
 
@@ -376,7 +436,6 @@ def upload_to_github(filename: str, content: str):
     if existing.status_code == 200:
         existing_json = existing.json()
         sha = existing_json.get("sha")
-        # FIX: GitHub may not return 'content' for files > 1MB — handle that
         existing_content = ""
         if existing_json.get("content"):
             existing_content = base64.b64decode(existing_json["content"]).decode("utf-8")
