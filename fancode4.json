@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:34:53 AM 16-10-2026",
-    "generated_at": "2026-10-16 06:15:06",
+    "source_last_updated": "11:44:59 AM 16-10-2026",
+    "generated_at": "2026-10-16 06:25:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 38,
+    "live_matches_count": 1,
+    "upcoming_matches_count": 39,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249793_ENG",
-            "title": "T20 Spring Challenge, 2026 [English]",
-            "match_name": "ACT Meteors vs Brisbane Heat Women [English]",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249793_53097_BH-W_AM-W_FC-Web_1791883788028.png",
-            "team_1": "ACT Meteors",
-            "team_2": "Brisbane Heat Women",
-            "status": "LIVE",
-            "startTime": "09:00:00 AM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249793_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Tennis",
             "match_id": "4248846_ENG",
@@ -541,28 +522,22 @@
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 17-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250184,
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249793_ENG",
-            "title": "T20 Spring Challenge, 2026 [English]",
-            "match_name": "ACT Meteors vs Brisbane Heat Women [English]",
-            "event_name": "T20 Spring Challenge, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249793_53097_BH-W_AM-W_FC-Web_1791883788028.png",
-            "team_1": "ACT Meteors",
-            "team_2": "Brisbane Heat Women",
-            "status": "LIVE",
-            "startTime": "09:00:00 AM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249793_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Tennis",
             "match_id": "4248846_ENG",
@@ -1076,6 +1051,19 @@
             "team_2": "Denmark",
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250184,
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
             "user-agent": null
         }
     ]
