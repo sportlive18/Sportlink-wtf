@@ -179,69 +179,138 @@ def get_sports_data() -> Dict[str, Any]:
     return {"sportsIds": set(sports_cookies.keys()), "sportsCookies": sports_cookies}
 
 
-# ---------------- HELPERS ----------------
+# ---------------- KEY EXTRACTION ----------------
 def extract_all_keys(channel) -> List[Dict[str, str]]:
     """
     Extract ALL ClearKey pairs from a channel.
     Returns list of dicts: [{"key_id": "...", "key": "..."}, ...]
 
-    Supported formats:
-      1) channel["keys"] = [{"keyId": "...", "key": "..."}, ...]   <-- primary format
-      2) channel["keys"] = [{"key_id": "...", "key": "..."}, ...]
-      3) channel["keys"] = ["kid:key", "kid2:key2", ...]
-      4) channel["clearkey"] = {"kid": "key", ...}
-      5) channel["keyId"] + channel["key"]
-      6) channel["key_ids"] + channel["key_values"]
+    Handles every known JioTV-ish shape:
+      1)  "keys": [{"keyId": "...", "key": "..."}, ...]
+      2)  "keys": [{"key_id": "...", "key": "..."}, ...]
+      3)  "keys": [{"kid": "...", "k": "..."}, ...]
+      4)  "keys": ["kid:key", "kid2:key2", ...]
+      5)  "keys": {"kid1": "key1", "kid2": "key2"}            (dict)
+      6)  "clearkey": {"kid": "key", ...}                     (dict)
+      7)  "clearkey": [{"keyId": "...", "key": "..."}, ...]   (list)
+      8)  "clearkeys": [{"keyId": "...", "key": "..."}, ...]  (list)
+      9)  "keyId": "kid1,kid2"  + "key": "key1,key2"          (comma strings)
+      10) "keyId": ["kid1","kid2"] + "key": ["key1","key2"]   (parallel lists)
+      11) "keyId": "kid" + "key": "key"                       (singletons)
+      12) "key_id": "kid" + "key": "key"
+      13) "key_ids": [...] + "key_values": [...]              (parallel lists)
+      14) "keyId": "kid1:key1,kid2:key2"                      (packed pairs)
     """
     keys: List[Dict[str, str]] = []
 
-    # 1, 2, 3) keys list (list of dicts OR list of "kid:key" strings)
-    keys_list = channel.get("keys")
-    if isinstance(keys_list, list):
-        for item in keys_list:
+    def _add(kid, kval):
+        if kid is None or kval is None:
+            return
+        kid_s = str(kid).strip()
+        kval_s = str(kval).strip()
+        if kid_s and kval_s:
+            keys.append({"key_id": kid_s, "key": kval_s})
+
+    def _parse_any_string(s: str):
+        """Parse strings like 'kid:key,kid2:key2' or 'kid,kid2'."""
+        if not s:
+            return
+        s = s.strip()
+        # packed pairs: "kid1:key1,kid2:key2"
+        if ":" in s and "," in s:
+            for pair in s.split(","):
+                if ":" in pair:
+                    k1, k2 = pair.split(":", 1)
+                    _add(k1, k2)
+            return
+        # single pair: "kid:key"
+        if ":" in s:
+            k1, k2 = s.split(":", 1)
+            _add(k1, k2)
+
+    # ---- 1..5) "keys" field (list or dict) ----
+    keys_field = channel.get("keys")
+    if isinstance(keys_field, list):
+        for item in keys_field:
             if isinstance(item, dict):
                 kid = (
                     item.get("keyId")
                     or item.get("key_id")
                     or item.get("kid")
                     or item.get("keyID")
+                    or item.get("id")
                 )
-                kval = item.get("key") or item.get("k") or item.get("value")
-                if kid and kval:
-                    keys.append({"key_id": str(kid), "key": str(kval)})
-            elif isinstance(item, str) and ":" in item:
-                kid, kval = item.split(":", 1)
-                kid, kval = kid.strip(), kval.strip()
-                if kid and kval:
-                    keys.append({"key_id": kid, "key": kval})
+                kval = (
+                    item.get("key")
+                    or item.get("k")
+                    or item.get("value")
+                    or item.get("keyValue")
+                )
+                _add(kid, kval)
+            elif isinstance(item, str):
+                _parse_any_string(item)
+    elif isinstance(keys_field, dict) and keys_field:
+        for kid, kval in keys_field.items():
+            _add(kid, kval)
 
-    # 4) clearkey dict
+    # ---- 6..8) clearkey / clearkeys (dict or list) ----
     if not keys:
-        clearkey = channel.get("clearkey")
-        if isinstance(clearkey, dict) and clearkey:
-            for kid, kval in clearkey.items():
-                if kid and kval:
-                    keys.append({"key_id": str(kid), "key": str(kval)})
+        for field in ("clearkey", "clearkeys", "clearKeys", "clear_key"):
+            ck = channel.get(field)
+            if isinstance(ck, dict) and ck:
+                for kid, kval in ck.items():
+                    _add(kid, kval)
+                break
+            elif isinstance(ck, list) and ck:
+                for item in ck:
+                    if isinstance(item, dict):
+                        kid = (
+                            item.get("keyId")
+                            or item.get("key_id")
+                            or item.get("kid")
+                            or item.get("id")
+                        )
+                        kval = item.get("key") or item.get("k") or item.get("value")
+                        _add(kid, kval)
+                    elif isinstance(item, str):
+                        _parse_any_string(item)
+                break
 
-    # 5) keyId + key singletons
+    # ---- 9..12,14) keyId / key variants ----
     if not keys:
-        kid = channel.get("keyId") or channel.get("key_id")
-        kval = channel.get("key")
-        if kid and kval:
-            keys.append({"key_id": str(kid), "key": str(kval)})
+        kid_any = (
+            channel.get("keyId")
+            or channel.get("key_id")
+            or channel.get("keyID")
+        )
+        kval_any = channel.get("key") or channel.get("keyValue")
 
-    # 6) key_ids list + key_values list
+        # 10) parallel lists
+        if isinstance(kid_any, list) and isinstance(kval_any, list):
+            for a, b in zip(kid_any, kval_any):
+                _add(a, b)
+        # 9 / 14) comma strings or packed pairs
+        elif isinstance(kid_any, str) and isinstance(kval_any, str):
+            kids = [x.strip() for x in kid_any.split(",") if x.strip()]
+            kvs  = [x.strip() for x in kval_any.split(",") if x.strip()]
+            if len(kids) > 1 and len(kids) == len(kvs):
+                for a, b in zip(kids, kvs):
+                    _add(a, b)
+            else:
+                # maybe packed pairs in one string
+                _parse_any_string(kid_any)
+                _add(kid_any, kval_any)
+        else:
+            # 11 / 12) singletons
+            _add(kid_any, kval_any)
+
+    # ---- 13) key_ids + key_values ----
     if not keys:
-        key_ids = channel.get("key_ids")
-        key_vals = channel.get("key_values")
-        if (
-            isinstance(key_ids, list)
-            and isinstance(key_vals, list)
-            and len(key_ids) == len(key_vals)
-        ):
-            for kid, kval in zip(key_ids, key_vals):
-                if kid and kval:
-                    keys.append({"key_id": str(kid), "key": str(kval)})
+        kid_list = channel.get("key_ids") or channel.get("keyIds")
+        kval_list = channel.get("key_values") or channel.get("keyValues")
+        if isinstance(kid_list, list) and isinstance(kval_list, list):
+            for a, b in zip(kid_list, kval_list):
+                _add(a, b)
 
     # Deduplicate preserving order
     seen = set()
@@ -466,6 +535,15 @@ def main():
     if isinstance(channels, dict):
         channels = channels.get("channels") or channels.get("data") or []
     print(f"[INFO] Channels loaded: {len(channels)}")
+
+    # ---- DEBUG: dump raw shape of a few channels so we can see key fields ----
+    DEBUG_IDS = {"1106", "1108", "143", "144", "146"}
+    for ch in channels:
+        if str(ch.get("id") or "") in DEBUG_IDS:
+            try:
+                print(f"[DEBUG] id={ch.get('id')} keys={json.dumps(ch.get('keys'), ensure_ascii=False)}")
+            except Exception:
+                pass
 
     normal_cookie = get_normal_cookie()
     print(f"[INFO] Cookie: {'found' if normal_cookie else 'not found'}")
