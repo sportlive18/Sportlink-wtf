@@ -180,65 +180,68 @@ def get_sports_data() -> Dict[str, Any]:
 
 
 # ---------------- HELPERS ----------------
-def extract_keys(channel) -> Tuple[str, str]:
-    """Legacy single key extraction (kept for compatibility)."""
-    key_id = channel.get("keyId") or ""
-    key = channel.get("key") or ""
-    if not key_id and isinstance(channel.get("clearkey"), dict) and channel.get("clearkey"):
-        try:
-            key_id, key = next(iter(channel["clearkey"].items()))
-        except StopIteration:
-            pass
-    return key_id, key
-
-
 def extract_all_keys(channel) -> List[Dict[str, str]]:
     """
     Extract ALL ClearKey pairs from a channel.
     Returns list of dicts: [{"key_id": "...", "key": "..."}, ...]
-    Handles:
-      - channel["clearkey"] as dict {kid: key, ...}
-      - channel["keyId"] + channel["key"]
-      - channel["keys"] as list of dicts
-      - channel["key_ids"] / channel["key"] lists
+
+    Supported formats:
+      1) channel["keys"] = [{"keyId": "...", "key": "..."}, ...]   <-- primary format
+      2) channel["keys"] = [{"key_id": "...", "key": "..."}, ...]
+      3) channel["keys"] = ["kid:key", "kid2:key2", ...]
+      4) channel["clearkey"] = {"kid": "key", ...}
+      5) channel["keyId"] + channel["key"]
+      6) channel["key_ids"] + channel["key_values"]
     """
     keys: List[Dict[str, str]] = []
 
-    # 1) clearkey dict
-    clearkey = channel.get("clearkey")
-    if isinstance(clearkey, dict) and clearkey:
-        for kid, kval in clearkey.items():
-            if kid and kval:
-                keys.append({"key_id": str(kid), "key": str(kval)})
-
-    # 2) keys list
+    # 1, 2, 3) keys list (list of dicts OR list of "kid:key" strings)
     keys_list = channel.get("keys")
     if isinstance(keys_list, list):
         for item in keys_list:
             if isinstance(item, dict):
-                kid = item.get("key_id") or item.get("keyId") or item.get("kid")
-                kval = item.get("key") or item.get("k")
+                kid = (
+                    item.get("keyId")
+                    or item.get("key_id")
+                    or item.get("kid")
+                    or item.get("keyID")
+                )
+                kval = item.get("key") or item.get("k") or item.get("value")
                 if kid and kval:
                     keys.append({"key_id": str(kid), "key": str(kval)})
             elif isinstance(item, str) and ":" in item:
                 kid, kval = item.split(":", 1)
+                kid, kval = kid.strip(), kval.strip()
                 if kid and kval:
                     keys.append({"key_id": kid, "key": kval})
 
-    # 3) keyId + key singletons
+    # 4) clearkey dict
     if not keys:
-        key_id = channel.get("keyId") or channel.get("key_id")
-        key = channel.get("key")
-        if key_id and key:
-            keys.append({"key_id": str(key_id), "key": str(key)})
+        clearkey = channel.get("clearkey")
+        if isinstance(clearkey, dict) and clearkey:
+            for kid, kval in clearkey.items():
+                if kid and kval:
+                    keys.append({"key_id": str(kid), "key": str(kval)})
 
-    # 4) key_ids list + key list
-    key_ids = channel.get("key_ids")
-    key_vals = channel.get("key_values")
-    if isinstance(key_ids, list) and isinstance(key_vals, list) and len(key_ids) == len(key_vals):
-        for kid, kval in zip(key_ids, key_vals):
-            if kid and kval:
-                keys.append({"key_id": str(kid), "key": str(kval)})
+    # 5) keyId + key singletons
+    if not keys:
+        kid = channel.get("keyId") or channel.get("key_id")
+        kval = channel.get("key")
+        if kid and kval:
+            keys.append({"key_id": str(kid), "key": str(kval)})
+
+    # 6) key_ids list + key_values list
+    if not keys:
+        key_ids = channel.get("key_ids")
+        key_vals = channel.get("key_values")
+        if (
+            isinstance(key_ids, list)
+            and isinstance(key_vals, list)
+            and len(key_ids) == len(key_vals)
+        ):
+            for kid, kval in zip(key_ids, key_vals):
+                if kid and kval:
+                    keys.append({"key_id": str(kid), "key": str(kval)})
 
     # Deduplicate preserving order
     seen = set()
@@ -368,23 +371,21 @@ def build_channel_object(channel, normal_cookie="", sports_cookies=None):
     # Primary key (first) for legacy key_id/key fields
     primary = all_keys[0] if all_keys else {"key_id": None, "key": None}
 
-    # sportlink list: all key pairs as "kid:key" strings (only if >1 key or sports)
+    # sportlink: all key pairs as "kid:key" strings (when >1 key present)
     sportlink = None
     if len(all_keys) > 1:
         sportlink = [f"{k['key_id']}:{k['key']}" for k in all_keys]
-    elif len(all_keys) == 1 and _is_sports:
-        sportlink = [f"{all_keys[0]['key_id']}:{all_keys[0]['key']}"]
 
     return {
-        "id":               str(channel.get("id") or ""),
-        "name":             channel.get("name") or "",
-        "stream_url":       final_url,
-        "cookie":           cookie_to_use,
-        "cookie_expire":    exp_ts,
+        "id":                str(channel.get("id") or ""),
+        "name":              channel.get("name") or "",
+        "stream_url":        final_url,
+        "cookie":            cookie_to_use,
+        "cookie_expire":     exp_ts,
         "cookie_expire_ist": exp_ist,
-        "key_id":           primary["key_id"],
-        "key":              primary["key"],
-        "sportlink":        sportlink,
+        "key_id":            primary["key_id"],
+        "key":               primary["key"],
+        "sportlink":         sportlink,
     }
 
 
