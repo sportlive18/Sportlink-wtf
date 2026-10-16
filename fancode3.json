@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/10/2026, 10:14:23 am",
+  "updatedAt": "16/10/2026, 11:45:29 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "ACT Meteors vs Brisbane Heat Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249793",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249793_53097_BH-W_AM-W_FC-Web_1791883788028.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/240p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/360p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/480p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/540p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/720p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA"
-          },
-          "cookie": "hdntl=Expires=1792207411~_GO=Generated~acl=/mumbai/4249793_english_hls_129f369ae072442_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f5c360c-42e3-40~Signature=AZJsJWaibNEcwcfHpFYqVV6Vo7swXL-OKxnSnfXHsU7_Y41h9BA6LYodI9S--ciGrpTMnfxu8vzM_SvsD2bPo6oa6UYA",
-          "expires": "1792207411",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Stadium Court [English]",
@@ -111,12 +78,12 @@
     },
     {
       "category": "Cricket",
-      "title": "South Australia vs Queensland",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": "4249283",
+      "title": "Darmstadt CC vs TSV Malmsheim",
+      "tournament": "GSL Championship 2026",
+      "match_id": "4250220",
       "status": "UPCOMING",
-      "startTime": "05:00:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+      "startTime": "12:00:00 PM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -130,12 +97,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Darmstadt CC vs TSV Malmsheim",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250220",
+      "title": "South Australia vs Queensland",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249283",
       "status": "UPCOMING",
-      "startTime": "12:00:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
+      "startTime": "05:00:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -358,6 +325,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Canada vs Nepal",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250117",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249794",
@@ -395,13 +381,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Canada vs Nepal",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250117",
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248845",
       "status": "UPCOMING",
-      "startTime": "11:00:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
+      "startTime": "12:00:00 PM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -452,25 +438,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Leganes vs Córdoba",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249994",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Koln CC vs ICA Berlin",
       "tournament": "GSL Championship 2026",
@@ -509,13 +476,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248845",
+      "category": "Football",
+      "title": "Leganes vs Córdoba",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249994",
       "status": "UPCOMING",
-      "startTime": "12:00:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "startTime": "12:00:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg",
+      "tournament": "GSL Championship 2026",
+      "match_id": "4250226",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -586,25 +572,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250226",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Bangladesh vs Zimbabwe",
       "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
       "match_id": "4249694",
@@ -643,12 +610,12 @@
     },
     {
       "category": "Football",
-      "title": "Auckland vs Melbourne City",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249835",
+      "title": "Watford F.C. vs Charlton Athletic F.C",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249595",
       "status": "UPCOMING",
-      "startTime": "09:30:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+      "startTime": "05:00:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -662,12 +629,12 @@
     },
     {
       "category": "Football",
-      "title": "Watford F.C. vs Charlton Athletic F.C",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4249595",
+      "title": "Auckland vs Melbourne City",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249835",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
+      "startTime": "09:30:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -737,13 +704,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Badminton",
-      "title": "Semi-Final",
-      "tournament": "BWF Super 750 - Denmark Open 2026",
-      "match_id": "4250147",
+      "category": "Cricket",
+      "title": "Hurricanes Women vs Seattle Thunders Women",
+      "tournament": "Atlanta Open Women's T20 2026",
+      "match_id": "4250193",
       "status": "UPCOMING",
-      "startTime": "12:30:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "startTime": "07:00:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250193_53114_HR-W_ST-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -775,13 +742,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Hurricanes Women vs Seattle Thunders Women",
-      "tournament": "Atlanta Open Women's T20 2026",
-      "match_id": "4250193",
+      "category": "Badminton",
+      "title": "Semi-Final",
+      "tournament": "BWF Super 750 - Denmark Open 2026",
+      "match_id": "4250147",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250193_53114_HR-W_ST-W_fc-web.jpg",
+      "startTime": "12:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250184",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
