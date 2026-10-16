@@ -138,19 +138,6 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
     """
     Extract ALL ClearKey pairs from a channel.
     Returns list of dicts: [{"key_id": "...", "key": "..."}, ...]
-
-    Handles:
-      1)  "keys": [{"keyId": "...", "key": "..."}, ...]   <-- primary
-      2)  "keys": [{"key_id": "...", "key": "..."}, ...]
-      3)  "keys": ["kid:key", ...]
-      4)  "keys": {"kid1": "key1", ...}
-      5)  "clearkey": {"kid": "key"}
-      6)  "clearkey"/"clearkeys": [{"keyId": ..., "key": ...}, ...]
-      7)  "keyId": "kid1,kid2" + "key": "key1,key2"
-      8)  "keyId": ["kid1","kid2"] + "key": ["key1","key2"]
-      9)  "keyId": "kid" + "key": "key"   (singletons)
-      10) "key_id": "kid" + "key": "key"
-      11) "key_ids": [...] + "key_values": [...]
     """
     keys: List[Dict[str, str]] = []
 
@@ -161,7 +148,6 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
         kval_s = str(kval).strip()
         if not kid_s or not kval_s:
             return
-        # Skip the literal "null" placeholder used by the feed
         if kid_s.lower() == "null" or kval_s.lower() == "null":
             return
         keys.append({"key_id": kid_s, "key": kval_s})
@@ -180,7 +166,7 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
             k1, k2 = s.split(":", 1)
             _add(k1, k2)
 
-    # ---- 1..4) "keys" field ----
+    # ---- "keys" field ----
     keys_field = channel.get("keys")
     if isinstance(keys_field, list):
         for item in keys_field:
@@ -205,7 +191,7 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
         for kid, kval in keys_field.items():
             _add(kid, kval)
 
-    # ---- 5..6) clearkey / clearkeys ----
+    # ---- clearkey / clearkeys ----
     if not keys:
         for field in ("clearkey", "clearkeys", "clearKeys", "clear_key"):
             ck = channel.get(field)
@@ -228,7 +214,7 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
                         _parse_any_string(item)
                 break
 
-    # ---- 7..10) keyId / key ----
+    # ---- keyId / key ----
     if not keys:
         kid_any = (
             channel.get("keyId")
@@ -252,7 +238,7 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
         else:
             _add(kid_any, kval_any)
 
-    # ---- 11) key_ids + key_values ----
+    # ---- key_ids + key_values ----
     if not keys:
         kid_list = channel.get("key_ids") or channel.get("keyIds")
         kval_list = channel.get("key_values") or channel.get("keyValues")
@@ -260,7 +246,7 @@ def extract_all_keys(channel) -> List[Dict[str, str]]:
             for a, b in zip(kid_list, kval_list):
                 _add(a, b)
 
-    # Deduplicate preserving order
+    # Dedup preserving order
     seen = set()
     unique = []
     for k in keys:
@@ -303,7 +289,6 @@ def get_sports_data() -> Dict[str, Any]:
         final_url = re.sub(r"/output/", "/WDVLive/", final_url, count=1, flags=re.I)
         clean_url, embedded_cookie = _extract_cookie_from_url(final_url)
 
-        # Reuse the same key extractor for sports-endpoint keys
         pseudo = {k: v for k, v in item.items() if k in (
             "keys", "clearkey", "clearkeys", "keyId", "key", "key_id",
             "key_ids", "key_values", "keyIds", "keyValues"
@@ -366,7 +351,6 @@ def create_channel_entry(channel, normal_cookie="", sports_cookies=None):
         channel, normal_cookie, sports_cookies
     )
 
-    # Merge channel keys + sports keys (channel first, dedup)
     merged = []
     seen = set()
     for k in (channel_keys + sports_keys):
@@ -440,7 +424,6 @@ def build_channel_object(channel, normal_cookie="", sports_cookies=None):
 
     exp_ts, exp_ist = get_cookie_expiry_details(cookie_to_use)
 
-    # Merge channel keys + sports keys (channel first, dedup)
     merged = []
     seen = set()
     for k in (channel_keys + sports_keys):
@@ -449,10 +432,9 @@ def build_channel_object(channel, normal_cookie="", sports_cookies=None):
             seen.add(sig)
             merged.append(k)
 
-    # -------- Output rules --------
-    # 1 unique key   → key_id/key filled, sportlink = null
-    # 2+ unique keys → key_id/key = null, sportlink = all keys as "kid:key"
-    # 0 keys         → everything null
+    # Output rules:
+    #   1 unique key   → key_id/key filled, sportlink = null
+    #   2+ unique keys → key_id/key = null, sportlink = all keys
     if len(merged) >= 2:
         key_id_out = None
         key_out = None
@@ -469,6 +451,8 @@ def build_channel_object(channel, normal_cookie="", sports_cookies=None):
     return {
         "id":                str(channel.get("id") or ""),
         "name":              channel.get("name") or "",
+        "category":          channel.get("category") or "",
+        "logo":              channel.get("logo") or "",
         "stream_url":        final_url,
         "cookie":            cookie_to_use,
         "cookie_expire":     exp_ts,
@@ -556,23 +540,6 @@ def main():
     if isinstance(channels, dict):
         channels = channels.get("channels") or channels.get("data") or []
     print(f"[INFO] Channels loaded: {len(channels)}")
-
-    # DEBUG: verify key parsing for sample channels
-    DEBUG_IDS = {"1106", "1108", "143", "144", "146", "540", "562"}
-    for ch in channels:
-        cid = str(ch.get("id") or "")
-        if cid in DEBUG_IDS:
-            try:
-                parsed = extract_all_keys(ch)
-                print(
-                    f"[DEBUG] id={cid} name={ch.get('name')!r} "
-                    f"keys={json.dumps(ch.get('keys'), ensure_ascii=False)} "
-                    f"keyId={json.dumps(ch.get('keyId'), ensure_ascii=False)} "
-                    f"key={json.dumps(ch.get('key'), ensure_ascii=False)} "
-                    f"-> parsed({len(parsed)})={parsed}"
-                )
-            except Exception as e:
-                print(f"[DEBUG] id={cid} dump failed: {e}")
 
     normal_cookie = get_normal_cookie()
     print(f"[INFO] Cookie: {'found' if normal_cookie else 'not found'}")
