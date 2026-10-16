@@ -9,7 +9,7 @@ from typing import Dict, Any, Tuple, List
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode, unquote
 
-CHANNELS_URL = "https://sportlink10-ajp.pages.dev/jtv.json"
+CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
 COOKIE_URL = "https://allinonereborn2.online/jstrweb2/cookies.json"
 SPORTS_COOKIE_URL = "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json"
 
