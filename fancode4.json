@@ -2,30 +2,106 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:44:59 AM 16-10-2026",
-    "generated_at": "2026-10-16 06:25:09",
+    "source_last_updated": "02:47:02 PM 16-10-2026",
+    "generated_at": "2026-10-16 09:30:05",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 39,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 35,
     "matches": [
         {
-            "event_category": "Tennis",
-            "match_id": "4248846_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Stadium Court [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4250221_ENG",
+            "title": "GSL Championship 2026 [English]",
+            "match_name": "TSV Malmsheim vs Koln CC [English]",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "Koln CC",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 16-10-2026",
+            "startTime": "02:00:00 PM 16-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248846_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250221_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248845_ENG",
+            "title": "ATP Masters - Rolex Shanghai Masters [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Shanghai, China",
+            "status": "LIVE",
+            "startTime": "12:00:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248845_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249834_ENG",
+            "title": "A-League 2026-27 [English]",
+            "match_name": "Sydney FC vs Western Sydney Wanderers [English]",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Western Sydney Wanderers",
+            "status": "LIVE",
+            "startTime": "02:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249834_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250145_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "QF - Court 1 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 1",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250145_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250146_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "QF - Court 2 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 2",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250146_ENG/english.m3u8"
                 }
             ]
         },
@@ -57,19 +133,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250220,
-            "title": "Darmstadt CC vs TSV Malmsheim (GSL Championship 2026)",
-            "match_name": "Darmstadt CC vs TSV Malmsheim",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
-            "team_1": "Darmstadt CC",
-            "team_2": "TSV Malmsheim",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249283,
             "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
             "match_name": "South Australia vs Queensland",
@@ -83,15 +146,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250221,
-            "title": "TSV Malmsheim vs Koln CC (GSL Championship 2026)",
-            "match_name": "TSV Malmsheim vs Koln CC",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
-            "team_1": "TSV Malmsheim",
-            "team_2": "Koln CC",
+            "match_id": 4250117,
+            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Canada vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
+            "team_1": "Canada",
+            "team_2": "Nepal",
             "status": "UPCOMING",
-            "startTime": "02:00:00 PM 16-10-2026",
+            "startTime": "11:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -160,19 +223,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249142,
-            "title": "Al-Qadsiah FC vs Abha Club (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Qadsiah FC vs Abha Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249142_53025_ALQ_ABC_FC-Web.png",
-            "team_1": "Al-Qadsiah FC",
-            "team_2": "Abha Club",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250192,
             "title": "Atlanta Fire Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
@@ -183,6 +233,19 @@
             "team_2": "Seattle Thunders Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249142,
+            "title": "Al-Qadsiah FC vs Abha Club (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Qadsiah FC vs Abha Club",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249142_53025_ALQ_ABC_FC-Web.png",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Abha Club",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -226,19 +289,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250117,
-            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Canada vs Nepal",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
-            "team_1": "Canada",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249794,
             "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
@@ -261,19 +311,6 @@
             "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
             "startTime": "04:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248845,
-            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -303,6 +340,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4249994,
+            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Córdoba",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250225,
             "title": "Koln CC vs ICA Berlin (GSL Championship 2026)",
@@ -329,16 +379,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Córdoba",
+            "event_category": "Cricket",
+            "match_id": 4249694,
+            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
             "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
+            "startTime": "05:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -352,58 +402,6 @@
             "team_2": "THCC Rot-Gelb Hamburg",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249834,
-            "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
-            "match_name": "Sydney FC vs Western Sydney Wanderers",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250145,
-            "title": "QF - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 1",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 1",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250146,
-            "title": "QF - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 2",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 2",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249694,
-            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
-            "match_name": "Bangladesh vs Zimbabwe",
-            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Zimbabwe",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -434,19 +432,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249835,
-            "title": "Auckland vs Melbourne City (A-League 2026-27)",
-            "match_name": "Auckland vs Melbourne City",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne City",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247654,
             "title": "RCD Espanyol vs Atletico de Madrid (LALIGA 2026-27)",
             "match_name": "RCD Espanyol vs Atletico de Madrid",
@@ -469,19 +454,6 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249836,
-            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
-            "match_name": "Macarthur vs Perth Glory",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -511,16 +483,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250147,
-            "title": "Semi-Final vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Semi-Final",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Semi-Final",
-            "team_2": "Denmark",
+            "event_category": "Football",
+            "match_id": 4249835,
+            "title": "Auckland vs Melbourne City (A-League 2026-27)",
+            "match_name": "Auckland vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
             "status": "UPCOMING",
-            "startTime": "12:30:00 PM 17-10-2026",
+            "startTime": "09:30:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -535,25 +507,153 @@
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 17-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249596,
+            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
+            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247652,
+            "title": "Villarreal CF vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Villarreal CF vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247652_53004_VIL_ELC_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250229,
+            "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "TSV Malmsheim vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250229_53117_TSV_THCC_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249836,
+            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
+            "match_name": "Macarthur vs Perth Glory",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 17-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
-            "event_category": "Tennis",
-            "match_id": "4248846_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Stadium Court [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4250221_ENG",
+            "title": "GSL Championship 2026 [English]",
+            "match_name": "TSV Malmsheim vs Koln CC [English]",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "Koln CC",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 16-10-2026",
+            "startTime": "02:00:00 PM 16-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248846_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250221_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248845_ENG",
+            "title": "ATP Masters - Rolex Shanghai Masters [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Shanghai, China",
+            "status": "LIVE",
+            "startTime": "12:00:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248845_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249834_ENG",
+            "title": "A-League 2026-27 [English]",
+            "match_name": "Sydney FC vs Western Sydney Wanderers [English]",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Western Sydney Wanderers",
+            "status": "LIVE",
+            "startTime": "02:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249834_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250145_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "QF - Court 1 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 1",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250145_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": "4250146_ENG",
+            "title": "BWF Super 750 - Denmark Open 2026 [English]",
+            "match_name": "QF - Court 2 [English]",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 2",
+            "team_2": "Denmark",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250146_ENG/english.m3u8"
                 }
             ]
         }
@@ -587,19 +687,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250220,
-            "title": "Darmstadt CC vs TSV Malmsheim (GSL Championship 2026)",
-            "match_name": "Darmstadt CC vs TSV Malmsheim",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
-            "team_1": "Darmstadt CC",
-            "team_2": "TSV Malmsheim",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249283,
             "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
             "match_name": "South Australia vs Queensland",
@@ -613,15 +700,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250221,
-            "title": "TSV Malmsheim vs Koln CC (GSL Championship 2026)",
-            "match_name": "TSV Malmsheim vs Koln CC",
-            "event_name": "GSL Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
-            "team_1": "TSV Malmsheim",
-            "team_2": "Koln CC",
+            "match_id": 4250117,
+            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Canada vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
+            "team_1": "Canada",
+            "team_2": "Nepal",
             "status": "UPCOMING",
-            "startTime": "02:00:00 PM 16-10-2026",
+            "startTime": "11:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -690,19 +777,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249142,
-            "title": "Al-Qadsiah FC vs Abha Club (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Qadsiah FC vs Abha Club",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249142_53025_ALQ_ABC_FC-Web.png",
-            "team_1": "Al-Qadsiah FC",
-            "team_2": "Abha Club",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250192,
             "title": "Atlanta Fire Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
@@ -713,6 +787,19 @@
             "team_2": "Seattle Thunders Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 16-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249142,
+            "title": "Al-Qadsiah FC vs Abha Club (Roshn Saudi League 2026-2027)",
+            "match_name": "Al-Qadsiah FC vs Abha Club",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249142_53025_ALQ_ABC_FC-Web.png",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Abha Club",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -756,19 +843,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250117,
-            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Canada vs Nepal",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
-            "team_1": "Canada",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249794,
             "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
             "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
@@ -791,19 +865,6 @@
             "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
             "startTime": "04:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248845,
-            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026",
             "user-agent": null
         },
         {
@@ -833,6 +894,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4249994,
+            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Córdoba",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Córdoba",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 17-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250225,
             "title": "Koln CC vs ICA Berlin (GSL Championship 2026)",
@@ -859,16 +933,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Córdoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Córdoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Córdoba",
+            "event_category": "Cricket",
+            "match_id": 4249694,
+            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
             "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
+            "startTime": "05:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -882,58 +956,6 @@
             "team_2": "THCC Rot-Gelb Hamburg",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249834,
-            "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
-            "match_name": "Sydney FC vs Western Sydney Wanderers",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250145,
-            "title": "QF - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 1",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 1",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250146,
-            "title": "QF - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 2",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 2",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249694,
-            "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
-            "match_name": "Bangladesh vs Zimbabwe",
-            "event_name": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Zimbabwe",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -964,19 +986,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249835,
-            "title": "Auckland vs Melbourne City (A-League 2026-27)",
-            "match_name": "Auckland vs Melbourne City",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne City",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247654,
             "title": "RCD Espanyol vs Atletico de Madrid (LALIGA 2026-27)",
             "match_name": "RCD Espanyol vs Atletico de Madrid",
@@ -999,19 +1008,6 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249836,
-            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
-            "match_name": "Macarthur vs Perth Glory",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -1041,16 +1037,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250147,
-            "title": "Semi-Final vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Semi-Final",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Semi-Final",
-            "team_2": "Denmark",
+            "event_category": "Football",
+            "match_id": 4249835,
+            "title": "Auckland vs Melbourne City (A-League 2026-27)",
+            "match_name": "Auckland vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
             "status": "UPCOMING",
-            "startTime": "12:30:00 PM 17-10-2026",
+            "startTime": "09:30:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -1064,6 +1060,58 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249596,
+            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
+            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247652,
+            "title": "Villarreal CF vs Elche CF (LALIGA 2026-27)",
+            "match_name": "Villarreal CF vs Elche CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247652_53004_VIL_ELC_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250229,
+            "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
+            "match_name": "TSV Malmsheim vs THCC Rot-Gelb Hamburg",
+            "event_name": "GSL Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250229_53117_TSV_THCC_fc-web.jpg",
+            "team_1": "TSV Malmsheim",
+            "team_2": "THCC Rot-Gelb Hamburg",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249836,
+            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
+            "match_name": "Macarthur vs Perth Glory",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 17-10-2026",
             "user-agent": null
         }
     ]
