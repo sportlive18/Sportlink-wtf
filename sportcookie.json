@@ -2,7 +2,7 @@
   "total_channels": 87,
   "successful_channels": 0,
   "failed_channels": 174,
-  "timestamp": "2026-11-03 14:25:31",
+  "timestamp": "2026-11-03 14:30:15",
   "successful_results": [],
   "failed_results": [
     {
@@ -32,7 +32,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1793711859~exp=1793715459~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=448d8771305a23bb225f9631063494d0f885a5b8787b352a1932595ed43cf08c"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1793716069~exp=1793719669~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=601480aaf01ab90ed48dbde71cd2dfa2644d453cea7459d78bb988a184c4e38c"
       }
     },
     {
@@ -62,7 +62,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1793712414~exp=1793716014~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=ed1365ebec83a4f37de745bc1a95e65e33200bbcb82d894d0e6129c0b709b19c"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1793715925~exp=1793719525~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=a5d4d2ad90788d8bafa577e9da327e3d8942e4a0a2c43a18f03e73fd728aa8c5"
       }
     },
     {
@@ -280,9 +280,9 @@
       "channel_name": "Nat Geo Wild HD",
       "status": "failed",
       "error_details": {
-        "http_code": 302,
-        "error": "Connection timed out after 15689 milliseconds",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793711300~exp=1793714900~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=1fd29c6ee7632fcdd1c2fb92936061d43225969b5c0d10b4877279bb1b46e596"
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793715796~exp=1793719396~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=3cdcce0f81563a1f066ad093326edce93467ade20d5b6e62224be2ccd7373212"
       }
     },
     {
@@ -902,7 +902,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1793711859~exp=1793715459~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=448d8771305a23bb225f9631063494d0f885a5b8787b352a1932595ed43cf08c"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1793716069~exp=1793719669~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=601480aaf01ab90ed48dbde71cd2dfa2644d453cea7459d78bb988a184c4e38c"
       }
     },
     {
@@ -932,7 +932,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1793712414~exp=1793716014~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=ed1365ebec83a4f37de745bc1a95e65e33200bbcb82d894d0e6129c0b709b19c"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1793715925~exp=1793719525~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=a5d4d2ad90788d8bafa577e9da327e3d8942e4a0a2c43a18f03e73fd728aa8c5"
       }
     },
     {
@@ -1150,9 +1150,9 @@
       "channel_name": "Nat Geo Wild HD",
       "status": "failed",
       "error_details": {
-        "http_code": 302,
-        "error": "Connection timed out after 15689 milliseconds",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793711300~exp=1793714900~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=1fd29c6ee7632fcdd1c2fb92936061d43225969b5c0d10b4877279bb1b46e596"
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793715796~exp=1793719396~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=3cdcce0f81563a1f066ad093326edce93467ade20d5b6e62224be2ccd7373212"
       }
     },
     {
