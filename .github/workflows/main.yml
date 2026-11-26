@@ -1,0 +1,75 @@
+name: Update Sony update json
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/sony2.py'
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch and Reset to Remote
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+
+      - name: Run sony2.py
+        run: python scripts/sony2.py
+
+      - name: Debug Output File
+        run: |
+          echo "Checking for output file..."
+          ls -la sony.json || echo "sony.json is missing!"
+
+      - name: Commit and Push Changes
+        run: |
+          git add -f sony.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update sony.json ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            git push origin main && break
+            echo "Push failed, retrying ($i)..."
+            sleep $((RANDOM % 10 + 1))
+          done
